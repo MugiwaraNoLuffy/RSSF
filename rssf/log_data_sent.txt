@@ -1,0 +1,2516 @@
+2015-06-14 12:30:43.371840 getlocaldata: conexao com banco local realizada
+2015-06-14 12:30:43.650640 getlocaldata: Loaded data from local database
+2015-06-14 12:30:43.655909 senddata: Sending samples to the server.
+2015-06-14 12:30:46.502282 senddata: All data has been sent to server.
+2015-06-14 12:30:46.502568 senddata: Deleting local data.
+2015-06-14 12:30:46.547655 senddata: Data has been deleted.
+2015-06-14 12:40:42.026483 getlocaldata: conexao com banco local realizada
+2015-06-14 12:40:42.056417 getlocaldata: Loaded data from local database
+2015-06-14 12:40:42.072207 senddata: Sending samples to the server.
+2015-06-14 12:40:43.223411 senddata: All data has been sent to server.
+2015-06-14 12:40:43.223698 senddata: Deleting local data.
+2015-06-14 12:40:43.245548 senddata: Data has been deleted.
+2015-06-14 12:50:42.632997 getlocaldata: conexao com banco local realizada
+2015-06-14 12:50:42.662671 getlocaldata: Loaded data from local database
+2015-06-14 12:50:42.667845 senddata: Sending samples to the server.
+2015-06-14 12:50:44.456117 senddata: All data has been sent to server.
+2015-06-14 12:50:44.456402 senddata: Deleting local data.
+2015-06-14 12:50:44.478102 senddata: Data has been deleted.
+2015-06-14 13:00:42.296097 getlocaldata: conexao com banco local realizada
+2015-06-14 13:00:42.325738 getlocaldata: Loaded data from local database
+2015-06-14 13:00:42.341521 senddata: Sending samples to the server.
+2015-06-14 13:00:43.256567 senddata: All data has been sent to server.
+2015-06-14 13:00:43.256854 senddata: Deleting local data.
+2015-06-14 13:00:43.278641 senddata: Data has been deleted.
+2015-06-14 13:10:19.675717 getlocaldata: conexao com banco local realizada
+2015-06-14 13:10:19.750762 getlocaldata: Loaded data from local database
+2015-06-14 13:10:19.756612 senddata: Sending samples to the server.
+2015-06-14 13:10:22.105975 senddata: All data has been sent to server.
+2015-06-14 13:10:22.106261 senddata: Deleting local data.
+2015-06-14 13:10:22.136206 senddata: Data has been deleted.
+2015-06-14 13:20:42.044981 getlocaldata: conexao com banco local realizada
+2015-06-14 13:20:42.076858 getlocaldata: Loaded data from local database
+2015-06-14 13:20:42.087624 senddata: Sending samples to the server.
+2015-06-14 13:20:43.512152 senddata: All data has been sent to server.
+2015-06-14 13:20:43.512439 senddata: Deleting local data.
+2015-06-14 13:20:45.002434 senddata: Data has been deleted.
+2015-06-14 13:30:41.989569 getlocaldata: conexao com banco local realizada
+2015-06-14 13:30:42.019914 getlocaldata: Loaded data from local database
+2015-06-14 13:30:42.025128 senddata: Sending samples to the server.
+2015-06-14 13:30:43.249067 senddata: All data has been sent to server.
+2015-06-14 13:30:43.249668 senddata: Deleting local data.
+2015-06-14 13:30:43.271227 senddata: Data has been deleted.
+2015-06-14 13:40:42.022882 getlocaldata: conexao com banco local realizada
+2015-06-14 13:40:42.052927 getlocaldata: Loaded data from local database
+2015-06-14 13:40:42.057863 senddata: Sending samples to the server.
+2015-06-14 13:40:43.206816 senddata: All data has been sent to server.
+2015-06-14 13:40:43.207106 senddata: Deleting local data.
+2015-06-14 13:40:44.540563 senddata: Data has been deleted.
+2015-06-14 13:50:42.136175 getlocaldata: conexao com banco local realizada
+2015-06-14 13:50:42.166195 getlocaldata: Loaded data from local database
+2015-06-14 13:50:42.182310 senddata: Sending samples to the server.
+2015-06-14 13:50:43.404009 senddata: All data has been sent to server.
+2015-06-14 13:50:43.404295 senddata: Deleting local data.
+2015-06-14 13:50:44.261667 senddata: Data has been deleted.
+2015-06-14 14:00:20.072019 getlocaldata: conexao com banco local realizada
+2015-06-14 14:00:21.000097 senddata: Sending samples to the server.
+2015-06-14 14:00:22.900245 senddata: All data has been sent to server.
+2015-06-14 14:00:22.910700 senddata: Deleting local data.
+2015-06-14 14:00:22.947867 senddata: Data has been deleted.
+2015-06-14 14:10:19.903745 getlocaldata: conexao com banco local realizada
+2015-06-14 14:10:19.978457 getlocaldata: Loaded data from local database
+2015-06-14 14:10:19.983759 senddata: Sending samples to the server.
+2015-06-14 14:10:21.884844 senddata: All data has been sent to server.
+2015-06-14 14:10:21.885130 senddata: Deleting local data.
+2015-06-14 14:10:21.968558 senddata: Data has been deleted.
+2015-06-14 14:10:42.364378 getlocaldata: conexao com banco local realizada
+2015-06-14 14:10:42.420585 getlocaldata: Loaded data from local database
+2015-06-14 14:10:42.433515 senddata: Sending samples to the server.
+2015-06-14 14:10:43.758621 senddata: All data has been sent to server.
+2015-06-14 14:10:43.758909 senddata: Deleting local data.
+2015-06-14 14:20:20.008410 getlocaldata: conexao com banco local realizada
+2015-06-14 14:20:20.080776 getlocaldata: Loaded data from local database
+2015-06-14 14:20:20.093492 senddata: Sending samples to the server.
+2015-06-14 14:20:21.752728 senddata: All data has been sent to server. 
+2015-06-14 14:20:21.753011 senddata: Deleting local data.
+2015-06-14 14:20:22.391200 senddata: Data has been deleted.
+2015-06-14 14:30:20.449584 getlocaldata: conexao com banco local realizada
+2015-06-14 14:30:20.528980 getlocaldata: Loaded data from local database
+2015-06-14 14:30:20.534708 senddata: Sending samples to the server.
+2015-06-14 14:30:22.787048 senddata: All data has been sent to server. 
+2015-06-14 14:30:22.787337 senddata: Deleting local data.
+2015-06-14 14:30:23.947611 senddata: Data has been deleted.
+2015-06-14 14:40:20.125961 getlocaldata: conexao com banco local realizada
+2015-06-14 14:40:20.250444 getlocaldata: Loaded data from local database
+2015-06-14 14:40:20.255415 senddata: Sending samples to the server.
+2015-06-14 14:40:22.172638 senddata: All data has been sent to server. 
+2015-06-14 14:40:22.172920 senddata: Deleting local data.
+2015-06-14 14:40:22.204765 senddata: Data has been deleted.
+2015-06-14 14:50:20.197318 getlocaldata: conexao com banco local realizada
+2015-06-14 14:50:20.281036 getlocaldata: Loaded data from local database
+2015-06-14 14:50:20.286335 senddata: Sending samples to the server.
+2015-06-14 14:50:27.001562 senddata: All data has been sent to server. 
+2015-06-14 14:50:27.001851 senddata: Deleting local data.
+2015-06-14 14:50:27.033882 senddata: Data has been deleted.
+2015-06-14 15:00:20.646096 getlocaldata: conexao com banco local realizada
+2015-06-14 15:00:20.720741 getlocaldata: Loaded data from local database
+2015-06-14 15:00:20.732106 senddata: Sending samples to the server.
+2015-06-14 15:00:22.949661 senddata: All data has been sent to server. 
+2015-06-14 15:00:22.949946 senddata: Deleting local data.
+2015-06-14 15:00:22.983173 senddata: Data has been deleted.
+2015-06-14 15:10:20.744122 getlocaldata: conexao com banco local realizada
+2015-06-14 15:10:20.821040 getlocaldata: Loaded data from local database
+2015-06-14 15:10:20.826338 senddata: Sending samples to the server.
+2015-06-14 15:10:22.482459 senddata: All data has been sent to server. 
+2015-06-14 15:10:22.482746 senddata: Deleting local data.
+2015-06-14 15:10:22.512655 senddata: Data has been deleted.
+2015-06-14 15:20:20.446664 getlocaldata: conexao com banco local realizada
+2015-06-14 15:20:20.526220 getlocaldata: Loaded data from local database
+2015-06-14 15:20:20.536326 senddata: Sending samples to the server.
+2015-06-14 15:20:21.984018 senddata: All data has been sent to server. 
+2015-06-14 15:20:21.984302 senddata: Deleting local data.
+2015-06-14 15:20:22.014693 senddata: Data has been deleted.
+2015-06-14 15:30:20.533230 getlocaldata: conexao com banco local realizada
+2015-06-14 15:30:20.610896 getlocaldata: Loaded data from local database
+2015-06-14 15:30:20.616526 senddata: Sending samples to the server.
+2015-06-14 15:30:27.426896 senddata: All data has been sent to server. 
+2015-06-14 15:30:27.427183 senddata: Deleting local data.
+2015-06-14 15:30:27.457399 senddata: Data has been deleted.
+2015-06-14 15:40:20.675932 getlocaldata: conexao com banco local realizada
+2015-06-14 15:40:20.770969 getlocaldata: Loaded data from local database
+2015-06-14 15:40:20.782489 senddata: Sending samples to the server.
+2015-06-14 15:40:22.432637 senddata: All data has been sent to server. 
+2015-06-14 15:40:22.432924 senddata: Deleting local data.
+2015-06-14 15:40:22.496973 senddata: Data has been deleted.
+2015-06-14 15:50:21.077747 getlocaldata: conexao com banco local realizada
+2015-06-14 15:50:21.181268 getlocaldata: Loaded data from local database
+2015-06-14 15:50:21.186318 senddata: Sending samples to the server.
+2015-06-14 15:50:23.086842 senddata: All data has been sent to server. 
+2015-06-14 15:50:23.087126 senddata: Deleting local data.
+2015-06-14 15:50:23.132881 senddata: Data has been deleted.
+2015-06-14 16:00:20.778824 getlocaldata: conexao com banco local realizada
+2015-06-14 16:00:20.858814 getlocaldata: Loaded data from local database
+2015-06-14 16:00:20.864396 senddata: Sending samples to the server.
+2015-06-14 16:00:22.666259 senddata: All data has been sent to server. 
+2015-06-14 16:00:22.666544 senddata: Deleting local data.
+2015-06-14 16:00:23.987102 senddata: Data has been deleted.
+2015-06-14 16:10:20.846345 getlocaldata: conexao com banco local realizada
+2015-06-14 16:10:20.926480 getlocaldata: Loaded data from local database
+2015-06-14 16:10:20.936473 senddata: Sending samples to the server.
+2015-06-14 16:10:22.654856 senddata: All data has been sent to server. 
+2015-06-14 16:10:22.655139 senddata: Deleting local data.
+2015-06-14 16:10:22.685381 senddata: Data has been deleted.
+2015-06-14 16:20:20.937944 getlocaldata: conexao com banco local realizada
+2015-06-14 16:20:21.018899 getlocaldata: Loaded data from local database
+2015-06-14 16:20:21.024285 senddata: Sending samples to the server.
+2015-06-14 16:20:22.746749 senddata: All data has been sent to server. 
+2015-06-14 16:20:22.747036 senddata: Deleting local data.
+2015-06-14 16:20:22.808903 senddata: Data has been deleted.
+2015-06-14 16:30:21.012934 getlocaldata: conexao com banco local realizada
+2015-06-14 16:30:21.091174 getlocaldata: Loaded data from local database
+2015-06-14 16:30:21.096530 senddata: Sending samples to the server.
+2015-06-14 16:30:22.993471 senddata: All data has been sent to server. 
+2015-06-14 16:30:22.993760 senddata: Deleting local data.
+2015-06-14 16:30:23.025644 senddata: Data has been deleted.
+2015-06-14 16:40:21.106176 getlocaldata: conexao com banco local realizada
+2015-06-14 16:40:21.180733 getlocaldata: Loaded data from local database
+2015-06-14 16:40:21.192366 senddata: Sending samples to the server.
+2015-06-14 16:40:22.893224 senddata: All data has been sent to server. 
+2015-06-14 16:40:22.893510 senddata: Deleting local data.
+2015-06-14 16:40:22.955349 senddata: Data has been deleted.
+2015-06-14 16:50:21.347726 getlocaldata: conexao com banco local realizada
+2015-06-14 16:50:21.431402 getlocaldata: Loaded data from local database
+2015-06-14 16:50:21.436551 senddata: Sending samples to the server.
+2015-06-14 16:50:23.681045 senddata: All data has been sent to server. 
+2015-06-14 16:50:23.681334 senddata: Deleting local data.
+2015-06-14 16:50:23.743870 senddata: Data has been deleted.
+2015-06-14 17:00:21.632207 getlocaldata: conexao com banco local realizada
+2015-06-14 17:00:21.710823 getlocaldata: Loaded data from local database
+2015-06-14 17:00:21.716429 senddata: Sending samples to the server.
+2015-06-14 17:00:24.048407 senddata: All data has been sent to server. 
+2015-06-14 17:00:24.048697 senddata: Deleting local data.
+2015-06-14 17:00:24.079877 senddata: Data has been deleted.
+2015-06-14 17:10:21.757078 getlocaldata: conexao com banco local realizada
+2015-06-14 17:10:21.836116 getlocaldata: Loaded data from local database
+2015-06-14 17:10:21.847778 senddata: Sending samples to the server.
+2015-06-14 17:10:23.590442 senddata: All data has been sent to server. 
+2015-06-14 17:10:23.590729 senddata: Deleting local data.
+2015-06-14 17:10:23.622906 senddata: Data has been deleted.
+2015-06-14 17:20:21.394888 getlocaldata: conexao com banco local realizada
+2015-06-14 17:20:21.475893 getlocaldata: Loaded data from local database
+2015-06-14 17:20:21.486012 senddata: Sending samples to the server.
+2015-06-14 17:20:23.159108 senddata: All data has been sent to server. 
+2015-06-14 17:20:23.159599 senddata: Deleting local data.
+2015-06-14 17:20:23.191990 senddata: Data has been deleted.
+2015-06-14 17:30:21.415678 getlocaldata: conexao com banco local realizada
+2015-06-14 17:30:21.495350 getlocaldata: Loaded data from local database
+2015-06-14 17:30:21.506019 senddata: Sending samples to the server.
+2015-06-14 17:30:23.907381 senddata: All data has been sent to server. 
+2015-06-14 17:30:23.907670 senddata: Deleting local data.
+2015-06-14 17:30:23.945856 senddata: Data has been deleted.
+2015-06-14 17:40:21.913309 getlocaldata: conexao com banco local realizada
+2015-06-14 17:40:21.990570 getlocaldata: Loaded data from local database
+2015-06-14 17:40:21.996226 senddata: Sending samples to the server.
+2015-06-14 17:40:23.568884 senddata: All data has been sent to server. 
+2015-06-14 17:40:23.569369 senddata: Deleting local data.
+2015-06-14 17:40:23.631284 senddata: Data has been deleted.
+2015-06-14 17:50:21.529099 getlocaldata: conexao com banco local realizada
+2015-06-14 17:50:21.607939 getlocaldata: Loaded data from local database
+2015-06-14 17:50:21.613318 senddata: Sending samples to the server.
+2015-06-14 17:50:23.243618 senddata: All data has been sent to server. 
+2015-06-14 17:50:23.243907 senddata: Deleting local data.
+2015-06-14 17:50:23.307113 senddata: Data has been deleted.
+2015-06-14 18:00:21.588087 getlocaldata: conexao com banco local realizada
+2015-06-14 18:00:21.665738 getlocaldata: Loaded data from local database
+2015-06-14 18:00:21.676682 senddata: Sending samples to the server.
+2015-06-14 18:00:25.381959 senddata: All data has been sent to server. 
+2015-06-14 18:00:25.382249 senddata: Deleting local data.
+2015-06-14 18:00:25.425538 senddata: Data has been deleted.
+2015-06-14 18:10:21.965162 getlocaldata: conexao com banco local realizada
+2015-06-14 18:10:22.040737 getlocaldata: Loaded data from local database
+2015-06-14 18:10:22.051515 senddata: Sending samples to the server.
+2015-06-14 18:10:24.967999 senddata: All data has been sent to server. 
+2015-06-14 18:10:24.968281 senddata: Deleting local data.
+2015-06-14 18:10:25.010346 senddata: Data has been deleted.
+2015-06-14 18:20:21.772916 getlocaldata: conexao com banco local realizada
+2015-06-14 18:20:21.850756 getlocaldata: Loaded data from local database
+2015-06-14 18:20:21.863073 senddata: Sending samples to the server.
+2015-06-14 18:20:23.527129 senddata: All data has been sent to server. 
+2015-06-14 18:20:23.527418 senddata: Deleting local data.
+2015-06-14 18:20:23.589226 senddata: Data has been deleted.
+2015-06-14 18:30:21.852143 getlocaldata: conexao com banco local realizada
+2015-06-14 18:30:21.931208 getlocaldata: Loaded data from local database
+2015-06-14 18:30:21.936466 senddata: Sending samples to the server.
+2015-06-14 18:30:23.789481 senddata: All data has been sent to server. 
+2015-06-14 18:30:23.789773 senddata: Deleting local data.
+2015-06-14 18:30:23.830546 senddata: Data has been deleted.
+2015-06-14 18:40:22.200144 getlocaldata: conexao com banco local realizada
+2015-06-14 18:40:22.281369 getlocaldata: Loaded data from local database
+2015-06-14 18:40:22.286584 senddata: Sending samples to the server.
+2015-06-14 18:40:24.706758 senddata: All data has been sent to server. 
+2015-06-14 18:40:24.707039 senddata: Deleting local data.
+2015-06-14 18:40:24.737496 senddata: Data has been deleted.
+2015-06-14 18:50:22.015934 getlocaldata: conexao com banco local realizada
+2015-06-14 18:50:22.096294 getlocaldata: Loaded data from local database
+2015-06-14 18:50:22.106238 senddata: Sending samples to the server.
+2015-06-14 18:50:23.931310 senddata: All data has been sent to server. 
+2015-06-14 18:50:23.931593 senddata: Deleting local data.
+2015-06-14 18:50:23.993484 senddata: Data has been deleted.
+2015-06-14 19:00:22.104482 getlocaldata: conexao com banco local realizada
+2015-06-14 19:00:22.180828 getlocaldata: Loaded data from local database
+2015-06-14 19:00:22.193503 senddata: Sending samples to the server.
+2015-06-14 19:00:29.402685 senddata: All data has been sent to server. 
+2015-06-14 19:00:29.402969 senddata: Deleting local data.
+2015-06-14 19:00:29.485443 senddata: Data has been deleted.
+2015-06-14 19:10:22.205103 getlocaldata: conexao com banco local realizada
+2015-06-14 19:10:22.283693 getlocaldata: Loaded data from local database
+2015-06-14 19:10:22.288844 senddata: Sending samples to the server.
+2015-06-14 19:10:24.839562 senddata: All data has been sent to server. 
+2015-06-14 19:10:24.839849 senddata: Deleting local data.
+2015-06-14 19:10:24.896984 senddata: Data has been deleted.
+2015-06-14 19:20:23.357560 getlocaldata: conexao com banco local realizada
+2015-06-14 19:20:23.497230 getlocaldata: Loaded data from local database
+2015-06-14 19:20:23.502743 senddata: Sending samples to the server.
+2015-06-14 19:20:25.767337 senddata: All data has been sent to server. 
+2015-06-14 19:20:25.767623 senddata: Deleting local data.
+2015-06-14 19:20:25.815410 senddata: Data has been deleted.
+2015-06-14 19:30:22.317461 getlocaldata: conexao com banco local realizada
+2015-06-14 19:30:22.480849 getlocaldata: Loaded data from local database
+2015-06-14 19:30:22.486174 senddata: Sending samples to the server.
+2015-06-14 19:30:24.337926 senddata: All data has been sent to server. 
+2015-06-14 19:30:24.338213 senddata: Deleting local data.
+2015-06-14 19:30:24.370436 senddata: Data has been deleted.
+2015-06-14 19:40:22.301107 getlocaldata: conexao com banco local realizada
+2015-06-14 19:40:22.380254 getlocaldata: Loaded data from local database
+2015-06-14 19:40:22.385893 senddata: Sending samples to the server.
+2015-06-14 19:40:24.646421 senddata: All data has been sent to server. 
+2015-06-14 19:40:24.646708 senddata: Deleting local data.
+2015-06-14 19:40:24.708636 senddata: Data has been deleted.
+2015-06-14 19:50:22.305259 getlocaldata: conexao com banco local realizada
+2015-06-14 19:50:22.385050 getlocaldata: Loaded data from local database
+2015-06-14 19:50:22.394530 senddata: Sending samples to the server.
+2015-06-14 19:50:24.628693 senddata: All data has been sent to server. 
+2015-06-14 19:50:24.628983 senddata: Deleting local data.
+2015-06-14 19:50:26.988991 senddata: Data has been deleted.
+2015-06-14 20:00:22.373155 getlocaldata: conexao com banco local realizada
+2015-06-14 20:00:22.450740 getlocaldata: Loaded data from local database
+2015-06-14 20:00:22.456344 senddata: Sending samples to the server.
+2015-06-14 20:00:24.390926 senddata: All data has been sent to server. 
+2015-06-14 20:00:24.391212 senddata: Deleting local data.
+2015-06-14 20:00:24.436739 senddata: Data has been deleted.
+2015-06-14 20:10:22.831086 getlocaldata: conexao com banco local realizada
+2015-06-14 20:10:22.911248 getlocaldata: Loaded data from local database
+2015-06-14 20:10:22.916427 senddata: Sending samples to the server.
+2015-06-14 20:10:25.209758 senddata: All data has been sent to server. 
+2015-06-14 20:10:25.210045 senddata: Deleting local data.
+2015-06-14 20:10:25.272726 senddata: Data has been deleted.
+2015-06-14 20:20:22.892057 getlocaldata: conexao com banco local realizada
+2015-06-14 20:20:22.971244 getlocaldata: Loaded data from local database
+2015-06-14 20:20:22.976320 senddata: Sending samples to the server.
+2015-06-14 20:20:25.152019 senddata: All data has been sent to server. 
+2015-06-14 20:20:25.152303 senddata: Deleting local data.
+2015-06-14 20:20:26.311337 senddata: Data has been deleted.
+2015-06-14 20:30:22.583391 getlocaldata: conexao com banco local realizada
+2015-06-14 20:30:22.658389 getlocaldata: Loaded data from local database
+2015-06-14 20:30:22.667920 senddata: Sending samples to the server.
+2015-06-14 20:30:24.496407 senddata: All data has been sent to server. 
+2015-06-14 20:30:24.496692 senddata: Deleting local data.
+2015-06-14 20:30:24.526934 senddata: Data has been deleted.
+2015-06-14 20:40:22.676427 getlocaldata: conexao com banco local realizada
+2015-06-14 20:40:22.751007 getlocaldata: Loaded data from local database
+2015-06-14 20:40:22.762258 senddata: Sending samples to the server.
+2015-06-14 20:40:25.103019 senddata: All data has been sent to server. 
+2015-06-14 20:40:25.103416 senddata: Deleting local data.
+2015-06-14 20:40:25.189553 senddata: Data has been deleted.
+2015-06-14 20:50:22.735533 getlocaldata: conexao com banco local realizada
+2015-06-14 20:50:22.811034 getlocaldata: Loaded data from local database
+2015-06-14 20:50:22.821576 senddata: Sending samples to the server.
+2015-06-14 20:50:24.272553 senddata: All data has been sent to server. 
+2015-06-14 20:50:24.272839 senddata: Deleting local data.
+2015-06-14 20:50:24.303500 senddata: Data has been deleted.
+2015-06-14 21:00:22.788149 getlocaldata: conexao com banco local realizada
+2015-06-14 21:00:22.866099 getlocaldata: Loaded data from local database
+2015-06-14 21:00:22.877459 senddata: Sending samples to the server.
+2015-06-14 21:00:25.178766 senddata: All data has been sent to server. 
+2015-06-14 21:00:25.179053 senddata: Deleting local data.
+2015-06-14 21:00:25.209998 senddata: Data has been deleted.
+2015-06-14 21:10:23.124418 getlocaldata: conexao com banco local realizada
+2015-06-14 21:10:23.200788 getlocaldata: Loaded data from local database
+2015-06-14 21:10:23.205882 senddata: Sending samples to the server.
+2015-06-14 21:10:25.038916 senddata: All data has been sent to server. 
+2015-06-14 21:10:25.039413 senddata: Deleting local data.
+2015-06-14 21:10:25.077836 senddata: Data has been deleted.
+2015-06-14 21:20:23.295287 getlocaldata: conexao com banco local realizada
+2015-06-14 21:20:23.374557 getlocaldata: Loaded data from local database
+2015-06-14 21:20:23.386581 senddata: Sending samples to the server.
+2015-06-14 21:20:25.646852 senddata: All data has been sent to server. 
+2015-06-14 21:20:25.647131 senddata: Deleting local data.
+2015-06-14 21:20:25.709029 senddata: Data has been deleted.
+2015-06-14 21:30:22.936727 getlocaldata: conexao com banco local realizada
+2015-06-14 21:30:23.016259 getlocaldata: Loaded data from local database
+2015-06-14 21:30:23.027334 senddata: Sending samples to the server.
+2015-06-14 21:30:25.448007 senddata: All data has been sent to server. 
+2015-06-14 21:30:25.448290 senddata: Deleting local data.
+2015-06-14 21:30:27.856195 senddata: Data has been deleted.
+2015-06-14 21:40:23.010689 getlocaldata: conexao com banco local realizada
+2015-06-14 21:40:23.091075 getlocaldata: Loaded data from local database
+2015-06-14 21:40:23.096321 senddata: Sending samples to the server.
+2015-06-14 21:40:24.867199 senddata: All data has been sent to server. 
+2015-06-14 21:40:24.867479 senddata: Deleting local data.
+2015-06-14 21:40:24.928901 senddata: Data has been deleted.
+2015-06-14 21:50:23.021919 getlocaldata: conexao com banco local realizada
+2015-06-14 21:50:23.101063 getlocaldata: Loaded data from local database
+2015-06-14 21:50:23.106300 senddata: Sending samples to the server.
+2015-06-14 21:50:24.834492 senddata: All data has been sent to server. 
+2015-06-14 21:50:24.834776 senddata: Deleting local data.
+2015-06-14 21:50:24.866379 senddata: Data has been deleted.
+2015-06-14 22:00:23.097229 getlocaldata: conexao com banco local realizada
+2015-06-14 22:00:23.240798 getlocaldata: Loaded data from local database
+2015-06-14 22:00:23.261140 senddata: Sending samples to the server.
+2015-06-14 22:00:25.296883 senddata: All data has been sent to server. 
+2015-06-14 22:00:25.297171 senddata: Deleting local data.
+2015-06-14 22:00:25.329275 senddata: Data has been deleted.
+2015-06-14 22:10:23.153767 getlocaldata: conexao com banco local realizada
+2015-06-14 22:10:23.230798 getlocaldata: Loaded data from local database
+2015-06-14 22:10:23.236344 senddata: Sending samples to the server.
+2015-06-14 22:10:24.937493 senddata: All data has been sent to server. 
+2015-06-14 22:10:24.937778 senddata: Deleting local data.
+2015-06-14 22:10:24.967206 senddata: Data has been deleted.
+2015-06-14 22:20:23.221883 getlocaldata: conexao com banco local realizada
+2015-06-14 22:20:23.300817 getlocaldata: Loaded data from local database
+2015-06-14 22:20:23.306291 senddata: Sending samples to the server.
+2015-06-14 22:20:25.701865 senddata: All data has been sent to server. 
+2015-06-14 22:20:25.702144 senddata: Deleting local data.
+2015-06-14 22:20:25.731741 senddata: Data has been deleted.
+2015-06-14 22:30:23.307202 getlocaldata: conexao com banco local realizada
+2015-06-14 22:30:23.380765 getlocaldata: Loaded data from local database
+2015-06-14 22:30:23.392115 senddata: Sending samples to the server.
+2015-06-14 22:30:25.432010 senddata: All data has been sent to server. 
+2015-06-14 22:30:25.432293 senddata: Deleting local data.
+2015-06-14 22:30:26.625835 senddata: Data has been deleted.
+2015-06-14 22:40:23.786996 getlocaldata: conexao com banco local realizada
+2015-06-14 22:40:23.866209 getlocaldata: Loaded data from local database
+2015-06-14 22:40:23.877494 senddata: Sending samples to the server.
+2015-06-14 22:40:25.532003 senddata: All data has been sent to server. 
+2015-06-14 22:40:25.532398 senddata: Deleting local data.
+2015-06-14 22:40:25.566603 senddata: Data has been deleted.
+2015-06-14 22:50:23.838704 getlocaldata: conexao com banco local realizada
+2015-06-14 22:50:23.912103 getlocaldata: Loaded data from local database
+2015-06-14 22:50:23.925969 senddata: Sending samples to the server.
+2015-06-14 22:50:27.215524 senddata: All data has been sent to server. 
+2015-06-14 22:50:27.215811 senddata: Deleting local data.
+2015-06-14 22:50:27.246620 senddata: Data has been deleted.
+2015-06-14 23:00:23.841746 getlocaldata: conexao com banco local realizada
+2015-06-14 23:00:23.996165 getlocaldata: Loaded data from local database
+2015-06-14 23:00:24.009661 senddata: Sending samples to the server.
+2015-06-14 23:00:25.658596 senddata: All data has been sent to server. 
+2015-06-14 23:00:25.658885 senddata: Deleting local data.
+2015-06-14 23:00:25.689311 senddata: Data has been deleted.
+2015-06-14 23:10:23.649619 getlocaldata: conexao com banco local realizada
+2015-06-14 23:10:23.729330 getlocaldata: Loaded data from local database
+2015-06-14 23:10:23.735005 senddata: Sending samples to the server.
+2015-06-14 23:10:25.608645 senddata: All data has been sent to server. 
+2015-06-14 23:10:25.608929 senddata: Deleting local data.
+2015-06-14 23:10:25.637949 senddata: Data has been deleted.
+2015-06-14 23:20:23.719360 getlocaldata: conexao com banco local realizada
+2015-06-14 23:20:23.799450 getlocaldata: Loaded data from local database
+2015-06-14 23:20:23.804482 senddata: Sending samples to the server.
+2015-06-14 23:20:25.648933 senddata: All data has been sent to server. 
+2015-06-14 23:20:25.649433 senddata: Deleting local data.
+2015-06-14 23:20:25.710139 senddata: Data has been deleted.
+2015-06-14 23:30:23.724916 getlocaldata: conexao com banco local realizada
+2015-06-14 23:30:23.800842 getlocaldata: Loaded data from local database
+2015-06-14 23:30:23.805964 senddata: Sending samples to the server.
+2015-06-14 23:30:26.174148 senddata: All data has been sent to server. 
+2015-06-14 23:30:26.174431 senddata: Deleting local data.
+2015-06-14 23:30:26.214465 senddata: Data has been deleted.
+2015-06-14 23:40:23.965408 getlocaldata: conexao com banco local realizada
+2015-06-14 23:40:24.041075 getlocaldata: Loaded data from local database
+2015-06-14 23:40:24.046395 senddata: Sending samples to the server.
+2015-06-14 23:40:26.290918 senddata: All data has been sent to server. 
+2015-06-14 23:40:26.291201 senddata: Deleting local data.
+2015-06-14 23:40:26.321426 senddata: Data has been deleted.
+2015-06-14 23:50:24.330979 getlocaldata: conexao com banco local realizada
+2015-06-14 23:50:24.409546 getlocaldata: Loaded data from local database
+2015-06-14 23:50:24.414847 senddata: Sending samples to the server.
+2015-06-14 23:50:26.139510 senddata: All data has been sent to server. 
+2015-06-14 23:50:26.139796 senddata: Deleting local data.
+2015-06-14 23:50:26.170060 senddata: Data has been deleted.
+2015-06-15 00:00:23.976171 getlocaldata: conexao com banco local realizada
+2015-06-15 00:00:24.059546 getlocaldata: Loaded data from local database
+2015-06-15 00:00:24.064827 senddata: Sending samples to the server.
+2015-06-15 00:00:25.808149 senddata: All data has been sent to server. 
+2015-06-15 00:00:25.811726 senddata: Deleting local data.
+2015-06-15 00:00:26.700490 senddata: Data has been deleted.
+2015-06-15 00:10:24.057203 getlocaldata: conexao com banco local realizada
+2015-06-15 00:10:24.136760 getlocaldata: Loaded data from local database
+2015-06-15 00:10:24.146773 senddata: Sending samples to the server.
+2015-06-15 00:10:26.133224 senddata: All data has been sent to server. 
+2015-06-15 00:10:26.133514 senddata: Deleting local data.
+2015-06-15 00:10:27.057767 senddata: Data has been deleted.
+2015-06-15 00:20:24.145124 getlocaldata: conexao com banco local realizada
+2015-06-15 00:20:24.220746 getlocaldata: Loaded data from local database
+2015-06-15 00:20:24.232641 senddata: Sending samples to the server.
+2015-06-15 00:20:25.964231 senddata: All data has been sent to server. 
+2015-06-15 00:20:25.964518 senddata: Deleting local data.
+2015-06-15 00:20:25.993523 senddata: Data has been deleted.
+2015-06-15 00:30:24.280218 getlocaldata: conexao com banco local realizada
+2015-06-15 00:30:24.361118 getlocaldata: Loaded data from local database
+2015-06-15 00:30:24.366300 senddata: Sending samples to the server.
+2015-06-15 00:30:26.337921 senddata: All data has been sent to server. 
+2015-06-15 00:30:26.338206 senddata: Deleting local data.
+2015-06-15 00:30:26.368718 senddata: Data has been deleted.
+2015-06-15 00:40:24.525423 getlocaldata: conexao com banco local realizada
+2015-06-15 00:40:24.668548 getlocaldata: Loaded data from local database
+2015-06-15 00:40:24.674122 senddata: Sending samples to the server.
+2015-06-15 00:40:26.575141 senddata: All data has been sent to server. 
+2015-06-15 00:40:26.575539 senddata: Deleting local data.
+2015-06-15 00:40:26.617333 senddata: Data has been deleted.
+2015-06-15 00:50:24.539788 getlocaldata: conexao com banco local realizada
+2015-06-15 00:50:24.621096 getlocaldata: Loaded data from local database
+2015-06-15 00:50:24.626208 senddata: Sending samples to the server.
+2015-06-15 00:50:26.855470 senddata: All data has been sent to server. 
+2015-06-15 00:50:26.855754 senddata: Deleting local data.
+2015-06-15 00:50:27.118778 senddata: Data has been deleted.
+2015-06-15 01:00:24.606264 getlocaldata: conexao com banco local realizada
+2015-06-15 01:00:24.690875 getlocaldata: Loaded data from local database
+2015-06-15 01:00:24.701887 senddata: Sending samples to the server.
+2015-06-15 01:00:26.458667 senddata: All data has been sent to server. 
+2015-06-15 01:00:26.458953 senddata: Deleting local data.
+2015-06-15 01:00:27.635135 senddata: Data has been deleted.
+2015-06-15 01:10:24.595201 getlocaldata: conexao com banco local realizada
+2015-06-15 01:10:24.670822 getlocaldata: Loaded data from local database
+2015-06-15 01:10:24.681227 senddata: Sending samples to the server.
+2015-06-15 01:10:26.957810 senddata: All data has been sent to server. 
+2015-06-15 01:10:26.958206 senddata: Deleting local data.
+2015-06-15 01:10:28.741118 senddata: Data has been deleted.
+2015-06-15 01:20:24.769877 getlocaldata: conexao com banco local realizada
+2015-06-15 01:20:24.851404 getlocaldata: Loaded data from local database
+2015-06-15 01:20:24.856545 senddata: Sending samples to the server.
+2015-06-15 01:20:26.515051 senddata: All data has been sent to server. 
+2015-06-15 01:20:26.515334 senddata: Deleting local data.
+2015-06-15 01:20:27.164934 senddata: Data has been deleted.
+2015-06-15 01:30:25.082767 getlocaldata: conexao com banco local realizada
+2015-06-15 01:30:25.161163 getlocaldata: Loaded data from local database
+2015-06-15 01:30:25.166419 senddata: Sending samples to the server.
+2015-06-15 01:30:27.245847 senddata: All data has been sent to server. 
+2015-06-15 01:30:27.246131 senddata: Deleting local data.
+2015-06-15 01:30:27.776395 senddata: Data has been deleted.
+2015-06-15 01:40:25.064685 getlocaldata: conexao com banco local realizada
+2015-06-15 01:40:25.140860 getlocaldata: Loaded data from local database
+2015-06-15 01:40:25.146002 senddata: Sending samples to the server.
+2015-06-15 01:40:26.811352 senddata: All data has been sent to server. 
+2015-06-15 01:40:26.811637 senddata: Deleting local data.
+2015-06-15 01:40:29.133601 senddata: Data has been deleted.
+2015-06-15 01:50:25.013895 getlocaldata: conexao com banco local realizada
+2015-06-15 01:50:25.151922 getlocaldata: Loaded data from local database
+2015-06-15 01:50:25.157038 senddata: Sending samples to the server.
+2015-06-15 01:50:26.913928 senddata: All data has been sent to server. 
+2015-06-15 01:50:26.914215 senddata: Deleting local data.
+2015-06-15 01:50:26.945894 senddata: Data has been deleted.
+2015-06-15 02:00:24.897330 getlocaldata: conexao com banco local realizada
+2015-06-15 02:00:24.971083 getlocaldata: Loaded data from local database
+2015-06-15 02:00:24.976376 senddata: Sending samples to the server.
+2015-06-15 02:00:26.563231 senddata: All data has been sent to server. 
+2015-06-15 02:00:26.563516 senddata: Deleting local data.
+2015-06-15 02:00:26.593552 senddata: Data has been deleted.
+2015-06-15 02:10:24.925095 getlocaldata: conexao com banco local realizada
+2015-06-15 02:10:25.004887 getlocaldata: Loaded data from local database
+2015-06-15 02:10:25.012804 senddata: Sending samples to the server.
+2015-06-15 02:10:26.378594 senddata: All data has been sent to server. 
+2015-06-15 02:10:26.378877 senddata: Deleting local data.
+2015-06-15 02:10:26.411710 senddata: Data has been deleted.
+2015-06-15 02:20:24.931822 getlocaldata: conexao com banco local realizada
+2015-06-15 02:20:25.011270 getlocaldata: Loaded data from local database
+2015-06-15 02:20:25.016526 senddata: Sending samples to the server.
+2015-06-15 02:20:27.075910 senddata: All data has been sent to server. 
+2015-06-15 02:20:27.076198 senddata: Deleting local data.
+2015-06-15 02:20:27.106405 senddata: Data has been deleted.
+2015-06-15 02:30:25.107099 getlocaldata: conexao com banco local realizada
+2015-06-15 02:30:25.186391 getlocaldata: Loaded data from local database
+2015-06-15 02:30:25.197899 senddata: Sending samples to the server.
+2015-06-15 02:30:26.688938 senddata: All data has been sent to server. 
+2015-06-15 02:30:26.689436 senddata: Deleting local data.
+2015-06-15 02:30:26.720057 senddata: Data has been deleted.
+2015-06-15 02:40:25.139463 getlocaldata: conexao com banco local realizada
+2015-06-15 02:40:25.219409 getlocaldata: Loaded data from local database
+2015-06-15 02:40:25.225073 senddata: Sending samples to the server.
+2015-06-15 02:40:27.070007 senddata: All data has been sent to server. 
+2015-06-15 02:40:27.070294 senddata: Deleting local data.
+2015-06-15 02:40:27.132336 senddata: Data has been deleted.
+2015-06-15 02:50:25.178266 getlocaldata: conexao com banco local realizada
+2015-06-15 02:50:25.254401 getlocaldata: Loaded data from local database
+2015-06-15 02:50:25.265868 senddata: Sending samples to the server.
+2015-06-15 02:50:27.112023 senddata: All data has been sent to server. 
+2015-06-15 02:50:27.112309 senddata: Deleting local data.
+2015-06-15 02:50:27.173459 senddata: Data has been deleted.
+2015-06-15 03:00:25.282605 getlocaldata: conexao com banco local realizada
+2015-06-15 03:00:25.360806 getlocaldata: Loaded data from local database
+2015-06-15 03:00:25.366427 senddata: Sending samples to the server.
+2015-06-15 03:00:26.737786 senddata: All data has been sent to server. 
+2015-06-15 03:00:26.738075 senddata: Deleting local data.
+2015-06-15 03:00:26.768666 senddata: Data has been deleted.
+2015-06-15 03:10:25.295149 getlocaldata: conexao com banco local realizada
+2015-06-15 03:10:25.370746 getlocaldata: Loaded data from local database
+2015-06-15 03:10:25.382484 senddata: Sending samples to the server.
+2015-06-15 03:10:27.252078 senddata: All data has been sent to server. 
+2015-06-15 03:10:27.252356 senddata: Deleting local data.
+2015-06-15 03:10:27.284230 senddata: Data has been deleted.
+2015-06-15 03:20:25.779352 getlocaldata: conexao com banco local realizada
+2015-06-15 03:20:25.856122 getlocaldata: Loaded data from local database
+2015-06-15 03:20:25.867897 senddata: Sending samples to the server.
+2015-06-15 03:20:27.272374 senddata: All data has been sent to server. 
+2015-06-15 03:20:27.272656 senddata: Deleting local data.
+2015-06-15 03:20:27.304381 senddata: Data has been deleted.
+2015-06-15 03:30:25.602889 getlocaldata: conexao com banco local realizada
+2015-06-15 03:30:25.745402 getlocaldata: Loaded data from local database
+2015-06-15 03:30:25.750905 senddata: Sending samples to the server.
+2015-06-15 03:30:27.249686 senddata: All data has been sent to server. 
+2015-06-15 03:30:27.249970 senddata: Deleting local data.
+2015-06-15 03:30:27.281981 senddata: Data has been deleted.
+2015-06-15 03:40:25.509849 getlocaldata: conexao com banco local realizada
+2015-06-15 03:40:25.590390 getlocaldata: Loaded data from local database
+2015-06-15 03:40:25.595606 senddata: Sending samples to the server.
+2015-06-15 03:40:27.153707 senddata: All data has been sent to server. 
+2015-06-15 03:40:27.153995 senddata: Deleting local data.
+2015-06-15 03:40:27.215540 senddata: Data has been deleted.
+2015-06-15 03:50:25.541516 getlocaldata: conexao com banco local realizada
+2015-06-15 03:50:25.621115 getlocaldata: Loaded data from local database
+2015-06-15 03:50:25.626355 senddata: Sending samples to the server.
+2015-06-15 03:50:27.203250 senddata: All data has been sent to server. 
+2015-06-15 03:50:27.203535 senddata: Deleting local data.
+2015-06-15 03:50:27.233846 senddata: Data has been deleted.
+2015-06-15 04:00:25.629670 getlocaldata: conexao com banco local realizada
+2015-06-15 04:00:25.711078 getlocaldata: Loaded data from local database
+2015-06-15 04:00:25.716217 senddata: Sending samples to the server.
+2015-06-15 04:00:27.048610 senddata: All data has been sent to server. 
+2015-06-15 04:00:27.048896 senddata: Deleting local data.
+2015-06-15 04:00:27.081646 senddata: Data has been deleted.
+2015-06-15 04:10:25.714001 getlocaldata: conexao com banco local realizada
+2015-06-15 04:10:25.790870 getlocaldata: Loaded data from local database
+2015-06-15 04:10:25.802115 senddata: Sending samples to the server.
+2015-06-15 04:10:27.342524 senddata: All data has been sent to server. 
+2015-06-15 04:10:27.342810 senddata: Deleting local data.
+2015-06-15 04:10:27.373038 senddata: Data has been deleted.
+2015-06-15 04:20:26.134999 getlocaldata: conexao com banco local realizada
+2015-06-15 04:20:26.215872 getlocaldata: Loaded data from local database
+2015-06-15 04:20:26.221182 senddata: Sending samples to the server.
+2015-06-15 04:20:27.726345 senddata: All data has been sent to server. 
+2015-06-15 04:20:27.726626 senddata: Deleting local data.
+2015-06-15 04:20:27.756807 senddata: Data has been deleted.
+2015-06-15 04:30:26.263968 getlocaldata: conexao com banco local realizada
+2015-06-15 04:30:26.340709 getlocaldata: Loaded data from local database
+2015-06-15 04:30:26.346264 senddata: Sending samples to the server.
+2015-06-15 04:30:28.054501 senddata: All data has been sent to server. 
+2015-06-15 04:30:28.054786 senddata: Deleting local data.
+2015-06-15 04:30:28.085059 senddata: Data has been deleted.
+2015-06-15 04:40:25.957766 getlocaldata: conexao com banco local realizada
+2015-06-15 04:40:26.031043 getlocaldata: Loaded data from local database
+2015-06-15 04:40:26.036297 senddata: Sending samples to the server.
+2015-06-15 04:40:27.657788 senddata: All data has been sent to server. 
+2015-06-15 04:40:27.658071 senddata: Deleting local data.
+2015-06-15 04:40:27.719627 senddata: Data has been deleted.
+2015-06-15 04:50:26.031604 getlocaldata: conexao com banco local realizada
+2015-06-15 04:50:26.111069 getlocaldata: Loaded data from local database
+2015-06-15 04:50:26.116792 senddata: Sending samples to the server.
+2015-06-15 04:50:27.497058 senddata: All data has been sent to server. 
+2015-06-15 04:50:27.497346 senddata: Deleting local data.
+2015-06-15 04:50:27.559514 senddata: Data has been deleted.
+2015-06-15 05:00:26.073648 getlocaldata: conexao com banco local realizada
+2015-06-15 05:00:26.150709 getlocaldata: Loaded data from local database
+2015-06-15 05:00:26.156365 senddata: Sending samples to the server.
+2015-06-15 05:00:27.519738 senddata: All data has been sent to server. 
+2015-06-15 05:00:27.520022 senddata: Deleting local data.
+2015-06-15 05:00:27.581721 senddata: Data has been deleted.
+2015-06-15 05:10:26.542363 getlocaldata: conexao com banco local realizada
+2015-06-15 05:10:26.620707 getlocaldata: Loaded data from local database
+2015-06-15 05:10:26.631575 senddata: Sending samples to the server.
+2015-06-15 05:10:27.970761 senddata: All data has been sent to server. 
+2015-06-15 05:10:27.971044 senddata: Deleting local data.
+2015-06-15 05:10:28.003053 senddata: Data has been deleted.
+2015-06-15 05:20:26.331666 getlocaldata: conexao com banco local realizada
+2015-06-15 05:20:26.470493 getlocaldata: Loaded data from local database
+2015-06-15 05:20:26.475892 senddata: Sending samples to the server.
+2015-06-15 05:20:27.861580 senddata: All data has been sent to server. 
+2015-06-15 05:20:27.861865 senddata: Deleting local data.
+2015-06-15 05:20:27.904930 senddata: Data has been deleted.
+2015-06-15 05:30:26.323997 getlocaldata: conexao com banco local realizada
+2015-06-15 05:30:26.400708 getlocaldata: Loaded data from local database
+2015-06-15 05:30:26.406330 senddata: Sending samples to the server.
+2015-06-15 05:30:27.751712 senddata: All data has been sent to server. 
+2015-06-15 05:30:27.752002 senddata: Deleting local data.
+2015-06-15 05:30:27.813433 senddata: Data has been deleted.
+2015-06-15 05:40:26.422128 getlocaldata: conexao com banco local realizada
+2015-06-15 05:40:26.502798 getlocaldata: Loaded data from local database
+2015-06-15 05:40:26.508242 senddata: Sending samples to the server.
+2015-06-15 05:40:27.866668 senddata: All data has been sent to server. 
+2015-06-15 05:40:27.866958 senddata: Deleting local data.
+2015-06-15 05:40:27.901170 senddata: Data has been deleted.
+2015-06-15 05:50:26.502518 getlocaldata: conexao com banco local realizada
+2015-06-15 05:50:26.580715 getlocaldata: Loaded data from local database
+2015-06-15 05:50:26.586221 senddata: Sending samples to the server.
+2015-06-15 05:50:27.951522 senddata: All data has been sent to server. 
+2015-06-15 05:50:27.951806 senddata: Deleting local data.
+2015-06-15 05:50:27.985035 senddata: Data has been deleted.
+2015-06-15 06:00:26.766754 getlocaldata: conexao com banco local realizada
+2015-06-15 06:00:26.846446 getlocaldata: Loaded data from local database
+2015-06-15 06:00:26.857362 senddata: Sending samples to the server.
+2015-06-15 06:00:28.213444 senddata: All data has been sent to server. 
+2015-06-15 06:00:28.213729 senddata: Deleting local data.
+2015-06-15 06:00:28.276482 senddata: Data has been deleted.
+2015-06-15 06:10:27.106106 getlocaldata: conexao com banco local realizada
+2015-06-15 06:10:27.180813 getlocaldata: Loaded data from local database
+2015-06-15 06:10:27.192873 senddata: Sending samples to the server.
+2015-06-15 06:10:29.105043 senddata: All data has been sent to server. 
+2015-06-15 06:10:29.105333 senddata: Deleting local data.
+2015-06-15 06:10:29.167040 senddata: Data has been deleted.
+2015-06-15 06:20:27.094575 getlocaldata: conexao com banco local realizada
+2015-06-15 06:20:27.170788 getlocaldata: Loaded data from local database
+2015-06-15 06:20:27.176260 senddata: Sending samples to the server.
+2015-06-15 06:20:28.772859 senddata: All data has been sent to server. 
+2015-06-15 06:20:28.773145 senddata: Deleting local data.
+2015-06-15 06:20:28.804686 senddata: Data has been deleted.
+2015-06-15 06:30:26.764387 getlocaldata: conexao com banco local realizada
+2015-06-15 06:30:26.840735 getlocaldata: Loaded data from local database
+2015-06-15 06:30:26.853493 senddata: Sending samples to the server.
+2015-06-15 06:30:28.324663 senddata: All data has been sent to server. 
+2015-06-15 06:30:28.324946 senddata: Deleting local data.
+2015-06-15 06:30:28.396974 senddata: Data has been deleted.
+2015-06-15 06:40:26.786010 getlocaldata: conexao com banco local realizada
+2015-06-15 06:40:26.866016 getlocaldata: Loaded data from local database
+2015-06-15 06:40:26.873072 senddata: Sending samples to the server.
+2015-06-15 06:40:28.402418 senddata: All data has been sent to server. 
+2015-06-15 06:40:28.402703 senddata: Deleting local data.
+2015-06-15 06:40:28.435056 senddata: Data has been deleted.
+2015-06-15 06:50:26.873990 getlocaldata: conexao com banco local realizada
+2015-06-15 06:50:26.958626 getlocaldata: Loaded data from local database
+2015-06-15 06:50:26.964521 senddata: Sending samples to the server.
+2015-06-15 06:50:28.378564 senddata: All data has been sent to server. 
+2015-06-15 06:50:28.378847 senddata: Deleting local data.
+2015-06-15 06:50:28.410784 senddata: Data has been deleted.
+2015-06-15 07:00:26.938997 getlocaldata: conexao com banco local realizada
+2015-06-15 07:00:27.016109 getlocaldata: Loaded data from local database
+2015-06-15 07:00:27.024022 senddata: Sending samples to the server.
+2015-06-15 07:00:28.938402 senddata: All data has been sent to server. 
+2015-06-15 07:00:28.938686 senddata: Deleting local data.
+2015-06-15 07:00:29.001086 senddata: Data has been deleted.
+2015-06-15 07:10:27.031169 getlocaldata: conexao com banco local realizada
+2015-06-15 07:10:27.110746 getlocaldata: Loaded data from local database
+2015-06-15 07:10:27.116359 senddata: Sending samples to the server.
+2015-06-15 07:10:28.705608 senddata: All data has been sent to server. 
+2015-06-15 07:10:28.705893 senddata: Deleting local data.
+2015-06-15 07:10:28.736171 senddata: Data has been deleted.
+2015-06-15 07:20:27.037145 getlocaldata: conexao com banco local realizada
+2015-06-15 07:20:27.116964 getlocaldata: Loaded data from local database
+2015-06-15 07:20:27.122489 senddata: Sending samples to the server.
+2015-06-15 07:20:28.751063 senddata: All data has been sent to server. 
+2015-06-15 07:20:28.751733 senddata: Deleting local data.
+2015-06-15 07:20:28.813903 senddata: Data has been deleted.
+2015-06-15 07:30:27.141708 getlocaldata: conexao com banco local realizada
+2015-06-15 07:30:27.221079 getlocaldata: Loaded data from local database
+2015-06-15 07:30:27.226334 senddata: Sending samples to the server.
+2015-06-15 07:30:28.499623 senddata: All data has been sent to server. 
+2015-06-15 07:30:28.499909 senddata: Deleting local data.
+2015-06-15 07:30:28.531458 senddata: Data has been deleted.
+2015-06-15 07:40:27.192992 getlocaldata: conexao com banco local realizada
+2015-06-15 07:40:27.274068 getlocaldata: Loaded data from local database
+2015-06-15 07:40:27.285750 senddata: Sending samples to the server.
+2015-06-15 07:40:28.876615 senddata: All data has been sent to server. 
+2015-06-15 07:40:28.876902 senddata: Deleting local data.
+2015-06-15 07:40:28.907815 senddata: Data has been deleted.
+2015-06-15 07:50:27.691564 getlocaldata: conexao com banco local realizada
+2015-06-15 07:50:27.771217 getlocaldata: Loaded data from local database
+2015-06-15 07:50:27.776481 senddata: Sending samples to the server.
+2015-06-15 07:50:29.262858 senddata: All data has been sent to server. 
+2015-06-15 07:50:29.263144 senddata: Deleting local data.
+2015-06-15 07:50:29.324683 senddata: Data has been deleted.
+2015-06-15 08:00:27.774165 getlocaldata: conexao com banco local realizada
+2015-06-15 08:00:27.850807 getlocaldata: Loaded data from local database
+2015-06-15 08:00:27.861281 senddata: Sending samples to the server.
+2015-06-15 08:00:29.788015 senddata: All data has been sent to server. 
+2015-06-15 08:00:29.788294 senddata: Deleting local data.
+2015-06-15 08:00:29.820325 senddata: Data has been deleted.
+2015-06-15 08:10:27.602705 getlocaldata: conexao com banco local realizada
+2015-06-15 08:10:27.730463 getlocaldata: Loaded data from local database
+2015-06-15 08:10:27.735682 senddata: Sending samples to the server.
+2015-06-15 08:10:29.855419 senddata: All data has been sent to server. 
+2015-06-15 08:10:29.855704 senddata: Deleting local data.
+2015-06-15 08:10:29.887475 senddata: Data has been deleted.
+2015-06-15 08:20:27.576385 getlocaldata: conexao com banco local realizada
+2015-06-15 08:20:27.655194 getlocaldata: Loaded data from local database
+2015-06-15 08:20:27.665645 senddata: Sending samples to the server.
+2015-06-15 08:20:28.996174 senddata: All data has been sent to server. 
+2015-06-15 08:20:28.996457 senddata: Deleting local data.
+2015-06-15 08:20:29.028443 senddata: Data has been deleted.
+2015-06-15 08:30:27.671046 getlocaldata: conexao com banco local realizada
+2015-06-15 08:30:27.750511 getlocaldata: Loaded data from local database
+2015-06-15 08:30:27.755597 senddata: Sending samples to the server.
+2015-06-15 08:30:29.216656 senddata: All data has been sent to server. 
+2015-06-15 08:30:29.216946 senddata: Deleting local data.
+2015-06-15 08:30:29.246909 senddata: Data has been deleted.
+2015-06-15 08:40:27.730898 getlocaldata: conexao com banco local realizada
+2015-06-15 08:40:27.811135 getlocaldata: Loaded data from local database
+2015-06-15 08:40:27.816395 senddata: Sending samples to the server.
+2015-06-15 08:40:29.318044 senddata: All data has been sent to server. 
+2015-06-15 08:40:29.318326 senddata: Deleting local data.
+2015-06-15 08:40:29.380592 senddata: Data has been deleted.
+2015-06-15 08:50:28.113581 getlocaldata: conexao com banco local realizada
+2015-06-15 08:50:28.190754 getlocaldata: Loaded data from local database
+2015-06-15 08:50:28.196527 senddata: Sending samples to the server.
+2015-06-15 08:50:29.717940 senddata: All data has been sent to server. 
+2015-06-15 08:50:29.718224 senddata: Deleting local data.
+2015-06-15 08:50:29.781830 senddata: Data has been deleted.
+2015-06-15 09:00:28.304167 getlocaldata: conexao com banco local realizada
+2015-06-15 09:00:28.390383 getlocaldata: Loaded data from local database
+2015-06-15 09:00:28.395639 senddata: Sending samples to the server.
+2015-06-15 09:00:29.923605 senddata: All data has been sent to server. 
+2015-06-15 09:00:29.923892 senddata: Deleting local data.
+2015-06-15 09:00:29.955266 senddata: Data has been deleted.
+2015-06-15 09:10:28.001514 getlocaldata: conexao com banco local realizada
+2015-06-15 09:10:28.081316 getlocaldata: Loaded data from local database
+2015-06-15 09:10:28.086563 senddata: Sending samples to the server.
+2015-06-15 09:10:29.461664 senddata: All data has been sent to server. 
+2015-06-15 09:10:29.461958 senddata: Deleting local data.
+2015-06-15 09:10:29.491859 senddata: Data has been deleted.
+2015-06-15 09:20:27.997129 getlocaldata: conexao com banco local realizada
+2015-06-15 09:20:28.070777 getlocaldata: Loaded data from local database
+2015-06-15 09:20:28.075924 senddata: Sending samples to the server.
+2015-06-15 09:20:29.430365 senddata: All data has been sent to server. 
+2015-06-15 09:20:29.430646 senddata: Deleting local data.
+2015-06-15 09:20:29.492220 senddata: Data has been deleted.
+2015-06-15 09:30:28.098514 getlocaldata: conexao com banco local realizada
+2015-06-15 09:30:28.140348 getlocaldata: Loaded data from local database
+2015-06-15 09:30:28.145608 senddata: Sending samples to the server.
+2015-06-15 09:30:29.160878 senddata: All data has been sent to server. 
+2015-06-15 09:30:29.161223 senddata: Deleting local data.
+2015-06-15 09:30:30.028749 senddata: Data has been deleted.
+2015-06-15 09:40:28.193999 getlocaldata: conexao com banco local realizada
+2015-06-15 09:40:28.220836 getlocaldata: Loaded data from local database
+2015-06-15 09:40:28.225838 senddata: Sending samples to the server.
+2015-06-15 09:40:29.168492 senddata: All data has been sent to server. 
+2015-06-15 09:40:29.168777 senddata: Deleting local data.
+2015-06-15 09:40:29.186165 senddata: Data has been deleted.
+2015-06-15 09:50:28.247578 getlocaldata: conexao com banco local realizada
+2015-06-15 09:50:28.274398 getlocaldata: Loaded data from local database
+2015-06-15 09:50:28.289909 senddata: Sending samples to the server.
+2015-06-15 09:50:29.210248 senddata: All data has been sent to server. 
+2015-06-15 09:50:29.210532 senddata: Deleting local data.
+2015-06-15 09:50:29.227772 senddata: Data has been deleted.
+2015-06-15 10:00:28.335240 getlocaldata: conexao com banco local realizada
+2015-06-15 10:00:28.361919 getlocaldata: Loaded data from local database
+2015-06-15 10:00:28.367171 senddata: Sending samples to the server.
+2015-06-15 10:00:29.273169 senddata: All data has been sent to server. 
+2015-06-15 10:00:29.273458 senddata: Deleting local data.
+2015-06-15 10:00:29.291041 senddata: Data has been deleted.
+2015-06-15 10:10:28.396097 getlocaldata: conexao com banco local realizada
+2015-06-15 10:10:28.422809 getlocaldata: Loaded data from local database
+2015-06-15 10:10:28.427987 senddata: Sending samples to the server.
+2015-06-15 10:10:29.372198 senddata: All data has been sent to server. 
+2015-06-15 10:10:29.372480 senddata: Deleting local data.
+2015-06-15 10:10:29.389947 senddata: Data has been deleted.
+2015-06-15 10:20:28.455759 getlocaldata: conexao com banco local realizada
+2015-06-15 10:20:28.482633 getlocaldata: Loaded data from local database
+2015-06-15 10:20:28.487796 senddata: Sending samples to the server.
+2015-06-15 10:20:29.538796 senddata: All data has been sent to server. 
+2015-06-15 10:20:29.539079 senddata: Deleting local data.
+2015-06-15 10:20:29.556719 senddata: Data has been deleted.
+2015-06-15 10:30:28.496970 getlocaldata: conexao com banco local realizada
+2015-06-15 10:30:28.524028 getlocaldata: Loaded data from local database
+2015-06-15 10:30:28.539392 senddata: Sending samples to the server.
+2015-06-15 10:30:29.485574 senddata: All data has been sent to server. 
+2015-06-15 10:30:29.485859 senddata: Deleting local data.
+2015-06-15 10:30:29.503216 senddata: Data has been deleted.
+2015-06-15 10:40:28.581530 getlocaldata: conexao com banco local realizada
+2015-06-15 10:40:28.607930 getlocaldata: Loaded data from local database
+2015-06-15 10:40:28.614900 senddata: Sending samples to the server.
+2015-06-15 10:40:29.717986 senddata: All data has been sent to server. 
+2015-06-15 10:40:29.718268 senddata: Deleting local data.
+2015-06-15 10:40:29.736105 senddata: Data has been deleted.
+2015-06-15 10:50:28.680256 getlocaldata: conexao com banco local realizada
+2015-06-15 10:50:28.707038 getlocaldata: Loaded data from local database
+2015-06-15 10:50:28.722847 senddata: Sending samples to the server.
+2015-06-15 10:50:29.646707 senddata: All data has been sent to server. 
+2015-06-15 10:50:29.646990 senddata: Deleting local data.
+2015-06-15 10:50:29.664515 senddata: Data has been deleted.
+2015-06-15 11:00:28.786542 getlocaldata: conexao com banco local realizada
+2015-06-15 11:00:28.813703 getlocaldata: Loaded data from local database
+2015-06-15 11:00:28.818736 senddata: Sending samples to the server.
+2015-06-15 11:00:29.990991 senddata: All data has been sent to server. 
+2015-06-15 11:00:29.991274 senddata: Deleting local data.
+2015-06-15 11:00:30.008577 senddata: Data has been deleted.
+2015-06-15 11:10:28.877630 getlocaldata: conexao com banco local realizada
+2015-06-15 11:10:28.904731 getlocaldata: Loaded data from local database
+2015-06-15 11:10:28.920132 senddata: Sending samples to the server.
+2015-06-15 11:10:29.968711 senddata: All data has been sent to server. 
+2015-06-15 11:10:29.968993 senddata: Deleting local data.
+2015-06-15 11:10:29.986339 senddata: Data has been deleted.
+2015-06-15 11:20:28.925830 getlocaldata: conexao com banco local realizada
+2015-06-15 11:20:28.952787 getlocaldata: Loaded data from local database
+2015-06-15 11:20:28.957878 senddata: Sending samples to the server.
+2015-06-15 11:20:29.859406 senddata: All data has been sent to server. 
+2015-06-15 11:20:29.859692 senddata: Deleting local data.
+2015-06-15 11:20:29.876879 senddata: Data has been deleted.
+2015-06-15 11:30:28.993582 getlocaldata: conexao com banco local realizada
+2015-06-15 11:30:29.020212 getlocaldata: Loaded data from local database
+2015-06-15 11:30:29.025281 senddata: Sending samples to the server.
+2015-06-15 11:30:30.315521 senddata: All data has been sent to server. 
+2015-06-15 11:30:30.315807 senddata: Deleting local data.
+2015-06-15 11:30:30.333177 senddata: Data has been deleted.
+2015-06-15 11:40:29.080811 getlocaldata: conexao com banco local realizada
+2015-06-15 11:40:29.107397 getlocaldata: Loaded data from local database
+2015-06-15 11:40:29.123046 senddata: Sending samples to the server.
+2015-06-15 11:40:30.296321 senddata: All data has been sent to server. 
+2015-06-15 11:40:30.296605 senddata: Deleting local data.
+2015-06-15 11:40:30.314131 senddata: Data has been deleted.
+2015-06-15 11:50:29.126725 getlocaldata: conexao com banco local realizada
+2015-06-15 11:50:29.153732 getlocaldata: Loaded data from local database
+2015-06-15 11:50:29.170420 senddata: Sending samples to the server.
+2015-06-15 11:50:30.274588 senddata: All data has been sent to server. 
+2015-06-15 11:50:30.274867 senddata: Deleting local data.
+2015-06-15 11:50:30.292487 senddata: Data has been deleted.
+2015-06-15 12:00:29.229374 getlocaldata: conexao com banco local realizada
+2015-06-15 12:00:29.256483 getlocaldata: Loaded data from local database
+2015-06-15 12:00:29.272062 senddata: Sending samples to the server.
+2015-06-15 12:00:30.582773 senddata: All data has been sent to server. 
+2015-06-15 12:00:30.583059 senddata: Deleting local data.
+2015-06-15 12:00:30.600483 senddata: Data has been deleted.
+2015-06-15 12:10:29.317484 getlocaldata: conexao com banco local realizada
+2015-06-15 12:10:29.344148 getlocaldata: Loaded data from local database
+2015-06-15 12:10:29.356190 senddata: Sending samples to the server.
+2015-06-15 12:10:30.883327 senddata: All data has been sent to server. 
+2015-06-15 12:10:30.883605 senddata: Deleting local data.
+2015-06-15 12:10:30.901235 senddata: Data has been deleted.
+2015-06-15 12:20:29.410543 getlocaldata: conexao com banco local realizada
+2015-06-15 12:20:29.437252 getlocaldata: Loaded data from local database
+2015-06-15 12:20:29.453078 senddata: Sending samples to the server.
+2015-06-15 12:20:30.577483 senddata: All data has been sent to server. 
+2015-06-15 12:20:30.577764 senddata: Deleting local data.
+2015-06-15 12:20:30.595217 senddata: Data has been deleted.
+2015-06-15 12:30:29.460959 getlocaldata: conexao com banco local realizada
+2015-06-15 12:30:29.487445 getlocaldata: Loaded data from local database
+2015-06-15 12:30:29.503068 senddata: Sending samples to the server.
+2015-06-15 12:30:30.858958 senddata: All data has been sent to server. 
+2015-06-15 12:30:30.859446 senddata: Deleting local data.
+2015-06-15 12:30:30.876895 senddata: Data has been deleted.
+2015-06-15 12:40:29.500469 getlocaldata: conexao com banco local realizada
+2015-06-15 12:40:29.527048 getlocaldata: Loaded data from local database
+2015-06-15 12:40:29.542471 senddata: Sending samples to the server.
+2015-06-15 12:40:30.650924 senddata: All data has been sent to server. 
+2015-06-15 12:40:30.651203 senddata: Deleting local data.
+2015-06-15 12:40:30.668695 senddata: Data has been deleted.
+2015-06-15 12:50:29.574474 getlocaldata: conexao com banco local realizada
+2015-06-15 12:50:29.601037 getlocaldata: Loaded data from local database
+2015-06-15 12:50:29.606286 senddata: Sending samples to the server.
+2015-06-15 12:50:30.918125 senddata: All data has been sent to server. 
+2015-06-15 12:50:30.918411 senddata: Deleting local data.
+2015-06-15 12:50:30.935827 senddata: Data has been deleted.
+2015-06-15 13:00:29.648188 getlocaldata: conexao com banco local realizada
+2015-06-15 13:00:29.675024 getlocaldata: Loaded data from local database
+2015-06-15 13:00:29.690737 senddata: Sending samples to the server.
+2015-06-15 13:00:30.851118 senddata: All data has been sent to server. 
+2015-06-15 13:00:30.851399 senddata: Deleting local data.
+2015-06-15 13:00:30.868884 senddata: Data has been deleted.
+2015-06-15 13:10:29.664849 getlocaldata: conexao com banco local realizada
+2015-06-15 13:10:29.691727 getlocaldata: Loaded data from local database
+2015-06-15 13:10:29.696938 senddata: Sending samples to the server.
+2015-06-15 13:10:31.452200 senddata: All data has been sent to server. 
+2015-06-15 13:10:31.452485 senddata: Deleting local data.
+2015-06-15 13:10:31.469905 senddata: Data has been deleted.
+2015-06-15 13:20:29.733890 getlocaldata: conexao com banco local realizada
+2015-06-15 13:20:29.760478 getlocaldata: Loaded data from local database
+2015-06-15 13:20:29.765651 senddata: Sending samples to the server.
+2015-06-15 13:20:31.273383 senddata: All data has been sent to server. 
+2015-06-15 13:20:31.273667 senddata: Deleting local data.
+2015-06-15 13:20:31.291341 senddata: Data has been deleted.
+2015-06-15 13:30:29.840134 getlocaldata: conexao com banco local realizada
+2015-06-15 13:30:29.866763 getlocaldata: Loaded data from local database
+2015-06-15 13:30:29.882535 senddata: Sending samples to the server.
+2015-06-15 13:30:31.224606 senddata: All data has been sent to server. 
+2015-06-15 13:30:31.224890 senddata: Deleting local data.
+2015-06-15 13:30:31.242303 senddata: Data has been deleted.
+2015-06-15 13:40:29.888786 getlocaldata: conexao com banco local realizada
+2015-06-15 13:40:29.915498 getlocaldata: Loaded data from local database
+2015-06-15 13:40:29.931321 senddata: Sending samples to the server.
+2015-06-15 13:40:31.604719 senddata: All data has been sent to server. 
+2015-06-15 13:40:31.605006 senddata: Deleting local data.
+2015-06-15 13:40:31.622657 senddata: Data has been deleted.
+2015-06-15 13:50:29.977423 getlocaldata: conexao com banco local realizada
+2015-06-15 13:50:30.004258 getlocaldata: Loaded data from local database
+2015-06-15 13:50:30.019824 senddata: Sending samples to the server.
+2015-06-15 13:50:31.193381 senddata: All data has been sent to server. 
+2015-06-15 13:50:31.193660 senddata: Deleting local data.
+2015-06-15 13:50:31.211166 senddata: Data has been deleted.
+2015-06-15 14:00:30.086998 getlocaldata: conexao com banco local realizada
+2015-06-15 14:00:30.114149 getlocaldata: Loaded data from local database
+2015-06-15 14:00:30.129661 senddata: Sending samples to the server.
+2015-06-15 14:00:31.297638 senddata: All data has been sent to server. 
+2015-06-15 14:00:31.298184 senddata: Deleting local data.
+2015-06-15 14:00:31.315653 senddata: Data has been deleted.
+2015-06-15 14:10:30.143052 getlocaldata: conexao com banco local realizada
+2015-06-15 14:10:30.169844 getlocaldata: Loaded data from local database
+2015-06-15 14:10:30.175029 senddata: Sending samples to the server.
+2015-06-15 14:10:31.328331 senddata: All data has been sent to server. 
+2015-06-15 14:10:31.328613 senddata: Deleting local data.
+2015-06-15 14:10:31.346300 senddata: Data has been deleted.
+2015-06-15 14:20:30.218742 getlocaldata: conexao com banco local realizada
+2015-06-15 14:20:30.245743 getlocaldata: Loaded data from local database
+2015-06-15 14:20:30.261688 senddata: Sending samples to the server.
+2015-06-15 14:20:32.176210 senddata: All data has been sent to server. 
+2015-06-15 14:20:32.176503 senddata: Deleting local data.
+2015-06-15 14:20:32.193978 senddata: Data has been deleted.
+2015-06-15 14:30:30.242550 getlocaldata: conexao com banco local realizada
+2015-06-15 14:30:30.269589 getlocaldata: Loaded data from local database
+2015-06-15 14:30:30.274857 senddata: Sending samples to the server.
+2015-06-15 14:30:31.649640 senddata: All data has been sent to server. 
+2015-06-15 14:30:31.649924 senddata: Deleting local data.
+2015-06-15 14:30:31.667446 senddata: Data has been deleted.
+2015-06-15 14:40:30.339902 getlocaldata: conexao com banco local realizada
+2015-06-15 14:40:30.366442 getlocaldata: Loaded data from local database
+2015-06-15 14:40:30.382088 senddata: Sending samples to the server.
+2015-06-15 14:40:31.562202 senddata: All data has been sent to server. 
+2015-06-15 14:40:31.562484 senddata: Deleting local data.
+2015-06-15 14:40:31.579876 senddata: Data has been deleted.
+2015-06-15 14:50:30.396233 getlocaldata: conexao com banco local realizada
+2015-06-15 14:50:30.422956 getlocaldata: Loaded data from local database
+2015-06-15 14:50:30.428141 senddata: Sending samples to the server.
+2015-06-15 14:50:31.823367 senddata: All data has been sent to server. 
+2015-06-15 14:50:31.823650 senddata: Deleting local data.
+2015-06-15 14:50:31.841116 senddata: Data has been deleted.
+2015-06-15 15:00:30.511998 getlocaldata: conexao com banco local realizada
+2015-06-15 15:00:30.538694 getlocaldata: Loaded data from local database
+2015-06-15 15:00:30.545263 senddata: Sending samples to the server.
+2015-06-15 15:00:31.681399 senddata: All data has been sent to server. 
+2015-06-15 15:00:31.681683 senddata: Deleting local data.
+2015-06-15 15:00:31.699064 senddata: Data has been deleted.
+2015-06-15 15:10:30.569899 getlocaldata: conexao com banco local realizada
+2015-06-15 15:10:30.596716 getlocaldata: Loaded data from local database
+2015-06-15 15:10:30.612245 senddata: Sending samples to the server.
+2015-06-15 15:10:31.783680 senddata: All data has been sent to server. 
+2015-06-15 15:10:31.783959 senddata: Deleting local data.
+2015-06-15 15:10:31.801280 senddata: Data has been deleted.
+2015-06-15 15:20:30.665898 getlocaldata: conexao com banco local realizada
+2015-06-15 15:20:30.692864 getlocaldata: Loaded data from local database
+2015-06-15 15:20:30.698038 senddata: Sending samples to the server.
+2015-06-15 15:20:32.435072 senddata: All data has been sent to server. 
+2015-06-15 15:20:32.435352 senddata: Deleting local data.
+2015-06-15 15:20:32.452792 senddata: Data has been deleted.
+2015-06-15 15:30:30.713815 getlocaldata: conexao com banco local realizada
+2015-06-15 15:30:30.740686 getlocaldata: Loaded data from local database
+2015-06-15 15:30:30.745914 senddata: Sending samples to the server.
+2015-06-15 15:30:32.486861 senddata: All data has been sent to server. 
+2015-06-15 15:30:32.487143 senddata: Deleting local data.
+2015-06-15 15:30:32.504652 senddata: Data has been deleted.
+2015-06-15 15:40:30.751185 getlocaldata: conexao com banco local realizada
+2015-06-15 15:40:30.777976 getlocaldata: Loaded data from local database
+2015-06-15 15:40:30.784606 senddata: Sending samples to the server.
+2015-06-15 15:40:32.542155 senddata: All data has been sent to server. 
+2015-06-15 15:40:32.542440 senddata: Deleting local data.
+2015-06-15 15:40:32.559781 senddata: Data has been deleted.
+2015-06-15 15:50:30.827807 getlocaldata: conexao com banco local realizada
+2015-06-15 15:50:30.854583 getlocaldata: Loaded data from local database
+2015-06-15 15:50:30.870118 senddata: Sending samples to the server.
+2015-06-15 15:50:31.962286 senddata: All data has been sent to server. 
+2015-06-15 15:50:31.962575 senddata: Deleting local data.
+2015-06-15 15:50:31.980038 senddata: Data has been deleted.
+2015-06-15 16:00:30.910983 getlocaldata: conexao com banco local realizada
+2015-06-15 16:00:30.937815 getlocaldata: Loaded data from local database
+2015-06-15 16:00:30.944740 senddata: Sending samples to the server.
+2015-06-15 16:00:32.658529 senddata: All data has been sent to server. 
+2015-06-15 16:00:32.658814 senddata: Deleting local data.
+2015-06-15 16:00:32.676372 senddata: Data has been deleted.
+2015-06-15 16:10:30.924742 getlocaldata: conexao com banco local realizada
+2015-06-15 16:10:30.951577 getlocaldata: Loaded data from local database
+2015-06-15 16:10:30.956736 senddata: Sending samples to the server.
+2015-06-15 16:10:32.078156 senddata: All data has been sent to server. 
+2015-06-15 16:10:32.078440 senddata: Deleting local data.
+2015-06-15 16:10:32.095886 senddata: Data has been deleted.
+2015-06-15 16:20:30.934218 getlocaldata: conexao com banco local realizada
+2015-06-15 16:20:30.961048 getlocaldata: Loaded data from local database
+2015-06-15 16:20:30.965963 senddata: Sending samples to the server.
+2015-06-15 16:20:32.081782 senddata: All data has been sent to server. 
+2015-06-15 16:20:32.082063 senddata: Deleting local data.
+2015-06-15 16:20:32.099428 senddata: Data has been deleted.
+2015-06-15 16:30:31.034805 getlocaldata: conexao com banco local realizada
+2015-06-15 16:30:31.061583 getlocaldata: Loaded data from local database
+2015-06-15 16:30:31.066761 senddata: Sending samples to the server.
+2015-06-15 16:30:32.266266 senddata: All data has been sent to server. 
+2015-06-15 16:30:32.266553 senddata: Deleting local data.
+2015-06-15 16:30:32.284279 senddata: Data has been deleted.
+2015-06-15 16:40:31.084811 getlocaldata: conexao com banco local realizada
+2015-06-15 16:40:31.111450 getlocaldata: Loaded data from local database
+2015-06-15 16:40:31.116710 senddata: Sending samples to the server.
+2015-06-15 16:40:32.469999 senddata: All data has been sent to server. 
+2015-06-15 16:40:32.470279 senddata: Deleting local data.
+2015-06-15 16:40:32.487554 senddata: Data has been deleted.
+2015-06-15 16:50:31.113482 getlocaldata: conexao com banco local realizada
+2015-06-15 16:50:31.140288 getlocaldata: Loaded data from local database
+2015-06-15 16:50:31.145375 senddata: Sending samples to the server.
+2015-06-15 16:50:32.554186 senddata: All data has been sent to server. 
+2015-06-15 16:50:32.554471 senddata: Deleting local data.
+2015-06-15 16:50:32.571859 senddata: Data has been deleted.
+2015-06-15 17:00:31.157760 getlocaldata: conexao com banco local realizada
+2015-06-15 17:00:31.185024 getlocaldata: Loaded data from local database
+2015-06-15 17:00:31.200467 senddata: Sending samples to the server.
+2015-06-15 17:00:32.660804 senddata: All data has been sent to server. 
+2015-06-15 17:00:32.661092 senddata: Deleting local data.
+2015-06-15 17:00:32.678423 senddata: Data has been deleted.
+2015-06-15 17:10:31.258926 getlocaldata: conexao com banco local realizada
+2015-06-15 17:10:31.285975 getlocaldata: Loaded data from local database
+2015-06-15 17:10:31.301593 senddata: Sending samples to the server.
+2015-06-15 17:10:32.685238 senddata: All data has been sent to server. 
+2015-06-15 17:10:32.685520 senddata: Deleting local data.
+2015-06-15 17:10:32.702904 senddata: Data has been deleted.
+2015-06-15 17:20:31.334025 getlocaldata: conexao com banco local realizada
+2015-06-15 17:20:31.360654 getlocaldata: Loaded data from local database
+2015-06-15 17:20:31.365920 senddata: Sending samples to the server.
+2015-06-15 17:20:32.565638 senddata: All data has been sent to server. 
+2015-06-15 17:20:32.565922 senddata: Deleting local data.
+2015-06-15 17:20:32.583444 senddata: Data has been deleted.
+2015-06-15 17:30:31.369896 getlocaldata: conexao com banco local realizada
+2015-06-15 17:30:31.396762 getlocaldata: Loaded data from local database
+2015-06-15 17:30:31.412324 senddata: Sending samples to the server.
+2015-06-15 17:30:37.724715 senddata: All data has been sent to server. 
+2015-06-15 17:30:37.724998 senddata: Deleting local data.
+2015-06-15 17:30:37.742460 senddata: Data has been deleted.
+2015-06-15 17:40:31.430532 getlocaldata: conexao com banco local realizada
+2015-06-15 17:40:31.456756 getlocaldata: Loaded data from local database
+2015-06-15 17:40:31.472151 senddata: Sending samples to the server.
+2015-06-15 17:40:32.775990 senddata: All data has been sent to server. 
+2015-06-15 17:40:32.776275 senddata: Deleting local data.
+2015-06-15 17:40:32.793734 senddata: Data has been deleted.
+2015-06-15 17:50:31.514519 getlocaldata: conexao com banco local realizada
+2015-06-15 17:50:31.540988 getlocaldata: Loaded data from local database
+2015-06-15 17:50:31.546331 senddata: Sending samples to the server.
+2015-06-15 17:50:32.778027 senddata: All data has been sent to server. 
+2015-06-15 17:50:32.778309 senddata: Deleting local data.
+2015-06-15 17:50:32.795907 senddata: Data has been deleted.
+2015-06-15 18:00:31.595541 getlocaldata: conexao com banco local realizada
+2015-06-15 18:00:31.622464 getlocaldata: Loaded data from local database
+2015-06-15 18:00:31.627684 senddata: Sending samples to the server.
+2015-06-15 18:00:32.832578 senddata: All data has been sent to server. 
+2015-06-15 18:00:32.832866 senddata: Deleting local data.
+2015-06-15 18:00:32.850344 senddata: Data has been deleted.
+2015-06-15 18:10:31.655722 getlocaldata: conexao com banco local realizada
+2015-06-15 18:10:31.682615 getlocaldata: Loaded data from local database
+2015-06-15 18:10:31.687782 senddata: Sending samples to the server.
+2015-06-15 18:10:32.900360 senddata: All data has been sent to server. 
+2015-06-15 18:10:32.900643 senddata: Deleting local data.
+2015-06-15 18:10:32.917941 senddata: Data has been deleted.
+2015-06-15 18:20:31.670159 getlocaldata: conexao com banco local realizada
+2015-06-15 18:20:31.696949 getlocaldata: Loaded data from local database
+2015-06-15 18:20:31.712422 senddata: Sending samples to the server.
+2015-06-15 18:20:33.232537 senddata: All data has been sent to server. 
+2015-06-15 18:20:33.232818 senddata: Deleting local data.
+2015-06-15 18:20:33.250627 senddata: Data has been deleted.
+2015-06-15 18:30:31.725549 getlocaldata: conexao com banco local realizada
+2015-06-15 18:30:31.752494 getlocaldata: Loaded data from local database
+2015-06-15 18:30:31.757560 senddata: Sending samples to the server.
+2015-06-15 18:30:32.955140 senddata: All data has been sent to server. 
+2015-06-15 18:30:32.955432 senddata: Deleting local data.
+2015-06-15 18:30:32.972800 senddata: Data has been deleted.
+2015-06-15 18:40:31.832936 getlocaldata: conexao com banco local realizada
+2015-06-15 18:40:31.859433 getlocaldata: Loaded data from local database
+2015-06-15 18:40:31.864689 senddata: Sending samples to the server.
+2015-06-15 18:40:33.263386 senddata: All data has been sent to server. 
+2015-06-15 18:40:33.263667 senddata: Deleting local data.
+2015-06-15 18:40:33.281176 senddata: Data has been deleted.
+2015-06-15 18:50:31.931459 getlocaldata: conexao com banco local realizada
+2015-06-15 18:50:31.957913 getlocaldata: Loaded data from local database
+2015-06-15 18:50:31.964626 senddata: Sending samples to the server.
+2015-06-15 18:50:33.153168 senddata: All data has been sent to server. 
+2015-06-15 18:50:33.153447 senddata: Deleting local data.
+2015-06-15 18:50:33.170857 senddata: Data has been deleted.
+2015-06-15 19:00:32.017666 getlocaldata: conexao com banco local realizada
+2015-06-15 19:00:32.044261 getlocaldata: Loaded data from local database
+2015-06-15 19:00:32.059524 senddata: Sending samples to the server.
+2015-06-15 19:00:33.252604 senddata: All data has been sent to server. 
+2015-06-15 19:00:33.252891 senddata: Deleting local data.
+2015-06-15 19:00:33.270323 senddata: Data has been deleted.
+2015-06-15 19:10:32.117590 getlocaldata: conexao com banco local realizada
+2015-06-15 19:10:32.144265 getlocaldata: Loaded data from local database
+2015-06-15 19:10:32.159619 senddata: Sending samples to the server.
+2015-06-15 19:10:33.561050 senddata: All data has been sent to server. 
+2015-06-15 19:10:33.561331 senddata: Deleting local data.
+2015-06-15 19:10:33.578602 senddata: Data has been deleted.
+2015-06-15 19:20:32.233587 getlocaldata: conexao com banco local realizada
+2015-06-15 19:20:32.260563 getlocaldata: Loaded data from local database
+2015-06-15 19:20:32.266014 senddata: Sending samples to the server.
+2015-06-15 19:20:33.411844 senddata: All data has been sent to server. 
+2015-06-15 19:20:33.412127 senddata: Deleting local data.
+2015-06-15 19:20:33.429607 senddata: Data has been deleted.
+2015-06-15 19:30:32.194623 getlocaldata: conexao com banco local realizada
+2015-06-15 19:30:32.221469 getlocaldata: Loaded data from local database
+2015-06-15 19:30:32.226544 senddata: Sending samples to the server.
+2015-06-15 19:30:33.439313 senddata: All data has been sent to server. 
+2015-06-15 19:30:33.439704 senddata: Deleting local data.
+2015-06-15 19:30:33.456960 senddata: Data has been deleted.
+2015-06-15 19:40:32.248655 getlocaldata: conexao com banco local realizada
+2015-06-15 19:40:32.275877 getlocaldata: Loaded data from local database
+2015-06-15 19:40:32.291350 senddata: Sending samples to the server.
+2015-06-15 19:40:33.526776 senddata: All data has been sent to server. 
+2015-06-15 19:40:33.527056 senddata: Deleting local data.
+2015-06-15 19:40:33.544526 senddata: Data has been deleted.
+2015-06-15 19:50:32.321705 getlocaldata: conexao com banco local realizada
+2015-06-15 19:50:32.348304 getlocaldata: Loaded data from local database
+2015-06-15 19:50:32.354694 senddata: Sending samples to the server.
+2015-06-15 19:50:34.014695 senddata: All data has been sent to server. 
+2015-06-15 19:50:34.014977 senddata: Deleting local data.
+2015-06-15 19:50:34.032543 senddata: Data has been deleted.
+2015-06-15 20:00:32.391795 getlocaldata: conexao com banco local realizada
+2015-06-15 20:00:32.418481 getlocaldata: Loaded data from local database
+2015-06-15 20:00:32.424939 senddata: Sending samples to the server.
+2015-06-15 20:00:33.575582 senddata: All data has been sent to server. 
+2015-06-15 20:00:33.575865 senddata: Deleting local data.
+2015-06-15 20:00:33.593363 senddata: Data has been deleted.
+2015-06-15 20:10:32.719842 getlocaldata: conexao com banco local realizada
+2015-06-15 20:10:32.746355 getlocaldata: Loaded data from local database
+2015-06-15 20:10:32.761808 senddata: Sending samples to the server.
+2015-06-15 20:10:33.954728 senddata: All data has been sent to server. 
+2015-06-15 20:10:33.955014 senddata: Deleting local data.
+2015-06-15 20:10:33.972470 senddata: Data has been deleted.
+2015-06-15 20:20:32.633450 getlocaldata: conexao com banco local realizada
+2015-06-15 20:20:32.720867 getlocaldata: Loaded data from local database
+2015-06-15 20:20:32.725858 senddata: Sending samples to the server.
+2015-06-15 20:20:34.719883 senddata: All data has been sent to server. 
+2015-06-15 20:20:34.720164 senddata: Deleting local data.
+2015-06-15 20:20:34.800965 senddata: Data has been deleted.
+2015-06-15 20:30:34.301671 getlocaldata: conexao com banco local realizada
+2015-06-15 20:30:34.858793 getlocaldata: Loaded data from local database
+2015-06-15 20:30:34.864169 senddata: Sending samples to the server.
+2015-06-15 20:30:38.712615 senddata: All data has been sent to server. 
+2015-06-15 20:30:38.712900 senddata: Deleting local data.
+2015-06-15 20:30:41.931949 senddata: Data has been deleted.
+2015-06-15 20:38:17.722316 getlocaldata: conexao com banco local realizada
+2015-06-15 20:38:18.280790 getlocaldata: Loaded data from local database
+2015-06-15 20:38:18.286071 senddata: Sending samples to the server.
+2015-06-15 20:38:22.046423 senddata: All data has been sent to server. 
+2015-06-15 20:38:22.046708 senddata: Deleting local data.
+2015-06-15 20:38:22.179664 senddata: Data has been deleted.
+2015-06-15 20:40:34.171564 getlocaldata: conexao com banco local realizada
+2015-06-15 20:40:34.376604 getlocaldata: Loaded data from local database
+2015-06-15 20:40:34.399468 senddata: Sending samples to the server.
+2015-06-15 20:40:37.854464 senddata: All data has been sent to server. 
+2015-06-15 20:40:37.854744 senddata: Deleting local data.
+2015-06-15 20:40:40.609771 senddata: Data has been deleted.
+2015-06-15 20:48:18.167640 getlocaldata: conexao com banco local realizada
+2015-06-15 20:48:18.870918 getlocaldata: Loaded data from local database
+2015-06-15 20:48:18.876128 senddata: Sending samples to the server.
+2015-06-15 20:48:24.124767 senddata: All data has been sent to server. 
+2015-06-15 20:48:24.125059 senddata: Deleting local data.
+2015-06-15 20:48:24.283264 senddata: Data has been deleted.
+2015-06-15 20:50:34.192607 getlocaldata: conexao com banco local realizada
+2015-06-15 20:50:34.440759 getlocaldata: Loaded data from local database
+2015-06-15 20:50:34.445800 senddata: Sending samples to the server.
+2015-06-15 20:50:37.659851 senddata: All data has been sent to server. 
+2015-06-15 20:50:37.660139 senddata: Deleting local data.
+2015-06-15 20:50:37.739653 senddata: Data has been deleted.
+2015-06-15 20:58:18.022541 getlocaldata: conexao com banco local realizada
+2015-06-15 20:58:18.760620 getlocaldata: Loaded data from local database
+2015-06-15 20:58:18.765775 senddata: Sending samples to the server.
+2015-06-15 20:58:22.803583 senddata: All data has been sent to server. 
+2015-06-15 20:58:22.803863 senddata: Deleting local data.
+2015-06-15 20:58:22.947570 senddata: Data has been deleted.
+2015-06-15 21:00:34.481170 getlocaldata: conexao com banco local realizada
+2015-06-15 21:00:34.710130 getlocaldata: Loaded data from local database
+2015-06-15 21:00:34.715455 senddata: Sending samples to the server.
+2015-06-15 21:00:38.595682 senddata: All data has been sent to server. 
+2015-06-15 21:00:38.595967 senddata: Deleting local data.
+2015-06-15 21:00:41.052754 senddata: Data has been deleted.
+2015-06-15 21:08:18.091562 getlocaldata: conexao com banco local realizada
+2015-06-15 21:08:18.801097 getlocaldata: Loaded data from local database
+2015-06-15 21:08:18.806596 senddata: Sending samples to the server.
+2015-06-15 21:08:22.922119 senddata: All data has been sent to server. 
+2015-06-15 21:08:22.922411 senddata: Deleting local data.
+2015-06-15 21:08:23.093479 senddata: Data has been deleted.
+2015-06-15 21:10:34.442914 getlocaldata: conexao com banco local realizada
+2015-06-15 21:10:34.670773 getlocaldata: Loaded data from local database
+2015-06-15 21:10:34.676110 senddata: Sending samples to the server.
+2015-06-15 21:10:37.102979 senddata: All data has been sent to server. 
+2015-06-15 21:10:37.103260 senddata: Deleting local data.
+2015-06-15 21:10:37.179970 senddata: Data has been deleted.
+2015-06-15 21:18:18.123198 getlocaldata: conexao com banco local realizada
+2015-06-15 21:18:18.840450 getlocaldata: Loaded data from local database
+2015-06-15 21:18:18.845851 senddata: Sending samples to the server.
+2015-06-15 21:18:23.273585 senddata: All data has been sent to server. 
+2015-06-15 21:18:23.273867 senddata: Deleting local data.
+2015-06-15 21:18:23.426316 senddata: Data has been deleted.
+2015-06-15 21:20:34.641445 getlocaldata: conexao com banco local realizada
+2015-06-15 21:20:34.896569 getlocaldata: Loaded data from local database
+2015-06-15 21:20:34.906040 senddata: Sending samples to the server.
+2015-06-15 21:20:38.433167 senddata: All data has been sent to server. 
+2015-06-15 21:20:38.433460 senddata: Deleting local data.
+2015-06-15 21:20:38.529332 senddata: Data has been deleted.
+2015-06-15 21:28:18.251600 getlocaldata: conexao com banco local realizada
+2015-06-15 21:28:18.932955 getlocaldata: Loaded data from local database
+2015-06-15 21:28:18.938154 senddata: Sending samples to the server.
+2015-06-15 21:28:22.860661 senddata: All data has been sent to server. 
+2015-06-15 21:28:22.860944 senddata: Deleting local data.
+2015-06-15 21:28:23.037803 senddata: Data has been deleted.
+2015-06-15 21:30:34.612751 getlocaldata: conexao com banco local realizada
+2015-06-15 21:30:34.852424 getlocaldata: Loaded data from local database
+2015-06-15 21:30:34.857699 senddata: Sending samples to the server.
+2015-06-15 21:30:37.193094 senddata: All data has been sent to server. 
+2015-06-15 21:30:37.193382 senddata: Deleting local data.
+2015-06-15 21:30:37.261492 senddata: Data has been deleted.
+2015-06-15 21:38:18.291635 getlocaldata: conexao com banco local realizada
+2015-06-15 21:38:19.005553 getlocaldata: Loaded data from local database
+2015-06-15 21:38:19.011059 senddata: Sending samples to the server.
+2015-06-15 21:38:23.180869 senddata: All data has been sent to server. 
+2015-06-15 21:38:23.181155 senddata: Deleting local data.
+2015-06-15 21:38:23.322086 senddata: Data has been deleted.
+2015-06-15 21:40:34.526044 getlocaldata: conexao com banco local realizada
+2015-06-15 21:40:34.790936 getlocaldata: Loaded data from local database
+2015-06-15 21:40:34.796229 senddata: Sending samples to the server.
+2015-06-15 21:40:37.139525 senddata: All data has been sent to server. 
+2015-06-15 21:40:37.139821 senddata: Deleting local data.
+2015-06-15 21:40:37.208532 senddata: Data has been deleted.
+2015-06-15 21:48:18.571605 getlocaldata: conexao com banco local realizada
+2015-06-15 21:48:19.321015 getlocaldata: Loaded data from local database
+2015-06-15 21:48:19.341013 senddata: Sending samples to the server.
+2015-06-15 21:48:23.145578 senddata: All data has been sent to server. 
+2015-06-15 21:48:23.145867 senddata: Deleting local data.
+2015-06-15 21:48:24.180338 senddata: Data has been deleted.
+2015-06-15 21:50:34.034447 getlocaldata: conexao com banco local realizada
+2015-06-15 21:50:34.290837 getlocaldata: Loaded data from local database
+2015-06-15 21:50:34.295987 senddata: Sending samples to the server.
+2015-06-15 21:50:36.500193 senddata: All data has been sent to server. 
+2015-06-15 21:50:36.500482 senddata: Deleting local data.
+2015-06-15 21:50:36.585082 senddata: Data has been deleted.
+2015-06-15 21:58:18.522374 getlocaldata: conexao com banco local realizada
+2015-06-15 21:58:19.228591 getlocaldata: Loaded data from local database
+2015-06-15 21:58:19.236396 senddata: Sending samples to the server.
+2015-06-15 21:58:23.342092 senddata: All data has been sent to server. 
+2015-06-15 21:58:23.342382 senddata: Deleting local data.
+2015-06-15 21:58:23.500675 senddata: Data has been deleted.
+2015-06-15 22:00:34.224169 getlocaldata: conexao com banco local realizada
+2015-06-15 22:00:34.410582 getlocaldata: Loaded data from local database
+2015-06-15 22:00:34.415913 senddata: Sending samples to the server.
+2015-06-15 22:00:36.800528 senddata: All data has been sent to server. 
+2015-06-15 22:00:36.800811 senddata: Deleting local data.
+2015-06-15 22:00:36.890854 senddata: Data has been deleted.
+2015-06-15 22:08:18.568441 getlocaldata: conexao com banco local realizada
+2015-06-15 22:08:19.310531 getlocaldata: Loaded data from local database
+2015-06-15 22:08:19.315614 senddata: Sending samples to the server.
+2015-06-15 22:08:25.083988 senddata: All data has been sent to server. 
+2015-06-15 22:08:25.084279 senddata: Deleting local data.
+2015-06-15 22:08:25.206903 senddata: Data has been deleted.
+2015-06-15 22:10:34.995617 getlocaldata: conexao com banco local realizada
+2015-06-15 22:10:35.271062 getlocaldata: Loaded data from local database
+2015-06-15 22:10:35.276309 senddata: Sending samples to the server.
+2015-06-15 22:10:37.531215 senddata: All data has been sent to server. 
+2015-06-15 22:10:37.531504 senddata: Deleting local data.
+2015-06-15 22:10:37.600060 senddata: Data has been deleted.
+2015-06-15 22:18:18.722767 getlocaldata: conexao com banco local realizada
+2015-06-15 22:18:19.404371 getlocaldata: Loaded data from local database
+2015-06-15 22:18:19.426423 senddata: Sending samples to the server.
+2015-06-15 22:18:24.418401 senddata: All data has been sent to server. 
+2015-06-15 22:18:24.418682 senddata: Deleting local data.
+2015-06-15 22:18:24.565477 senddata: Data has been deleted.
+2015-06-15 22:20:35.072800 getlocaldata: conexao com banco local realizada
+2015-06-15 22:20:35.344661 getlocaldata: Loaded data from local database
+2015-06-15 22:20:35.366334 senddata: Sending samples to the server.
+2015-06-15 22:20:37.892076 senddata: All data has been sent to server. 
+2015-06-15 22:20:37.892362 senddata: Deleting local data.
+2015-06-15 22:20:37.962351 senddata: Data has been deleted.
+2015-06-15 22:28:18.829417 getlocaldata: conexao com banco local realizada
+2015-06-15 22:28:19.541036 getlocaldata: Loaded data from local database
+2015-06-15 22:28:19.546316 senddata: Sending samples to the server.
+2015-06-15 22:28:23.553351 senddata: All data has been sent to server. 
+2015-06-15 22:28:23.553637 senddata: Deleting local data.
+2015-06-15 22:28:23.725489 senddata: Data has been deleted.
+2015-06-15 22:30:35.091660 getlocaldata: conexao com banco local realizada
+2015-06-15 22:30:35.371099 getlocaldata: Loaded data from local database
+2015-06-15 22:30:35.394060 senddata: Sending samples to the server.
+2015-06-15 22:30:37.653374 senddata: All data has been sent to server. 
+2015-06-15 22:30:37.653659 senddata: Deleting local data.
+2015-06-15 22:30:37.731220 senddata: Data has been deleted.
+2015-06-15 22:38:18.972923 getlocaldata: conexao com banco local realizada
+2015-06-15 22:38:19.688199 getlocaldata: Loaded data from local database
+2015-06-15 22:38:19.696200 senddata: Sending samples to the server.
+2015-06-15 22:38:24.933055 senddata: All data has been sent to server. 
+2015-06-15 22:38:24.933353 senddata: Deleting local data.
+2015-06-15 22:38:25.095040 senddata: Data has been deleted.
+2015-06-15 22:40:35.706269 getlocaldata: conexao com banco local realizada
+2015-06-15 22:40:36.050683 getlocaldata: Loaded data from local database
+2015-06-15 22:40:36.055908 senddata: Sending samples to the server.
+2015-06-15 22:40:38.632006 senddata: All data has been sent to server. 
+2015-06-15 22:40:38.632292 senddata: Deleting local data.
+2015-06-15 22:40:38.704198 senddata: Data has been deleted.
+2015-06-15 22:48:19.021750 getlocaldata: conexao com banco local realizada
+2015-06-15 22:48:19.727641 getlocaldata: Loaded data from local database
+2015-06-15 22:48:19.733023 senddata: Sending samples to the server.
+2015-06-15 22:48:24.150371 senddata: All data has been sent to server. 
+2015-06-15 22:48:24.150655 senddata: Deleting local data.
+2015-06-15 22:48:24.412287 senddata: Data has been deleted.
+2015-06-15 22:50:35.372609 getlocaldata: conexao com banco local realizada
+2015-06-15 22:50:35.630793 getlocaldata: Loaded data from local database
+2015-06-15 22:50:35.636033 senddata: Sending samples to the server.
+2015-06-15 22:50:38.263215 senddata: All data has been sent to server. 
+2015-06-15 22:50:38.263610 senddata: Deleting local data.
+2015-06-15 22:50:38.349820 senddata: Data has been deleted.
+2015-06-15 22:58:19.057472 getlocaldata: conexao com banco local realizada
+2015-06-15 22:58:19.769833 getlocaldata: Loaded data from local database
+2015-06-15 22:58:19.774936 senddata: Sending samples to the server.
+2015-06-15 22:58:24.413086 senddata: All data has been sent to server. 
+2015-06-15 22:58:24.413370 senddata: Deleting local data.
+2015-06-15 22:58:24.549499 senddata: Data has been deleted.
+2015-06-15 23:00:35.471544 getlocaldata: conexao com banco local realizada
+2015-06-15 23:00:35.730715 getlocaldata: Loaded data from local database
+2015-06-15 23:00:35.735821 senddata: Sending samples to the server.
+2015-06-15 23:00:43.333291 senddata: All data has been sent to server. 
+2015-06-15 23:00:43.333573 senddata: Deleting local data.
+2015-06-15 23:00:43.409364 senddata: Data has been deleted.
+2015-06-15 23:08:19.194822 getlocaldata: conexao com banco local realizada
+2015-06-15 23:08:19.890822 getlocaldata: Loaded data from local database
+2015-06-15 23:08:19.896081 senddata: Sending samples to the server.
+2015-06-15 23:08:25.478592 senddata: All data has been sent to server. 
+2015-06-15 23:08:25.478881 senddata: Deleting local data.
+2015-06-15 23:08:27.817699 senddata: Data has been deleted.
+2015-06-15 23:10:35.617678 getlocaldata: conexao com banco local realizada
+2015-06-15 23:10:35.880786 getlocaldata: Loaded data from local database
+2015-06-15 23:10:35.886043 senddata: Sending samples to the server.
+2015-06-15 23:10:38.174844 senddata: All data has been sent to server. 
+2015-06-15 23:10:38.175129 senddata: Deleting local data.
+2015-06-15 23:10:38.797197 senddata: Data has been deleted.
+2015-06-15 23:18:19.302938 getlocaldata: conexao com banco local realizada
+2015-06-15 23:18:20.030737 getlocaldata: Loaded data from local database
+2015-06-15 23:18:20.035908 senddata: Sending samples to the server.
+2015-06-15 23:18:26.866498 senddata: All data has been sent to server. 
+2015-06-15 23:18:26.866777 senddata: Deleting local data.
+2015-06-15 23:18:27.029753 senddata: Data has been deleted.
+2015-06-15 23:20:35.732686 getlocaldata: conexao com banco local realizada
+2015-06-15 23:20:35.983849 getlocaldata: Loaded data from local database
+2015-06-15 23:20:35.988980 senddata: Sending samples to the server.
+2015-06-15 23:20:38.613266 senddata: All data has been sent to server. 
+2015-06-15 23:20:38.613550 senddata: Deleting local data.
+2015-06-15 23:20:38.685307 senddata: Data has been deleted.
+2015-06-15 23:28:19.355086 getlocaldata: conexao com banco local realizada
+2015-06-15 23:28:20.077469 getlocaldata: Loaded data from local database
+2015-06-15 23:28:20.083078 senddata: Sending samples to the server.
+2015-06-15 23:28:24.532961 senddata: All data has been sent to server. 
+2015-06-15 23:28:24.533251 senddata: Deleting local data.
+2015-06-15 23:28:24.683628 senddata: Data has been deleted.
+2015-06-15 23:30:35.791656 getlocaldata: conexao com banco local realizada
+2015-06-15 23:30:36.078232 getlocaldata: Loaded data from local database
+2015-06-15 23:30:36.083911 senddata: Sending samples to the server.
+2015-06-15 23:30:39.591909 senddata: All data has been sent to server. 
+2015-06-15 23:30:39.594012 senddata: Deleting local data.
+2015-06-15 23:30:39.667202 senddata: Data has been deleted.
+2015-06-15 23:38:19.501057 getlocaldata: conexao com banco local realizada
+2015-06-15 23:38:20.246219 getlocaldata: Loaded data from local database
+2015-06-15 23:38:20.258920 senddata: Sending samples to the server.
+2015-06-15 23:38:26.453811 senddata: All data has been sent to server. 
+2015-06-15 23:38:26.454095 senddata: Deleting local data.
+2015-06-15 23:38:26.612668 senddata: Data has been deleted.
+2015-06-15 23:40:35.882963 getlocaldata: conexao com banco local realizada
+2015-06-15 23:40:36.128601 getlocaldata: Loaded data from local database
+2015-06-15 23:40:36.138644 senddata: Sending samples to the server.
+2015-06-15 23:40:38.666076 senddata: All data has been sent to server. 
+2015-06-15 23:40:38.666359 senddata: Deleting local data.
+2015-06-15 23:40:38.758956 senddata: Data has been deleted.
+2015-06-15 23:48:19.641659 getlocaldata: conexao com banco local realizada
+2015-06-15 23:48:20.370581 getlocaldata: Loaded data from local database
+2015-06-15 23:48:20.376249 senddata: Sending samples to the server.
+2015-06-15 23:48:25.310675 senddata: All data has been sent to server. 
+2015-06-15 23:48:25.310963 senddata: Deleting local data.
+2015-06-15 23:48:25.487431 senddata: Data has been deleted.
+2015-06-15 23:50:35.978469 getlocaldata: conexao com banco local realizada
+2015-06-15 23:50:36.260835 getlocaldata: Loaded data from local database
+2015-06-15 23:50:36.274806 senddata: Sending samples to the server.
+2015-06-15 23:50:39.021880 senddata: All data has been sent to server. 
+2015-06-15 23:50:39.022164 senddata: Deleting local data.
+2015-06-15 23:50:39.120695 senddata: Data has been deleted.
+2015-06-15 23:58:19.681925 getlocaldata: conexao com banco local realizada
+2015-06-15 23:58:20.404651 getlocaldata: Loaded data from local database
+2015-06-15 23:58:20.425489 senddata: Sending samples to the server.
+2015-06-15 23:58:25.175222 senddata: All data has been sent to server. 
+2015-06-15 23:58:25.175513 senddata: Deleting local data.
+2015-06-15 23:58:25.330786 senddata: Data has been deleted.
+2015-06-16 00:00:36.082880 getlocaldata: conexao com banco local realizada
+2015-06-16 00:00:36.331099 getlocaldata: Loaded data from local database
+2015-06-16 00:00:36.336229 senddata: Sending samples to the server.
+2015-06-16 00:00:38.785424 senddata: All data has been sent to server. 
+2015-06-16 00:00:38.785708 senddata: Deleting local data.
+2015-06-16 00:00:38.869399 senddata: Data has been deleted.
+2015-06-16 00:08:19.801612 getlocaldata: conexao com banco local realizada
+2015-06-16 00:08:20.520901 getlocaldata: Loaded data from local database
+2015-06-16 00:08:20.526320 senddata: Sending samples to the server.
+2015-06-16 00:08:25.262058 senddata: All data has been sent to server. 
+2015-06-16 00:08:25.262343 senddata: Deleting local data.
+2015-06-16 00:08:25.411359 senddata: Data has been deleted.
+2015-06-16 00:10:36.201844 getlocaldata: conexao com banco local realizada
+2015-06-16 00:10:36.480800 getlocaldata: Loaded data from local database
+2015-06-16 00:10:36.486170 senddata: Sending samples to the server.
+2015-06-16 00:10:38.986196 senddata: All data has been sent to server. 
+2015-06-16 00:10:38.986483 senddata: Deleting local data.
+2015-06-16 00:10:39.066061 senddata: Data has been deleted.
+2015-06-16 00:18:19.893939 getlocaldata: conexao com banco local realizada
+2015-06-16 00:18:20.631052 getlocaldata: Loaded data from local database
+2015-06-16 00:18:20.636371 senddata: Sending samples to the server.
+2015-06-16 00:18:25.982238 senddata: All data has been sent to server. 
+2015-06-16 00:18:25.982526 senddata: Deleting local data.
+2015-06-16 00:18:27.367954 senddata: Data has been deleted.
+2015-06-16 00:20:36.322689 getlocaldata: conexao com banco local realizada
+2015-06-16 00:20:36.592481 getlocaldata: Loaded data from local database
+2015-06-16 00:20:36.597872 senddata: Sending samples to the server.
+2015-06-16 00:20:39.132100 senddata: All data has been sent to server. 
+2015-06-16 00:20:39.132382 senddata: Deleting local data.
+2015-06-16 00:20:39.207981 senddata: Data has been deleted.
+2015-06-16 00:28:20.031930 getlocaldata: conexao com banco local realizada
+2015-06-16 00:28:20.740928 getlocaldata: Loaded data from local database
+2015-06-16 00:28:20.746234 senddata: Sending samples to the server.
+2015-06-16 00:28:25.445151 senddata: All data has been sent to server. 
+2015-06-16 00:28:25.445435 senddata: Deleting local data.
+2015-06-16 00:28:26.234942 senddata: Data has been deleted.
+2015-06-16 00:30:36.442787 getlocaldata: conexao com banco local realizada
+2015-06-16 00:30:36.697070 getlocaldata: Loaded data from local database
+2015-06-16 00:30:36.712661 senddata: Sending samples to the server.
+2015-06-16 00:30:39.493522 senddata: All data has been sent to server. 
+2015-06-16 00:30:39.493807 senddata: Deleting local data.
+2015-06-16 00:30:39.569735 senddata: Data has been deleted.
+2015-06-16 00:38:20.081163 getlocaldata: conexao com banco local realizada
+2015-06-16 00:38:20.800776 getlocaldata: Loaded data from local database
+2015-06-16 00:38:20.814694 senddata: Sending samples to the server.
+2015-06-16 00:38:25.375875 senddata: All data has been sent to server. 
+2015-06-16 00:38:25.376160 senddata: Deleting local data.
+2015-06-16 00:38:25.524082 senddata: Data has been deleted.
+2015-06-16 00:40:35.129987 getlocaldata: conexao com banco local realizada
+2015-06-16 00:40:35.263552 getlocaldata: Loaded data from local database
+2015-06-16 00:40:35.268665 senddata: Sending samples to the server.
+2015-06-16 00:40:37.739613 senddata: All data has been sent to server. 
+2015-06-16 00:40:37.739902 senddata: Deleting local data.
+2015-06-16 00:40:37.849644 senddata: Data has been deleted.
+2015-06-16 00:48:20.252788 getlocaldata: conexao com banco local realizada
+2015-06-16 00:48:20.974849 getlocaldata: Loaded data from local database
+2015-06-16 00:48:20.996632 senddata: Sending samples to the server.
+2015-06-16 00:48:27.302093 senddata: All data has been sent to server. 
+2015-06-16 00:48:27.302380 senddata: Deleting local data.
+2015-06-16 00:48:27.457509 senddata: Data has been deleted.
+2015-06-16 00:50:36.551540 getlocaldata: conexao com banco local realizada
+2015-06-16 00:50:36.810592 getlocaldata: Loaded data from local database
+2015-06-16 00:50:36.815825 senddata: Sending samples to the server.
+2015-06-16 00:50:39.367698 senddata: All data has been sent to server. 
+2015-06-16 00:50:39.367983 senddata: Deleting local data.
+2015-06-16 00:50:39.460324 senddata: Data has been deleted.
+2015-06-16 00:58:20.301139 getlocaldata: conexao com banco local realizada
+2015-06-16 00:58:21.021051 getlocaldata: Loaded data from local database
+2015-06-16 00:58:21.026226 senddata: Sending samples to the server.
+2015-06-16 00:58:25.532684 senddata: All data has been sent to server. 
+2015-06-16 00:58:25.532966 senddata: Deleting local data.
+2015-06-16 00:58:25.662091 senddata: Data has been deleted.
+2015-06-16 01:00:36.682987 getlocaldata: conexao com banco local realizada
+2015-06-16 01:00:36.950648 getlocaldata: Loaded data from local database
+2015-06-16 01:00:36.955952 senddata: Sending samples to the server.
+2015-06-16 01:00:39.530573 senddata: All data has been sent to server. 
+2015-06-16 01:00:39.530858 senddata: Deleting local data.
+2015-06-16 01:00:39.606391 senddata: Data has been deleted.
+2015-06-16 01:08:20.438770 getlocaldata: conexao com banco local realizada
+2015-06-16 01:08:21.151041 getlocaldata: Loaded data from local database
+2015-06-16 01:08:21.156504 senddata: Sending samples to the server.
+2015-06-16 01:08:25.973274 senddata: All data has been sent to server. 
+2015-06-16 01:08:25.973560 senddata: Deleting local data.
+2015-06-16 01:08:26.112363 senddata: Data has been deleted.
+2015-06-16 01:10:36.795864 getlocaldata: conexao com banco local realizada
+2015-06-16 01:10:37.040428 getlocaldata: Loaded data from local database
+2015-06-16 01:10:37.045642 senddata: Sending samples to the server.
+2015-06-16 01:10:39.611891 senddata: All data has been sent to server. 
+2015-06-16 01:10:39.612174 senddata: Deleting local data.
+2015-06-16 01:10:39.687637 senddata: Data has been deleted.
+2015-06-16 01:18:20.522926 getlocaldata: conexao com banco local realizada
+2015-06-16 01:18:21.255251 getlocaldata: Loaded data from local database
+2015-06-16 01:18:21.275091 senddata: Sending samples to the server.
+2015-06-16 01:18:27.453929 senddata: All data has been sent to server. 
+2015-06-16 01:18:27.454214 senddata: Deleting local data.
+2015-06-16 01:18:27.875316 senddata: Data has been deleted.
+2015-06-16 01:20:36.833992 getlocaldata: conexao com banco local realizada
+2015-06-16 01:20:37.098231 getlocaldata: Loaded data from local database
+2015-06-16 01:20:37.103723 senddata: Sending samples to the server.
+2015-06-16 01:20:39.556199 senddata: All data has been sent to server. 
+2015-06-16 01:20:39.556487 senddata: Deleting local data.
+2015-06-16 01:20:39.639518 senddata: Data has been deleted.
+2015-06-16 01:28:20.612791 getlocaldata: conexao com banco local realizada
+2015-06-16 01:28:21.330802 getlocaldata: Loaded data from local database
+2015-06-16 01:28:21.336064 senddata: Sending samples to the server.
+2015-06-16 01:28:26.803380 senddata: All data has been sent to server. 
+2015-06-16 01:28:26.803662 senddata: Deleting local data.
+2015-06-16 01:28:27.823623 senddata: Data has been deleted.
+2015-06-16 01:30:36.982814 getlocaldata: conexao com banco local realizada
+2015-06-16 01:30:37.220919 getlocaldata: Loaded data from local database
+2015-06-16 01:30:37.226093 senddata: Sending samples to the server.
+2015-06-16 01:30:39.985966 senddata: All data has been sent to server. 
+2015-06-16 01:30:39.986247 senddata: Deleting local data.
+2015-06-16 01:30:40.071559 senddata: Data has been deleted.
+2015-06-16 01:38:20.741504 getlocaldata: conexao com banco local realizada
+2015-06-16 01:38:21.441144 getlocaldata: Loaded data from local database
+2015-06-16 01:38:21.446276 senddata: Sending samples to the server.
+2015-06-16 01:38:25.812145 senddata: All data has been sent to server. 
+2015-06-16 01:38:25.812432 senddata: Deleting local data.
+2015-06-16 01:38:25.966579 senddata: Data has been deleted.
+2015-06-16 01:40:36.326061 getlocaldata: conexao com banco local realizada
+2015-06-16 01:40:36.600521 getlocaldata: Loaded data from local database
+2015-06-16 01:40:36.605601 senddata: Sending samples to the server.
+2015-06-16 01:40:39.058677 senddata: All data has been sent to server. 
+2015-06-16 01:40:39.058965 senddata: Deleting local data.
+2015-06-16 01:40:39.134716 senddata: Data has been deleted.
+2015-06-16 01:48:20.771627 getlocaldata: conexao com banco local realizada
+2015-06-16 01:48:21.490898 getlocaldata: Loaded data from local database
+2015-06-16 01:48:21.496047 senddata: Sending samples to the server.
+2015-06-16 01:48:25.481918 senddata: All data has been sent to server. 
+2015-06-16 01:48:25.482266 senddata: Deleting local data.
+2015-06-16 01:48:26.429287 senddata: Data has been deleted.
+2015-06-16 01:50:37.154738 getlocaldata: conexao com banco local realizada
+2015-06-16 01:50:37.430846 getlocaldata: Loaded data from local database
+2015-06-16 01:50:37.436117 senddata: Sending samples to the server.
+2015-06-16 01:50:39.471936 senddata: All data has been sent to server. 
+2015-06-16 01:50:39.472223 senddata: Deleting local data.
+2015-06-16 01:50:39.557102 senddata: Data has been deleted.
+2015-06-16 01:58:20.906712 getlocaldata: conexao com banco local realizada
+2015-06-16 01:58:21.620893 getlocaldata: Loaded data from local database
+2015-06-16 01:58:21.626107 senddata: Sending samples to the server.
+2015-06-16 01:58:25.692156 senddata: All data has been sent to server. 
+2015-06-16 01:58:25.692552 senddata: Deleting local data.
+2015-06-16 01:58:25.849830 senddata: Data has been deleted.
+2015-06-16 02:00:37.311847 getlocaldata: conexao com banco local realizada
+2015-06-16 02:00:37.587842 getlocaldata: Loaded data from local database
+2015-06-16 02:00:37.593904 senddata: Sending samples to the server.
+2015-06-16 02:00:39.653311 senddata: All data has been sent to server. 
+2015-06-16 02:00:39.653612 senddata: Deleting local data.
+2015-06-16 02:00:39.719714 senddata: Data has been deleted.
+2015-06-16 02:08:20.961709 getlocaldata: conexao com banco local realizada
+2015-06-16 02:08:21.693194 getlocaldata: Loaded data from local database
+2015-06-16 02:08:21.698484 senddata: Sending samples to the server.
+2015-06-16 02:08:26.793160 senddata: All data has been sent to server. 
+2015-06-16 02:08:26.793443 senddata: Deleting local data.
+2015-06-16 02:08:26.930390 senddata: Data has been deleted.
+2015-06-16 02:10:37.332924 getlocaldata: conexao com banco local realizada
+2015-06-16 02:10:37.590616 getlocaldata: Loaded data from local database
+2015-06-16 02:10:37.595748 senddata: Sending samples to the server.
+2015-06-16 02:10:43.441974 senddata: All data has been sent to server. 
+2015-06-16 02:10:43.442256 senddata: Deleting local data.
+2015-06-16 02:10:43.734693 senddata: Data has been deleted.
+2015-06-16 02:18:21.148726 getlocaldata: conexao com banco local realizada
+2015-06-16 02:18:21.866268 getlocaldata: Loaded data from local database
+2015-06-16 02:18:21.876491 senddata: Sending samples to the server.
+2015-06-16 02:18:27.675053 senddata: All data has been sent to server. 
+2015-06-16 02:18:27.675546 senddata: Deleting local data.
+2015-06-16 02:18:28.570099 senddata: Data has been deleted.
+2015-06-16 02:20:37.451718 getlocaldata: conexao com banco local realizada
+2015-06-16 02:20:37.730822 getlocaldata: Loaded data from local database
+2015-06-16 02:20:37.735980 senddata: Sending samples to the server.
+2015-06-16 02:20:40.403118 senddata: All data has been sent to server. 
+2015-06-16 02:20:40.403404 senddata: Deleting local data.
+2015-06-16 02:20:40.475014 senddata: Data has been deleted.
+2015-06-16 02:28:21.222701 getlocaldata: conexao com banco local realizada
+2015-06-16 02:28:21.960735 getlocaldata: Loaded data from local database
+2015-06-16 02:28:21.966106 senddata: Sending samples to the server.
+2015-06-16 02:28:27.373019 senddata: All data has been sent to server. 
+2015-06-16 02:28:27.373303 senddata: Deleting local data.
+2015-06-16 02:28:27.556745 senddata: Data has been deleted.
+2015-06-16 02:30:37.151401 getlocaldata: conexao com banco local realizada
+2015-06-16 02:30:37.400884 getlocaldata: Loaded data from local database
+2015-06-16 02:30:37.406115 senddata: Sending samples to the server.
+2015-06-16 02:30:39.662955 senddata: All data has been sent to server. 
+2015-06-16 02:30:39.663240 senddata: Deleting local data.
+2015-06-16 02:30:39.730938 senddata: Data has been deleted.
+2015-06-16 02:38:21.373816 getlocaldata: conexao com banco local realizada
+2015-06-16 02:38:22.078673 getlocaldata: Loaded data from local database
+2015-06-16 02:38:22.084510 senddata: Sending samples to the server.
+2015-06-16 02:38:25.858674 senddata: All data has been sent to server. 
+2015-06-16 02:38:25.858962 senddata: Deleting local data.
+2015-06-16 02:38:26.889720 senddata: Data has been deleted.
+2015-06-16 02:40:37.561727 getlocaldata: conexao com banco local realizada
+2015-06-16 02:40:37.810494 getlocaldata: Loaded data from local database
+2015-06-16 02:40:37.815717 senddata: Sending samples to the server.
+2015-06-16 02:40:39.923127 senddata: All data has been sent to server. 
+2015-06-16 02:40:39.923412 senddata: Deleting local data.
+2015-06-16 02:40:40.000009 senddata: Data has been deleted.
+2015-06-16 02:48:21.420694 getlocaldata: conexao com banco local realizada
+2015-06-16 02:48:22.141188 getlocaldata: Loaded data from local database
+2015-06-16 02:48:22.146486 senddata: Sending samples to the server.
+2015-06-16 02:48:26.143032 senddata: All data has been sent to server. 
+2015-06-16 02:48:26.143316 senddata: Deleting local data.
+2015-06-16 02:48:26.285310 senddata: Data has been deleted.
+2015-06-16 02:50:37.642694 getlocaldata: conexao com banco local realizada
+2015-06-16 02:50:37.910280 getlocaldata: Loaded data from local database
+2015-06-16 02:50:37.915517 senddata: Sending samples to the server.
+2015-06-16 02:52:45.700397 senddata: Could not connect to server
+2015-06-16 02:58:20.231832 getlocaldata: conexao com banco local realizada
+2015-06-16 02:58:21.041005 getlocaldata: Loaded data from local database
+2015-06-16 02:58:21.046174 senddata: Sending samples to the server.
+2015-06-16 02:58:27.838805 senddata: All data has been sent to server. 
+2015-06-16 02:58:27.839091 senddata: Deleting local data.
+2015-06-16 02:58:28.036154 senddata: Data has been deleted.
+2015-06-16 03:00:37.798199 getlocaldata: conexao com banco local realizada
+2015-06-16 03:00:38.077533 getlocaldata: Loaded data from local database
+2015-06-16 03:00:38.083186 senddata: Sending samples to the server.
+2015-06-16 03:00:40.181923 senddata: All data has been sent to server. 
+2015-06-16 03:00:40.182205 senddata: Deleting local data.
+2015-06-16 03:00:40.264078 senddata: Data has been deleted.
+2015-06-16 03:08:21.641892 getlocaldata: conexao com banco local realizada
+2015-06-16 03:08:22.370112 getlocaldata: Loaded data from local database
+2015-06-16 03:08:22.375478 senddata: Sending samples to the server.
+2015-06-16 03:08:27.743167 senddata: All data has been sent to server. 
+2015-06-16 03:08:27.743454 senddata: Deleting local data.
+2015-06-16 03:08:27.902615 senddata: Data has been deleted.
+2015-06-16 03:10:37.872792 getlocaldata: conexao com banco local realizada
+2015-06-16 03:10:38.140765 getlocaldata: Loaded data from local database
+2015-06-16 03:10:38.146126 senddata: Sending samples to the server.
+2015-06-16 03:10:40.461749 senddata: All data has been sent to server. 
+2015-06-16 03:10:40.462029 senddata: Deleting local data.
+2015-06-16 03:10:40.534524 senddata: Data has been deleted.
+2015-06-16 03:18:21.674969 getlocaldata: conexao com banco local realizada
+2015-06-16 03:18:22.410866 getlocaldata: Loaded data from local database
+2015-06-16 03:18:22.416111 senddata: Sending samples to the server.
+2015-06-16 03:18:26.392960 senddata: All data has been sent to server. 
+2015-06-16 03:18:26.393246 senddata: Deleting local data.
+2015-06-16 03:18:26.569049 senddata: Data has been deleted.
+2015-06-16 03:20:37.558387 getlocaldata: conexao com banco local realizada
+2015-06-16 03:20:37.820598 getlocaldata: Loaded data from local database
+2015-06-16 03:20:37.831219 senddata: Sending samples to the server.
+2015-06-16 03:20:39.938073 senddata: All data has been sent to server. 
+2015-06-16 03:20:39.938360 senddata: Deleting local data.
+2015-06-16 03:20:40.015449 senddata: Data has been deleted.
+2015-06-16 03:28:21.783034 getlocaldata: conexao com banco local realizada
+2015-06-16 03:28:22.517886 getlocaldata: Loaded data from local database
+2015-06-16 03:28:22.523542 senddata: Sending samples to the server.
+2015-06-16 03:28:27.288750 senddata: All data has been sent to server. 
+2015-06-16 03:28:27.289040 senddata: Deleting local data.
+2015-06-16 03:28:27.628778 senddata: Data has been deleted.
+2015-06-16 03:30:37.981721 getlocaldata: conexao com banco local realizada
+2015-06-16 03:30:38.230814 getlocaldata: Loaded data from local database
+2015-06-16 03:30:38.235865 senddata: Sending samples to the server.
+2015-06-16 03:30:40.272256 senddata: All data has been sent to server. 
+2015-06-16 03:30:40.272543 senddata: Deleting local data.
+2015-06-16 03:30:40.342515 senddata: Data has been deleted.
+2015-06-16 03:38:21.951685 getlocaldata: conexao com banco local realizada
+2015-06-16 03:38:22.690641 getlocaldata: Loaded data from local database
+2015-06-16 03:38:22.696138 senddata: Sending samples to the server.
+2015-06-16 03:38:26.543466 senddata: All data has been sent to server. 
+2015-06-16 03:38:26.543754 senddata: Deleting local data.
+2015-06-16 03:38:26.699084 senddata: Data has been deleted.
+2015-06-16 03:40:38.061542 getlocaldata: conexao com banco local realizada
+2015-06-16 03:40:38.300812 getlocaldata: Loaded data from local database
+2015-06-16 03:40:38.305990 senddata: Sending samples to the server.
+2015-06-16 03:40:40.333269 senddata: All data has been sent to server. 
+2015-06-16 03:40:40.333552 senddata: Deleting local data.
+2015-06-16 03:40:40.408469 senddata: Data has been deleted.
+2015-06-16 03:48:22.022622 getlocaldata: conexao com banco local realizada
+2015-06-16 03:48:22.741674 getlocaldata: Loaded data from local database
+2015-06-16 03:48:22.747033 senddata: Sending samples to the server.
+2015-06-16 03:48:26.652898 senddata: All data has been sent to server. 
+2015-06-16 03:48:26.653188 senddata: Deleting local data.
+2015-06-16 03:48:27.680498 senddata: Data has been deleted.
+2015-06-16 03:50:38.175219 getlocaldata: conexao com banco local realizada
+2015-06-16 03:50:38.441118 getlocaldata: Loaded data from local database
+2015-06-16 03:50:38.446393 senddata: Sending samples to the server.
+2015-06-16 03:50:40.555031 senddata: All data has been sent to server. 
+2015-06-16 03:50:40.555316 senddata: Deleting local data.
+2015-06-16 03:50:40.627959 senddata: Data has been deleted.
+2015-06-16 03:58:22.126224 getlocaldata: conexao com banco local realizada
+2015-06-16 03:58:22.860797 getlocaldata: Loaded data from local database
+2015-06-16 03:58:22.882031 senddata: Sending samples to the server.
+2015-06-16 03:58:26.718792 senddata: All data has been sent to server. 
+2015-06-16 03:58:26.719082 senddata: Deleting local data.
+2015-06-16 03:58:26.899410 senddata: Data has been deleted.
+2015-06-16 04:00:38.241546 getlocaldata: conexao com banco local realizada
+2015-06-16 04:00:38.491630 getlocaldata: Loaded data from local database
+2015-06-16 04:00:38.496741 senddata: Sending samples to the server.
+2015-06-16 04:00:40.553911 senddata: All data has been sent to server. 
+2015-06-16 04:00:40.554191 senddata: Deleting local data.
+2015-06-16 04:00:40.657092 senddata: Data has been deleted.
+2015-06-16 04:08:22.243554 getlocaldata: conexao com banco local realizada
+2015-06-16 04:08:22.966041 getlocaldata: Loaded data from local database
+2015-06-16 04:08:22.971689 senddata: Sending samples to the server.
+2015-06-16 04:08:27.932151 senddata: All data has been sent to server. 
+2015-06-16 04:08:27.932442 senddata: Deleting local data.
+2015-06-16 04:08:28.083257 senddata: Data has been deleted.
+2015-06-16 04:10:38.045237 getlocaldata: conexao com banco local realizada
+2015-06-16 04:10:38.280806 getlocaldata: Loaded data from local database
+2015-06-16 04:10:38.286494 senddata: Sending samples to the server.
+2015-06-16 04:10:41.001972 senddata: All data has been sent to server. 
+2015-06-16 04:10:41.002259 senddata: Deleting local data.
+2015-06-16 04:10:41.072808 senddata: Data has been deleted.
+2015-06-16 04:18:22.358090 getlocaldata: conexao com banco local realizada
+2015-06-16 04:18:23.080911 getlocaldata: Loaded data from local database
+2015-06-16 04:18:23.086555 senddata: Sending samples to the server.
+2015-06-16 04:18:26.822095 senddata: All data has been sent to server. 
+2015-06-16 04:18:26.822390 senddata: Deleting local data.
+2015-06-16 04:18:26.977433 senddata: Data has been deleted.
+2015-06-16 04:20:38.483784 getlocaldata: conexao com banco local realizada
+2015-06-16 04:20:38.737924 getlocaldata: Loaded data from local database
+2015-06-16 04:20:38.753599 senddata: Sending samples to the server.
+2015-06-16 04:20:40.923075 senddata: All data has been sent to server. 
+2015-06-16 04:20:40.923375 senddata: Deleting local data.
+2015-06-16 04:20:40.989716 senddata: Data has been deleted.
+2015-06-16 04:28:22.405674 getlocaldata: conexao com banco local realizada
+2015-06-16 04:28:23.161684 getlocaldata: Loaded data from local database
+2015-06-16 04:28:23.167099 senddata: Sending samples to the server.
+2015-06-16 04:28:26.509819 senddata: All data has been sent to server. 
+2015-06-16 04:28:26.510107 senddata: Deleting local data.
+2015-06-16 04:28:28.613402 senddata: Data has been deleted.
+2015-06-16 04:30:38.601656 getlocaldata: conexao com banco local realizada
+2015-06-16 04:30:38.860435 getlocaldata: Loaded data from local database
+2015-06-16 04:30:38.865845 senddata: Sending samples to the server.
+2015-06-16 04:30:41.199720 senddata: All data has been sent to server. 
+2015-06-16 04:30:41.200012 senddata: Deleting local data.
+2015-06-16 04:30:41.270111 senddata: Data has been deleted.
+2015-06-16 04:38:22.441839 getlocaldata: conexao com banco local realizada
+2015-06-16 04:38:23.170839 getlocaldata: Loaded data from local database
+2015-06-16 04:38:23.176019 senddata: Sending samples to the server.
+2015-06-16 04:38:27.511960 senddata: All data has been sent to server. 
+2015-06-16 04:38:27.512244 senddata: Deleting local data.
+2015-06-16 04:38:27.669601 senddata: Data has been deleted.
+2015-06-16 04:40:38.634761 getlocaldata: conexao com banco local realizada
+2015-06-16 04:40:38.907381 getlocaldata: Loaded data from local database
+2015-06-16 04:40:38.913030 senddata: Sending samples to the server.
+2015-06-16 04:40:40.941990 senddata: All data has been sent to server. 
+2015-06-16 04:40:40.942276 senddata: Deleting local data.
+2015-06-16 04:40:41.013594 senddata: Data has been deleted.
+2015-06-16 04:48:22.601731 getlocaldata: conexao com banco local realizada
+2015-06-16 04:48:23.316780 getlocaldata: Loaded data from local database
+2015-06-16 04:48:23.322514 senddata: Sending samples to the server.
+2015-06-16 04:48:27.262309 senddata: All data has been sent to server. 
+2015-06-16 04:48:27.262601 senddata: Deleting local data.
+2015-06-16 04:48:27.413986 senddata: Data has been deleted.
+2015-06-16 04:50:38.392643 getlocaldata: conexao com banco local realizada
+2015-06-16 04:50:38.649634 getlocaldata: Loaded data from local database
+2015-06-16 04:50:38.654909 senddata: Sending samples to the server.
+2015-06-16 04:50:41.013349 senddata: All data has been sent to server. 
+2015-06-16 04:50:41.013638 senddata: Deleting local data.
+2015-06-16 04:50:41.086642 senddata: Data has been deleted.
+2015-06-16 04:58:22.691649 getlocaldata: conexao com banco local realizada
+2015-06-16 04:58:23.400640 getlocaldata: Loaded data from local database
+2015-06-16 04:58:23.405916 senddata: Sending samples to the server.
+2015-06-16 04:58:27.390671 senddata: All data has been sent to server. 
+2015-06-16 04:58:27.390965 senddata: Deleting local data.
+2015-06-16 04:58:27.554689 senddata: Data has been deleted.
+2015-06-16 05:00:38.852824 getlocaldata: conexao com banco local realizada
+2015-06-16 05:00:39.070739 getlocaldata: Loaded data from local database
+2015-06-16 05:00:39.075933 senddata: Sending samples to the server.
+2015-06-16 05:00:41.252011 senddata: All data has been sent to server. 
+2015-06-16 05:00:41.252300 senddata: Deleting local data.
+2015-06-16 05:00:41.363844 senddata: Data has been deleted.
+2015-06-16 05:08:22.818253 getlocaldata: conexao com banco local realizada
+2015-06-16 05:08:23.511042 getlocaldata: Loaded data from local database
+2015-06-16 05:08:23.518466 senddata: Sending samples to the server.
+2015-06-16 05:08:29.262190 senddata: All data has been sent to server. 
+2015-06-16 05:08:29.262474 senddata: Deleting local data.
+2015-06-16 05:08:29.412263 senddata: Data has been deleted.
+2015-06-16 05:10:38.911622 getlocaldata: conexao com banco local realizada
+2015-06-16 05:10:39.160561 getlocaldata: Loaded data from local database
+2015-06-16 05:10:39.174884 senddata: Sending samples to the server.
+2015-06-16 05:10:41.221682 senddata: All data has been sent to server. 
+2015-06-16 05:10:41.221974 senddata: Deleting local data.
+2015-06-16 05:10:41.294122 senddata: Data has been deleted.
+2015-06-16 05:18:22.949451 getlocaldata: conexao com banco local realizada
+2015-06-16 05:18:23.310873 getlocaldata: Loaded data from local database
+2015-06-16 05:18:23.316187 senddata: Sending samples to the server.
+2015-06-16 05:18:26.961821 senddata: All data has been sent to server. 
+2015-06-16 05:18:26.962108 senddata: Deleting local data.
+2015-06-16 05:18:27.137012 senddata: Data has been deleted.
+2015-06-16 05:20:39.007530 getlocaldata: conexao com banco local realizada
+2015-06-16 05:20:39.290642 getlocaldata: Loaded data from local database
+2015-06-16 05:20:39.296048 senddata: Sending samples to the server.
+2015-06-16 05:20:41.387334 senddata: All data has been sent to server. 
+2015-06-16 05:20:41.387616 senddata: Deleting local data.
+2015-06-16 05:20:41.469797 senddata: Data has been deleted.
+2015-06-16 05:28:22.972591 getlocaldata: conexao com banco local realizada
+2015-06-16 05:28:23.670863 getlocaldata: Loaded data from local database
+2015-06-16 05:28:23.676140 senddata: Sending samples to the server.
+2015-06-16 05:28:29.807902 senddata: All data has been sent to server. 
+2015-06-16 05:28:29.808182 senddata: Deleting local data.
+2015-06-16 05:28:29.995402 senddata: Data has been deleted.
+2015-06-16 05:30:39.019932 getlocaldata: conexao com banco local realizada
+2015-06-16 05:30:39.150863 getlocaldata: Loaded data from local database
+2015-06-16 05:30:39.156361 senddata: Sending samples to the server.
+2015-06-16 05:30:41.222727 senddata: All data has been sent to server. 
+2015-06-16 05:30:41.223018 senddata: Deleting local data.
+2015-06-16 05:30:41.292249 senddata: Data has been deleted.
+2015-06-16 05:38:22.829755 getlocaldata: conexao com banco local realizada
+2015-06-16 05:38:23.200727 getlocaldata: Loaded data from local database
+2015-06-16 05:38:23.205964 senddata: Sending samples to the server.
+2015-06-16 05:38:26.821918 senddata: All data has been sent to server. 
+2015-06-16 05:38:26.822204 senddata: Deleting local data.
+2015-06-16 05:38:26.972049 senddata: Data has been deleted.
+2015-06-16 05:40:39.329932 getlocaldata: conexao com banco local realizada
+2015-06-16 05:40:39.611043 getlocaldata: Loaded data from local database
+2015-06-16 05:40:39.616360 senddata: Sending samples to the server.
+2015-06-16 05:40:41.742026 senddata: All data has been sent to server. 
+2015-06-16 05:40:41.742310 senddata: Deleting local data.
+2015-06-16 05:40:41.819606 senddata: Data has been deleted.
+2015-06-16 05:48:23.211823 getlocaldata: conexao com banco local realizada
+2015-06-16 05:48:23.921183 getlocaldata: Loaded data from local database
+2015-06-16 05:48:23.926461 senddata: Sending samples to the server.
+2015-06-16 05:48:27.663708 senddata: All data has been sent to server. 
+2015-06-16 05:48:27.663994 senddata: Deleting local data.
+2015-06-16 05:48:27.828482 senddata: Data has been deleted.
+2015-06-16 05:50:38.555489 getlocaldata: conexao com banco local realizada
+2015-06-16 05:50:38.690841 getlocaldata: Loaded data from local database
+2015-06-16 05:50:38.696158 senddata: Sending samples to the server.
+2015-06-16 05:50:40.717458 senddata: All data has been sent to server. 
+2015-06-16 05:50:40.717741 senddata: Deleting local data.
+2015-06-16 05:50:42.038651 senddata: Data has been deleted.
+2015-06-16 05:58:23.338581 getlocaldata: conexao com banco local realizada
+2015-06-16 05:58:24.070574 getlocaldata: Loaded data from local database
+2015-06-16 05:58:24.075888 senddata: Sending samples to the server.
+2015-06-16 05:58:28.712364 senddata: All data has been sent to server. 
+2015-06-16 05:58:28.712648 senddata: Deleting local data.
+2015-06-16 05:58:28.853634 senddata: Data has been deleted.
+2015-06-16 06:00:39.434135 getlocaldata: conexao com banco local realizada
+2015-06-16 06:00:39.680494 getlocaldata: Loaded data from local database
+2015-06-16 06:00:39.685646 senddata: Sending samples to the server.
+2015-06-16 06:00:41.713151 senddata: All data has been sent to server. 
+2015-06-16 06:00:41.713436 senddata: Deleting local data.
+2015-06-16 06:00:41.789722 senddata: Data has been deleted.
+2015-06-16 06:08:23.345897 getlocaldata: conexao com banco local realizada
+2015-06-16 06:08:24.030947 getlocaldata: Loaded data from local database
+2015-06-16 06:08:24.036118 senddata: Sending samples to the server.
+2015-06-16 06:08:29.220728 senddata: All data has been sent to server. 
+2015-06-16 06:08:29.221013 senddata: Deleting local data.
+2015-06-16 06:08:29.389297 senddata: Data has been deleted.
+2015-06-16 06:10:39.622576 getlocaldata: conexao com banco local realizada
+2015-06-16 06:10:39.880708 getlocaldata: Loaded data from local database
+2015-06-16 06:10:39.885855 senddata: Sending samples to the server.
+2015-06-16 06:10:42.077874 senddata: All data has been sent to server. 
+2015-06-16 06:10:42.078162 senddata: Deleting local data.
+2015-06-16 06:10:42.155642 senddata: Data has been deleted.
+2015-06-16 06:18:23.550379 getlocaldata: conexao com banco local realizada
+2015-06-16 06:18:24.231004 getlocaldata: Loaded data from local database
+2015-06-16 06:18:24.236346 senddata: Sending samples to the server.
+2015-06-16 06:18:29.974772 senddata: All data has been sent to server. 
+2015-06-16 06:18:29.975062 senddata: Deleting local data.
+2015-06-16 06:18:30.149627 senddata: Data has been deleted.
+2015-06-16 06:20:38.721937 getlocaldata: conexao com banco local realizada
+2015-06-16 06:20:38.977794 getlocaldata: Loaded data from local database
+2015-06-16 06:20:38.993453 senddata: Sending samples to the server.
+2015-06-16 06:20:41.052967 senddata: All data has been sent to server. 
+2015-06-16 06:20:41.053251 senddata: Deleting local data.
+2015-06-16 06:20:41.117950 senddata: Data has been deleted.
+2015-06-16 06:28:23.584611 getlocaldata: conexao com banco local realizada
+2015-06-16 06:28:24.290994 getlocaldata: Loaded data from local database
+2015-06-16 06:28:24.296138 senddata: Sending samples to the server.
+2015-06-16 06:28:28.113066 senddata: All data has been sent to server. 
+2015-06-16 06:28:28.113351 senddata: Deleting local data.
+2015-06-16 06:28:28.267637 senddata: Data has been deleted.
+2015-06-16 06:30:39.743200 getlocaldata: conexao com banco local realizada
+2015-06-16 06:30:40.000896 getlocaldata: Loaded data from local database
+2015-06-16 06:30:40.006134 senddata: Sending samples to the server.
+2015-06-16 06:30:42.314318 senddata: All data has been sent to server. 
+2015-06-16 06:30:42.314604 senddata: Deleting local data.
+2015-06-16 06:30:42.385562 senddata: Data has been deleted.
+2015-06-16 06:38:23.730434 getlocaldata: conexao com banco local realizada
+2015-06-16 06:38:24.450925 getlocaldata: Loaded data from local database
+2015-06-16 06:38:24.456495 senddata: Sending samples to the server.
+2015-06-16 06:38:28.591927 senddata: All data has been sent to server. 
+2015-06-16 06:38:28.592216 senddata: Deleting local data.
+2015-06-16 06:38:28.781365 senddata: Data has been deleted.
+2015-06-16 06:40:39.857443 getlocaldata: conexao com banco local realizada
+2015-06-16 06:40:40.140970 getlocaldata: Loaded data from local database
+2015-06-16 06:40:40.146492 senddata: Sending samples to the server.
+2015-06-16 06:40:42.522615 senddata: All data has been sent to server. 
+2015-06-16 06:40:42.522896 senddata: Deleting local data.
+2015-06-16 06:40:42.598385 senddata: Data has been deleted.
+2015-06-16 06:48:23.786557 getlocaldata: conexao com banco local realizada
+2015-06-16 06:48:24.490998 getlocaldata: Loaded data from local database
+2015-06-16 06:48:24.496446 senddata: Sending samples to the server.
+2015-06-16 06:48:30.656632 senddata: All data has been sent to server. 
+2015-06-16 06:48:30.656919 senddata: Deleting local data.
+2015-06-16 06:48:30.803912 senddata: Data has been deleted.
+2015-06-16 06:50:39.971650 getlocaldata: conexao com banco local realizada
+2015-06-16 06:50:40.246244 getlocaldata: Loaded data from local database
+2015-06-16 06:50:40.261877 senddata: Sending samples to the server.
+2015-06-16 06:50:42.441398 senddata: All data has been sent to server. 
+2015-06-16 06:50:42.441676 senddata: Deleting local data.
+2015-06-16 06:50:42.520889 senddata: Data has been deleted.
+2015-06-16 06:58:23.903532 getlocaldata: conexao com banco local realizada
+2015-06-16 06:58:24.608418 getlocaldata: Loaded data from local database
+2015-06-16 06:58:24.613827 senddata: Sending samples to the server.
+2015-06-16 06:58:28.793112 senddata: All data has been sent to server. 
+2015-06-16 06:58:28.793392 senddata: Deleting local data.
+2015-06-16 06:58:28.934246 senddata: Data has been deleted.
+2015-06-16 07:00:40.061079 getlocaldata: conexao com banco local realizada
+2015-06-16 07:00:40.330754 getlocaldata: Loaded data from local database
+2015-06-16 07:00:40.335988 senddata: Sending samples to the server.
+2015-06-16 07:00:42.532973 senddata: All data has been sent to server. 
+2015-06-16 07:00:42.533261 senddata: Deleting local data.
+2015-06-16 07:00:42.608360 senddata: Data has been deleted.
+2015-06-16 07:08:24.192790 getlocaldata: conexao com banco local realizada
+2015-06-16 07:08:24.910851 getlocaldata: Loaded data from local database
+2015-06-16 07:08:24.916356 senddata: Sending samples to the server.
+2015-06-16 07:08:29.141968 senddata: All data has been sent to server. 
+2015-06-16 07:08:29.142248 senddata: Deleting local data.
+2015-06-16 07:08:29.287423 senddata: Data has been deleted.
+2015-06-16 07:10:40.261642 getlocaldata: conexao com banco local realizada
+2015-06-16 07:10:40.490850 getlocaldata: Loaded data from local database
+2015-06-16 07:10:40.495904 senddata: Sending samples to the server.
+2015-06-16 07:10:42.601340 senddata: All data has been sent to server. 
+2015-06-16 07:10:42.601632 senddata: Deleting local data.
+2015-06-16 07:10:42.663456 senddata: Data has been deleted.
+2015-06-16 07:18:24.312807 getlocaldata: conexao com banco local realizada
+2015-06-16 07:18:25.070874 getlocaldata: Loaded data from local database
+2015-06-16 07:18:25.076296 senddata: Sending samples to the server.
+2015-06-16 07:18:29.101970 senddata: All data has been sent to server. 
+2015-06-16 07:18:29.102257 senddata: Deleting local data.
+2015-06-16 07:18:29.279645 senddata: Data has been deleted.
+2015-06-16 07:20:40.325028 getlocaldata: conexao com banco local realizada
+2015-06-16 07:20:40.582248 getlocaldata: Loaded data from local database
+2015-06-16 07:20:40.587358 senddata: Sending samples to the server.
+2015-06-16 07:20:42.692066 senddata: All data has been sent to server. 
+2015-06-16 07:20:42.692348 senddata: Deleting local data.
+2015-06-16 07:20:42.754594 senddata: Data has been deleted.
+2015-06-16 07:28:23.541934 getlocaldata: conexao com banco local realizada
+2015-06-16 07:28:24.290939 getlocaldata: Loaded data from local database
+2015-06-16 07:28:24.296446 senddata: Sending samples to the server.
+2015-06-16 07:28:28.312033 senddata: All data has been sent to server. 
+2015-06-16 07:28:28.312324 senddata: Deleting local data.
+2015-06-16 07:28:28.557057 senddata: Data has been deleted.
+2015-06-16 07:30:40.416366 getlocaldata: conexao com banco local realizada
+2015-06-16 07:30:40.760479 getlocaldata: Loaded data from local database
+2015-06-16 07:30:40.765586 senddata: Sending samples to the server.
+2015-06-16 07:30:42.963332 senddata: All data has been sent to server. 
+2015-06-16 07:30:42.963618 senddata: Deleting local data.
+2015-06-16 07:30:43.029678 senddata: Data has been deleted.
+2015-06-16 07:38:23.911821 getlocaldata: conexao com banco local realizada
+2015-06-16 07:38:24.590657 getlocaldata: Loaded data from local database
+2015-06-16 07:38:24.595943 senddata: Sending samples to the server.
+2015-06-16 07:38:29.191134 senddata: All data has been sent to server. 
+2015-06-16 07:38:29.191419 senddata: Deleting local data.
+2015-06-16 07:38:29.355998 senddata: Data has been deleted.
+2015-06-16 07:40:40.102850 getlocaldata: conexao com banco local realizada
+2015-06-16 07:40:40.428388 getlocaldata: Loaded data from local database
+2015-06-16 07:40:40.433901 senddata: Sending samples to the server.
+2015-06-16 07:40:42.513444 senddata: All data has been sent to server. 
+2015-06-16 07:40:42.513726 senddata: Deleting local data.
+2015-06-16 07:40:42.588155 senddata: Data has been deleted.
+2015-06-16 07:48:23.943877 getlocaldata: conexao com banco local realizada
+2015-06-16 07:48:24.210802 getlocaldata: Loaded data from local database
+2015-06-16 07:48:24.216046 senddata: Sending samples to the server.
+2015-06-16 07:48:27.808298 senddata: All data has been sent to server. 
+2015-06-16 07:48:27.808587 senddata: Deleting local data.
+2015-06-16 07:48:27.963097 senddata: Data has been deleted.
+2015-06-16 07:50:40.202872 getlocaldata: conexao com banco local realizada
+2015-06-16 07:50:40.311400 getlocaldata: Loaded data from local database
+2015-06-16 07:50:40.316622 senddata: Sending samples to the server.
+2015-06-16 07:50:41.621891 senddata: All data has been sent to server. 
+2015-06-16 07:50:41.622176 senddata: Deleting local data.
+2015-06-16 07:50:41.669763 senddata: Data has been deleted.
+2015-06-16 07:58:24.005975 getlocaldata: conexao com banco local realizada
+2015-06-16 07:58:24.130747 getlocaldata: Loaded data from local database
+2015-06-16 07:58:24.141605 senddata: Sending samples to the server.
+2015-06-16 07:58:26.021867 senddata: All data has been sent to server. 
+2015-06-16 07:58:26.022159 senddata: Deleting local data.
+2015-06-16 07:58:26.093229 senddata: Data has been deleted.
+2015-06-16 08:00:39.923075 getlocaldata: conexao com banco local realizada
+2015-06-16 08:00:40.006191 getlocaldata: Loaded data from local database
+2015-06-16 08:00:40.031692 senddata: Sending samples to the server.
+2015-06-16 08:00:41.476691 senddata: All data has been sent to server. 
+2015-06-16 08:00:41.476974 senddata: Deleting local data.
+2015-06-16 08:00:41.569055 senddata: Data has been deleted.
+2015-06-16 08:08:23.288431 getlocaldata: conexao com banco local realizada
+2015-06-16 08:08:23.371010 getlocaldata: Loaded data from local database
+2015-06-16 08:08:23.376231 senddata: Sending samples to the server.
+2015-06-16 08:08:24.514063 senddata: All data has been sent to server. 
+2015-06-16 08:08:24.514346 senddata: Deleting local data.
+2015-06-16 08:08:25.399032 senddata: Data has been deleted.
+2015-06-16 08:10:40.211645 getlocaldata: conexao com banco local realizada
+2015-06-16 08:10:40.270548 getlocaldata: Loaded data from local database
+2015-06-16 08:10:40.275641 senddata: Sending samples to the server.
+2015-06-16 08:10:41.552139 senddata: All data has been sent to server. 
+2015-06-16 08:10:41.552422 senddata: Deleting local data.
+2015-06-16 08:10:41.597169 senddata: Data has been deleted.
+2015-06-16 08:18:23.373822 getlocaldata: conexao com banco local realizada
+2015-06-16 08:18:23.591158 getlocaldata: Loaded data from local database
+2015-06-16 08:18:23.596280 senddata: Sending samples to the server.
+2015-06-16 08:18:25.683582 senddata: All data has been sent to server. 
+2015-06-16 08:18:25.683869 senddata: Deleting local data.
+2015-06-16 08:18:25.750956 senddata: Data has been deleted.
+2015-06-16 08:20:40.701745 getlocaldata: conexao com banco local realizada
+2015-06-16 08:20:40.788043 getlocaldata: Loaded data from local database
+2015-06-16 08:20:40.813676 senddata: Sending samples to the server.
+2015-06-16 08:20:42.272200 senddata: All data has been sent to server. 
+2015-06-16 08:20:42.272484 senddata: Deleting local data.
+2015-06-16 08:20:42.326920 senddata: Data has been deleted.
+2015-06-16 08:28:23.573562 getlocaldata: conexao com banco local realizada
+2015-06-16 08:28:23.700870 getlocaldata: Loaded data from local database
+2015-06-16 08:28:23.706234 senddata: Sending samples to the server.
+2015-06-16 08:28:25.792823 senddata: All data has been sent to server. 
+2015-06-16 08:28:25.793214 senddata: Deleting local data.
+2015-06-16 08:28:26.718667 senddata: Data has been deleted.
+2015-06-16 08:30:40.882810 getlocaldata: conexao com banco local realizada
+2015-06-16 08:30:40.990875 getlocaldata: Loaded data from local database
+2015-06-16 08:30:40.996009 senddata: Sending samples to the server.
+2015-06-16 08:30:42.543180 senddata: All data has been sent to server. 
+2015-06-16 08:30:42.543466 senddata: Deleting local data.
+2015-06-16 08:30:42.589583 senddata: Data has been deleted.
+2015-06-16 08:38:23.983547 getlocaldata: conexao com banco local realizada
+2015-06-16 08:38:24.106239 getlocaldata: Loaded data from local database
+2015-06-16 08:38:24.118389 senddata: Sending samples to the server.
+2015-06-16 08:38:26.310817 senddata: All data has been sent to server. 
+2015-06-16 08:38:26.311103 senddata: Deleting local data.
+2015-06-16 08:38:26.385729 senddata: Data has been deleted.
+2015-06-16 08:40:40.792960 getlocaldata: conexao com banco local realizada
+2015-06-16 08:40:40.901020 getlocaldata: Loaded data from local database
+2015-06-16 08:40:40.906242 senddata: Sending samples to the server.
+2015-06-16 08:40:42.372926 senddata: All data has been sent to server. 
+2015-06-16 08:40:42.373211 senddata: Deleting local data.
+2015-06-16 08:40:42.415800 senddata: Data has been deleted.
+2015-06-16 08:48:23.687992 getlocaldata: conexao com banco local realizada
+2015-06-16 08:48:23.856086 getlocaldata: Loaded data from local database
+2015-06-16 08:48:23.865865 senddata: Sending samples to the server.
+2015-06-16 08:48:25.677781 senddata: All data has been sent to server. 
+2015-06-16 08:48:25.678066 senddata: Deleting local data.
+2015-06-16 08:48:25.714514 senddata: Data has been deleted.
+2015-06-16 08:50:39.838257 getlocaldata: conexao com banco local realizada
+2015-06-16 08:50:39.899966 getlocaldata: Loaded data from local database
+2015-06-16 08:50:39.905130 senddata: Sending samples to the server.
+2015-06-16 08:50:46.233337 senddata: All data has been sent to server. 
+2015-06-16 08:50:46.233623 senddata: Deleting local data.
+2015-06-16 08:50:46.323691 senddata: Data has been deleted.
+2015-06-16 08:58:25.086701 getlocaldata: conexao com banco local realizada
+2015-06-16 08:58:25.309681 getlocaldata: Loaded data from local database
+2015-06-16 08:58:25.315040 senddata: Sending samples to the server.
+2015-06-16 08:58:27.383497 senddata: All data has been sent to server. 
+2015-06-16 08:58:27.383783 senddata: Deleting local data.
+2015-06-16 08:58:27.424179 senddata: Data has been deleted.
+2015-06-16 09:00:40.775118 getlocaldata: conexao com banco local realizada
+2015-06-16 09:00:40.881027 getlocaldata: Loaded data from local database
+2015-06-16 09:00:40.900073 senddata: Sending samples to the server.
+2015-06-16 09:00:42.129061 senddata: All data has been sent to server. 
+2015-06-16 09:00:42.129587 senddata: Deleting local data.
+2015-06-16 09:00:42.175806 senddata: Data has been deleted.
+2015-06-16 09:08:24.818780 getlocaldata: conexao com banco local realizada
+2015-06-16 09:08:25.026492 getlocaldata: Loaded data from local database
+2015-06-16 09:08:25.031958 senddata: Sending samples to the server.
+2015-06-16 09:08:26.973680 senddata: All data has been sent to server. 
+2015-06-16 09:08:26.973963 senddata: Deleting local data.
+2015-06-16 09:08:27.289932 senddata: Data has been deleted.
+2015-06-16 09:10:40.965773 getlocaldata: conexao com banco local realizada
+2015-06-16 09:10:41.056852 getlocaldata: Loaded data from local database
+2015-06-16 09:10:41.082800 senddata: Sending samples to the server.
+2015-06-16 09:10:42.343057 senddata: All data has been sent to server. 
+2015-06-16 09:10:42.343346 senddata: Deleting local data.
+2015-06-16 09:10:42.389682 senddata: Data has been deleted.
+2015-06-16 09:18:25.168123 getlocaldata: conexao com banco local realizada
+2015-06-16 09:18:25.417832 getlocaldata: Loaded data from local database
+2015-06-16 09:18:25.430383 senddata: Sending samples to the server.
+2015-06-16 09:18:27.387657 senddata: All data has been sent to server. 
+2015-06-16 09:18:27.387943 senddata: Deleting local data.
+2015-06-16 09:18:27.990780 senddata: Data has been deleted.
+2015-06-16 09:20:41.153361 getlocaldata: conexao com banco local realizada
+2015-06-16 09:20:41.251178 getlocaldata: Loaded data from local database
+2015-06-16 09:20:41.256181 senddata: Sending samples to the server.
+2015-06-16 09:20:42.642010 senddata: All data has been sent to server. 
+2015-06-16 09:20:42.642296 senddata: Deleting local data.
+2015-06-16 09:20:42.704532 senddata: Data has been deleted.
+2015-06-16 09:28:25.311822 getlocaldata: conexao com banco local realizada
+2015-06-16 09:28:25.580835 getlocaldata: Loaded data from local database
+2015-06-16 09:28:25.586004 senddata: Sending samples to the server.
+2015-06-16 09:28:27.867607 senddata: All data has been sent to server. 
+2015-06-16 09:28:27.867892 senddata: Deleting local data.
+2015-06-16 09:28:27.938225 senddata: Data has been deleted.
+2015-06-16 09:30:41.335890 getlocaldata: conexao com banco local realizada
+2015-06-16 09:30:41.450879 getlocaldata: Loaded data from local database
+2015-06-16 09:30:41.456132 senddata: Sending samples to the server.
+2015-06-16 09:30:42.823359 senddata: All data has been sent to server. 
+2015-06-16 09:30:42.823643 senddata: Deleting local data.
+2015-06-16 09:30:42.867100 senddata: Data has been deleted.
+2015-06-16 09:38:25.431708 getlocaldata: conexao com banco local realizada
+2015-06-16 09:38:25.680825 getlocaldata: Loaded data from local database
+2015-06-16 09:38:25.686194 senddata: Sending samples to the server.
+2015-06-16 09:38:27.773722 senddata: All data has been sent to server. 
+2015-06-16 09:38:27.774111 senddata: Deleting local data.
+2015-06-16 09:38:29.159329 senddata: Data has been deleted.
+2015-06-16 09:40:40.344825 getlocaldata: conexao com banco local realizada
+2015-06-16 09:40:40.409673 getlocaldata: Loaded data from local database
+2015-06-16 09:40:40.414936 senddata: Sending samples to the server.
+2015-06-16 09:40:41.615671 senddata: All data has been sent to server. 
+2015-06-16 09:40:41.615952 senddata: Deleting local data.
+2015-06-16 09:40:41.680725 senddata: Data has been deleted.
+2015-06-16 09:48:25.301754 getlocaldata: conexao com banco local realizada
+2015-06-16 09:48:25.538583 getlocaldata: Loaded data from local database
+2015-06-16 09:48:25.544125 senddata: Sending samples to the server.
+2015-06-16 09:48:27.413572 senddata: All data has been sent to server. 
+2015-06-16 09:48:27.413858 senddata: Deleting local data.
+2015-06-16 09:48:28.963239 senddata: Data has been deleted.
+2015-06-16 09:50:41.382981 getlocaldata: conexao com banco local realizada
+2015-06-16 09:50:41.441159 getlocaldata: Loaded data from local database
+2015-06-16 09:50:41.453594 senddata: Sending samples to the server.
+2015-06-16 09:50:42.822016 senddata: All data has been sent to server. 
+2015-06-16 09:50:42.822300 senddata: Deleting local data.
+2015-06-16 09:50:42.869930 senddata: Data has been deleted.
+2015-06-16 09:58:25.472925 getlocaldata: conexao com banco local realizada
+2015-06-16 09:58:25.695985 getlocaldata: Loaded data from local database
+2015-06-16 09:58:25.701428 senddata: Sending samples to the server.
+2015-06-16 09:58:27.562178 senddata: All data has been sent to server. 
+2015-06-16 09:58:27.562464 senddata: Deleting local data.
+2015-06-16 09:58:28.780074 senddata: Data has been deleted.
+2015-06-16 10:00:41.569093 getlocaldata: conexao com banco local realizada
+2015-06-16 10:00:41.680800 getlocaldata: Loaded data from local database
+2015-06-16 10:00:41.686042 senddata: Sending samples to the server.
+2015-06-16 10:00:42.972094 senddata: All data has been sent to server. 
+2015-06-16 10:00:42.972378 senddata: Deleting local data.
+2015-06-16 10:00:43.009497 senddata: Data has been deleted.
+2015-06-16 10:08:25.621307 getlocaldata: conexao com banco local realizada
+2015-06-16 10:08:25.846261 getlocaldata: Loaded data from local database
+2015-06-16 10:08:25.851827 senddata: Sending samples to the server.
+2015-06-16 10:08:27.966619 senddata: All data has been sent to server. 
+2015-06-16 10:08:27.966902 senddata: Deleting local data.
+2015-06-16 10:08:28.549508 senddata: Data has been deleted.
+2015-06-16 10:10:41.683325 getlocaldata: conexao com banco local realizada
+2015-06-16 10:10:41.781165 getlocaldata: Loaded data from local database
+2015-06-16 10:10:41.786332 senddata: Sending samples to the server.
+2015-06-16 10:10:43.093253 senddata: All data has been sent to server. 
+2015-06-16 10:10:43.093539 senddata: Deleting local data.
+2015-06-16 10:10:43.132215 senddata: Data has been deleted.
+2015-06-16 10:18:25.753249 getlocaldata: conexao com banco local realizada
+2015-06-16 10:18:25.960873 getlocaldata: Loaded data from local database
+2015-06-16 10:18:25.966314 senddata: Sending samples to the server.
+2015-06-16 10:18:27.819408 senddata: All data has been sent to server. 
+2015-06-16 10:18:27.819695 senddata: Deleting local data.
+2015-06-16 10:18:29.223596 senddata: Data has been deleted.
+2015-06-16 10:20:41.850246 getlocaldata: conexao com banco local realizada
+2015-06-16 10:20:41.950919 getlocaldata: Loaded data from local database
+2015-06-16 10:20:41.955859 senddata: Sending samples to the server.
+2015-06-16 10:20:43.432469 senddata: All data has been sent to server. 
+2015-06-16 10:20:43.432754 senddata: Deleting local data.
+2015-06-16 10:20:43.468457 senddata: Data has been deleted.
+2015-06-16 10:28:24.675351 getlocaldata: conexao com banco local realizada
+2015-06-16 10:28:24.801178 getlocaldata: Loaded data from local database
+2015-06-16 10:28:24.806245 senddata: Sending samples to the server.
+2015-06-16 10:28:26.806222 senddata: All data has been sent to server. 
+2015-06-16 10:28:26.806508 senddata: Deleting local data.
+2015-06-16 10:28:26.897309 senddata: Data has been deleted.
+2015-06-16 10:30:41.637254 getlocaldata: conexao com banco local realizada
+2015-06-16 10:30:41.737663 getlocaldata: Loaded data from local database
+2015-06-16 10:30:41.763315 senddata: Sending samples to the server.
+2015-06-16 10:30:42.849392 senddata: All data has been sent to server. 
+2015-06-16 10:30:42.849681 senddata: Deleting local data.
+2015-06-16 10:30:44.852810 senddata: Data has been deleted.
+2015-06-16 10:38:25.873091 getlocaldata: conexao com banco local realizada
+2015-06-16 10:38:26.120772 getlocaldata: Loaded data from local database
+2015-06-16 10:38:26.125839 senddata: Sending samples to the server.
+2015-06-16 10:38:28.291307 senddata: All data has been sent to server. 
+2015-06-16 10:38:28.291590 senddata: Deleting local data.
+2015-06-16 10:38:28.356889 senddata: Data has been deleted.
+2015-06-16 10:40:41.743082 getlocaldata: conexao com banco local realizada
+2015-06-16 10:40:41.841054 getlocaldata: Loaded data from local database
+2015-06-16 10:40:41.846124 senddata: Sending samples to the server.
+2015-06-16 10:40:43.313339 senddata: All data has been sent to server. 
+2015-06-16 10:40:43.313736 senddata: Deleting local data.
+2015-06-16 10:40:43.348539 senddata: Data has been deleted.
+2015-06-16 10:48:25.781055 getlocaldata: conexao com banco local realizada
+2015-06-16 10:48:25.900962 getlocaldata: Loaded data from local database
+2015-06-16 10:48:25.906063 senddata: Sending samples to the server.
+2015-06-16 10:48:28.014260 senddata: All data has been sent to server. 
+2015-06-16 10:48:28.014543 senddata: Deleting local data.
+2015-06-16 10:48:28.091834 senddata: Data has been deleted.
+2015-06-16 10:50:42.031780 getlocaldata: conexao com banco local realizada
+2015-06-16 10:50:42.124404 getlocaldata: Loaded data from local database
+2015-06-16 10:50:42.147862 senddata: Sending samples to the server.
+2015-06-16 10:50:43.590980 senddata: All data has been sent to server. 
+2015-06-16 10:50:43.591260 senddata: Deleting local data.
+2015-06-16 10:50:43.639344 senddata: Data has been deleted.
+2015-06-16 10:58:25.994885 getlocaldata: conexao com banco local realizada
+2015-06-16 10:58:26.248639 getlocaldata: Loaded data from local database
+2015-06-16 10:58:26.264340 senddata: Sending samples to the server.
+2015-06-16 10:58:28.503440 senddata: All data has been sent to server. 
+2015-06-16 10:58:28.503724 senddata: Deleting local data.
+2015-06-16 10:58:28.572346 senddata: Data has been deleted.
+2015-06-16 11:00:41.930287 getlocaldata: conexao com banco local realizada
+2015-06-16 11:00:42.023745 getlocaldata: Loaded data from local database
+2015-06-16 11:00:42.028672 senddata: Sending samples to the server.
+2015-06-16 11:00:44.012190 senddata: All data has been sent to server. 
+2015-06-16 11:00:44.012473 senddata: Deleting local data.
+2015-06-16 11:00:44.056838 senddata: Data has been deleted.
+2015-06-16 11:08:25.521724 getlocaldata: conexao com banco local realizada
+2015-06-16 11:08:25.737284 getlocaldata: Loaded data from local database
+2015-06-16 11:08:25.750772 senddata: Sending samples to the server.
+2015-06-16 11:08:25.929434 senddata: Could not connect to server
+2015-06-16 11:10:42.342966 getlocaldata: conexao com banco local realizada
+2015-06-16 11:10:42.620884 getlocaldata: Loaded data from local database
+2015-06-16 11:10:42.626160 senddata: Sending samples to the server.
+2015-06-16 11:10:42.845687 senddata: Could not connect to server
+2015-06-16 11:18:26.288672 getlocaldata: conexao com banco local realizada
+2015-06-16 11:18:26.690951 getlocaldata: Loaded data from local database
+2015-06-16 11:18:26.696267 senddata: Sending samples to the server.
+2015-06-16 11:18:27.061679 senddata: Could not connect to server
+2015-06-16 11:20:42.295047 getlocaldata: conexao com banco local realizada
+2015-06-16 11:20:42.810606 getlocaldata: Loaded data from local database
+2015-06-16 11:20:42.815668 senddata: Sending samples to the server.
+2015-06-16 11:20:43.096519 senddata: Could not connect to server
+2015-06-16 11:30:41.200060 getlocaldata: conexao com banco local realizada
+2015-06-16 11:30:41.550846 getlocaldata: Loaded data from local database
+2015-06-16 11:30:41.556175 senddata: Sending samples to the server.
+2015-06-16 11:30:41.797676 senddata: Could not connect to server
+2015-06-16 11:40:41.294838 getlocaldata: conexao com banco local realizada
+2015-06-16 11:40:41.630778 getlocaldata: Loaded data from local database
+2015-06-16 11:40:41.635900 senddata: Sending samples to the server.
+2015-06-16 11:40:41.882919 senddata: Could not connect to server
+2015-06-16 11:50:41.356250 getlocaldata: conexao com banco local realizada
+2015-06-16 11:50:41.700829 getlocaldata: Loaded data from local database
+2015-06-16 11:50:41.706132 senddata: Sending samples to the server.
+2015-06-16 11:50:41.951927 senddata: Could not connect to server
+2015-06-16 12:00:41.450811 getlocaldata: conexao com banco local realizada
+2015-06-16 12:00:41.801406 getlocaldata: Loaded data from local database
+2015-06-16 12:00:41.806655 senddata: Sending samples to the server.
+2015-06-16 12:00:42.043751 senddata: Could not connect to server
+2015-06-16 12:10:41.532630 getlocaldata: conexao com banco local realizada
+2015-06-16 12:10:41.870768 getlocaldata: Loaded data from local database
+2015-06-16 12:10:41.875992 senddata: Sending samples to the server.
+2015-06-16 12:10:42.115574 senddata: Could not connect to server
+2015-06-16 12:20:41.591550 getlocaldata: conexao com banco local realizada
+2015-06-16 12:20:41.940082 getlocaldata: Loaded data from local database
+2015-06-16 12:20:41.945342 senddata: Sending samples to the server.
+2015-06-16 12:20:42.185627 senddata: Could not connect to server
+2015-06-16 12:30:41.619640 getlocaldata: conexao com banco local realizada
+2015-06-16 12:30:41.970828 getlocaldata: Loaded data from local database
+2015-06-16 12:30:41.976329 senddata: Sending samples to the server.
+2015-06-16 12:30:42.214747 senddata: Could not connect to server
+2015-06-16 12:40:41.707274 getlocaldata: conexao com banco local realizada
+2015-06-16 12:40:42.049770 getlocaldata: Loaded data from local database
+2015-06-16 12:40:42.054946 senddata: Sending samples to the server.
+2015-06-16 12:40:42.288917 senddata: Could not connect to server
+2015-06-16 12:50:41.783077 getlocaldata: conexao com banco local realizada
+2015-06-16 12:50:42.130912 getlocaldata: Loaded data from local database
+2015-06-16 12:50:42.136020 senddata: Sending samples to the server.
+2015-06-16 12:50:42.378512 senddata: Could not connect to server
+2015-06-16 13:00:41.884339 getlocaldata: conexao com banco local realizada
+2015-06-16 13:00:42.220822 getlocaldata: Loaded data from local database
+2015-06-16 13:00:42.225992 senddata: Sending samples to the server.
+2015-06-16 13:00:42.470928 senddata: Could not connect to server
+2015-06-16 13:10:41.944716 getlocaldata: conexao com banco local realizada
+2015-06-16 13:10:42.290834 getlocaldata: Loaded data from local database
+2015-06-16 13:10:42.296224 senddata: Sending samples to the server.
+2015-06-16 13:10:42.540851 senddata: Could not connect to server
+2015-06-16 13:20:41.977350 getlocaldata: conexao com banco local realizada
+2015-06-16 13:20:42.320765 getlocaldata: Loaded data from local database
+2015-06-16 13:20:42.325907 senddata: Sending samples to the server.
+2015-06-16 13:20:42.568104 senddata: Could not connect to server
+2015-06-16 13:30:42.083974 getlocaldata: conexao com banco local realizada
+2015-06-16 13:30:42.430451 getlocaldata: Loaded data from local database
+2015-06-16 13:30:42.435847 senddata: Sending samples to the server.
+2015-06-16 13:30:42.682196 senddata: Could not connect to server
+2015-06-16 13:40:42.182372 getlocaldata: conexao com banco local realizada
+2015-06-16 13:40:42.520768 getlocaldata: Loaded data from local database
+2015-06-16 13:40:42.526026 senddata: Sending samples to the server.
+2015-06-16 13:40:42.768828 senddata: Could not connect to server
+2015-06-16 13:50:42.270031 getlocaldata: conexao com banco local realizada
+2015-06-16 13:50:42.610784 getlocaldata: Loaded data from local database
+2015-06-16 13:50:42.616084 senddata: Sending samples to the server.
+2015-06-16 13:50:42.854724 senddata: Could not connect to server
+2015-06-16 14:00:42.307345 getlocaldata: conexao com banco local realizada
+2015-06-16 14:00:42.700911 getlocaldata: Loaded data from local database
+2015-06-16 14:00:42.706315 senddata: Sending samples to the server.
+2015-06-16 14:00:42.953019 senddata: Could not connect to server
+2015-06-16 14:10:42.343164 getlocaldata: conexao com banco local realizada
+2015-06-16 14:10:42.689937 getlocaldata: Loaded data from local database
+2015-06-16 14:10:42.695129 senddata: Sending samples to the server.
+2015-06-16 14:10:42.936477 senddata: Could not connect to server
+2015-06-16 14:20:42.411649 getlocaldata: conexao com banco local realizada
+2015-06-16 14:20:42.750851 getlocaldata: Loaded data from local database
+2015-06-16 14:20:42.756163 senddata: Sending samples to the server.
+2015-06-16 14:20:42.999772 senddata: Could not connect to server
+2015-06-16 14:30:42.451716 getlocaldata: conexao com banco local realizada
+2015-06-16 14:30:42.800773 getlocaldata: Loaded data from local database
+2015-06-16 14:30:42.806091 senddata: Sending samples to the server.
+2015-06-16 14:30:43.046474 senddata: Could not connect to server
+2015-06-16 14:40:42.542696 getlocaldata: conexao com banco local realizada
+2015-06-16 14:40:42.888417 getlocaldata: Loaded data from local database
+2015-06-16 14:40:42.893834 senddata: Sending samples to the server.
+2015-06-16 14:40:43.134151 senddata: Could not connect to server
+2015-06-16 14:50:42.593706 getlocaldata: conexao com banco local realizada
+2015-06-16 14:50:42.940703 getlocaldata: Loaded data from local database
+2015-06-16 14:50:42.946102 senddata: Sending samples to the server.
+2015-06-16 14:50:43.192262 senddata: Could not connect to server
+2015-06-16 15:00:42.642058 getlocaldata: conexao com banco local realizada
+2015-06-16 15:00:42.980852 getlocaldata: Loaded data from local database
+2015-06-16 15:00:42.986117 senddata: Sending samples to the server.
+2015-06-16 15:00:43.234400 senddata: Could not connect to server
+2015-06-16 15:10:42.739966 getlocaldata: conexao com banco local realizada
+2015-06-16 15:10:43.089052 getlocaldata: Loaded data from local database
+2015-06-16 15:10:43.094545 senddata: Sending samples to the server.
+2015-06-16 15:10:43.336021 senddata: Could not connect to server
+2015-06-16 15:20:42.839590 getlocaldata: conexao com banco local realizada
+2015-06-16 15:20:43.180793 getlocaldata: Loaded data from local database
+2015-06-16 15:20:43.186122 senddata: Sending samples to the server.
+2015-06-16 15:20:43.431353 senddata: Could not connect to server
+2015-06-16 15:30:42.930404 getlocaldata: conexao com banco local realizada
+2015-06-16 15:30:43.270832 getlocaldata: Loaded data from local database
+2015-06-16 15:30:43.275921 senddata: Sending samples to the server.
+2015-06-16 15:30:43.518337 senddata: Could not connect to server
+2015-06-16 15:40:43.037641 getlocaldata: conexao com banco local realizada
+2015-06-16 15:40:43.380824 getlocaldata: Loaded data from local database
+2015-06-16 15:40:43.386234 senddata: Sending samples to the server.
+2015-06-16 15:40:43.632772 senddata: Could not connect to server
+2015-06-16 15:50:43.084645 getlocaldata: conexao com banco local realizada
+2015-06-16 15:50:43.431145 getlocaldata: Loaded data from local database
+2015-06-16 15:50:43.436518 senddata: Sending samples to the server.
+2015-06-16 15:50:43.681631 senddata: Could not connect to server
+2015-06-16 16:00:43.117590 getlocaldata: conexao com banco local realizada
+2015-06-16 16:00:43.460927 getlocaldata: Loaded data from local database
+2015-06-16 16:00:43.466073 senddata: Sending samples to the server.
+2015-06-16 16:00:43.706919 senddata: Could not connect to server
+2015-06-16 16:10:43.212189 getlocaldata: conexao com banco local realizada
+2015-06-16 16:10:43.560080 getlocaldata: Loaded data from local database
+2015-06-16 16:10:43.565281 senddata: Sending samples to the server.
+2015-06-16 16:10:43.800045 senddata: Could not connect to server
+2015-06-16 16:20:43.318601 getlocaldata: conexao com banco local realizada
+2015-06-16 16:20:43.660829 getlocaldata: Loaded data from local database
+2015-06-16 16:20:43.666138 senddata: Sending samples to the server.
+2015-06-16 16:20:43.916780 senddata: Could not connect to server
+2015-06-16 16:30:43.333330 getlocaldata: conexao com banco local realizada
+2015-06-16 16:30:43.670868 getlocaldata: Loaded data from local database
+2015-06-16 16:30:43.681941 senddata: Sending samples to the server.
+2015-06-16 16:30:43.921910 senddata: Could not connect to server
+2015-06-16 16:40:43.409318 getlocaldata: conexao com banco local realizada
+2015-06-16 16:40:43.750787 getlocaldata: Loaded data from local database
+2015-06-16 16:40:43.755942 senddata: Sending samples to the server.
+2015-06-16 16:40:43.992239 senddata: Could not connect to server
+2015-06-16 16:50:43.511862 getlocaldata: conexao com banco local realizada
+2015-06-16 16:50:43.850826 getlocaldata: Loaded data from local database
+2015-06-16 16:50:43.856198 senddata: Sending samples to the server.
+2015-06-16 16:50:44.098103 senddata: Could not connect to server
+2015-06-16 17:00:43.568320 getlocaldata: conexao com banco local realizada
+2015-06-16 17:00:43.910778 getlocaldata: Loaded data from local database
+2015-06-16 17:00:43.915984 senddata: Sending samples to the server.
+2015-06-16 17:00:44.158307 senddata: Could not connect to server
+2015-06-16 17:10:43.645711 getlocaldata: conexao com banco local realizada
+2015-06-16 17:10:43.980801 getlocaldata: Loaded data from local database
+2015-06-16 17:10:43.986008 senddata: Sending samples to the server.
+2015-06-16 17:10:44.225645 senddata: Could not connect to server
+2015-06-16 17:20:43.672786 getlocaldata: conexao com banco local realizada
+2015-06-16 17:20:44.020257 getlocaldata: Loaded data from local database
+2015-06-16 17:20:44.025419 senddata: Sending samples to the server.
+2015-06-16 17:20:44.265376 senddata: Could not connect to server
+2015-06-16 17:30:43.752707 getlocaldata: conexao com banco local realizada
+2015-06-16 17:30:44.090812 getlocaldata: Loaded data from local database
+2015-06-16 17:30:44.096080 senddata: Sending samples to the server.
+2015-06-16 17:30:44.342975 senddata: Could not connect to server
+2015-06-16 17:40:43.833064 getlocaldata: conexao com banco local realizada
+2015-06-16 17:40:44.170781 getlocaldata: Loaded data from local database
+2015-06-16 17:40:44.176144 senddata: Sending samples to the server.
+2015-06-16 17:40:44.420003 senddata: Could not connect to server
+2015-06-16 17:50:43.895479 getlocaldata: conexao com banco local realizada
+2015-06-16 17:50:44.238236 getlocaldata: Loaded data from local database
+2015-06-16 17:50:44.243767 senddata: Sending samples to the server.
+2015-06-16 17:50:44.479471 senddata: Could not connect to server
+2015-06-16 18:00:44.001101 getlocaldata: conexao com banco local realizada
+2015-06-16 18:00:44.340834 getlocaldata: Loaded data from local database
+2015-06-16 18:00:44.345940 senddata: Sending samples to the server.
+2015-06-16 18:00:44.585334 senddata: Could not connect to server
+2015-06-16 18:10:44.072903 getlocaldata: conexao com banco local realizada
+2015-06-16 18:10:44.410874 getlocaldata: Loaded data from local database
+2015-06-16 18:10:44.416469 senddata: Sending samples to the server.
+2015-06-16 18:10:44.661891 senddata: Could not connect to server
+2015-06-16 18:20:44.089968 getlocaldata: conexao com banco local realizada
+2015-06-16 18:20:44.430950 getlocaldata: Loaded data from local database
+2015-06-16 18:20:44.436191 senddata: Sending samples to the server.
+2015-06-16 18:20:44.682024 senddata: Could not connect to server
+2015-06-16 18:30:44.191488 getlocaldata: conexao com banco local realizada
+2015-06-16 18:30:44.539683 getlocaldata: Loaded data from local database
+2015-06-16 18:30:44.545007 senddata: Sending samples to the server.
+2015-06-16 18:30:44.782981 senddata: Could not connect to server
+2015-06-16 18:40:44.288001 getlocaldata: conexao com banco local realizada
+2015-06-16 18:40:44.630867 getlocaldata: Loaded data from local database
+2015-06-16 18:40:44.636239 senddata: Sending samples to the server.
+2015-06-16 18:40:44.880962 senddata: Could not connect to server
+2015-06-16 18:50:44.365629 getlocaldata: conexao com banco local realizada
+2015-06-16 18:50:44.700870 getlocaldata: Loaded data from local database
+2015-06-16 18:50:44.706052 senddata: Sending samples to the server.
+2015-06-16 18:50:44.951531 senddata: Could not connect to server
+2015-06-16 19:00:44.494329 getlocaldata: conexao com banco local realizada
+2015-06-16 19:00:44.850849 getlocaldata: Loaded data from local database
+2015-06-16 19:00:44.856268 senddata: Sending samples to the server.
+2015-06-16 19:00:45.095034 senddata: Could not connect to server
+2015-06-16 19:10:44.507381 getlocaldata: conexao com banco local realizada
+2015-06-16 19:10:44.850855 getlocaldata: Loaded data from local database
+2015-06-16 19:10:44.856166 senddata: Sending samples to the server.
+2015-06-16 19:10:45.100201 senddata: Could not connect to server
+2015-06-16 19:20:44.568830 getlocaldata: conexao com banco local realizada
+2015-06-16 19:20:44.910855 getlocaldata: Loaded data from local database
+2015-06-16 19:20:44.916063 senddata: Sending samples to the server.
+2015-06-16 19:20:45.152704 senddata: Could not connect to server
+2015-06-16 19:30:44.593923 getlocaldata: conexao com banco local realizada
+2015-06-16 19:30:44.937467 getlocaldata: Loaded data from local database
+2015-06-16 19:30:44.943026 senddata: Sending samples to the server.
+2015-06-16 19:30:45.189916 senddata: Could not connect to server
+2015-06-16 19:40:44.638199 getlocaldata: conexao com banco local realizada
+2015-06-16 19:40:44.981179 getlocaldata: Loaded data from local database
+2015-06-16 19:40:44.986513 senddata: Sending samples to the server.
+2015-06-16 19:40:45.226029 senddata: Could not connect to server
+2015-06-16 19:50:44.734216 getlocaldata: conexao com banco local realizada
+2015-06-16 19:50:45.070892 getlocaldata: Loaded data from local database
+2015-06-16 19:50:45.076095 senddata: Sending samples to the server.
+2015-06-16 19:50:45.321956 senddata: Could not connect to server
+2015-06-16 20:00:44.821525 getlocaldata: conexao com banco local realizada
+2015-06-16 20:00:45.161028 getlocaldata: Loaded data from local database
+2015-06-16 20:00:45.166137 senddata: Sending samples to the server.
+2015-06-16 20:00:45.412102 senddata: Could not connect to server
+2015-06-16 20:10:44.882299 getlocaldata: conexao com banco local realizada
+2015-06-16 20:10:45.230413 getlocaldata: Loaded data from local database
+2015-06-16 20:10:45.235848 senddata: Sending samples to the server.
+2015-06-16 20:10:45.474177 senddata: Could not connect to server
+2015-06-16 20:20:44.938315 getlocaldata: conexao com banco local realizada
+2015-06-16 20:20:45.281053 getlocaldata: Loaded data from local database
+2015-06-16 20:20:45.286429 senddata: Sending samples to the server.
+2015-06-16 20:20:45.531694 senddata: Could not connect to server
+2015-06-16 20:30:45.047936 getlocaldata: conexao com banco local realizada
+2015-06-16 20:30:45.390954 getlocaldata: Loaded data from local database
+2015-06-16 20:30:45.398003 senddata: Sending samples to the server.
+2015-06-16 20:30:45.640128 senddata: Could not connect to server
+2015-06-16 20:40:45.100653 getlocaldata: conexao com banco local realizada
+2015-06-16 20:40:45.440921 getlocaldata: Loaded data from local database
+2015-06-16 20:40:45.446090 senddata: Sending samples to the server.
+2015-06-16 20:40:45.690546 senddata: Could not connect to server
+2015-06-16 20:50:45.159111 getlocaldata: conexao com banco local realizada
+2015-06-16 20:50:45.500769 getlocaldata: Loaded data from local database
+2015-06-16 20:50:45.506079 senddata: Sending samples to the server.
+2015-06-16 20:50:45.747080 senddata: Could not connect to server
+2015-06-16 21:00:45.215626 getlocaldata: conexao com banco local realizada
+2015-06-16 21:00:45.560855 getlocaldata: Loaded data from local database
+2015-06-16 21:00:45.566191 senddata: Sending samples to the server.
+2015-06-16 21:00:45.813251 senddata: Could not connect to server
+2015-06-16 21:10:45.302668 getlocaldata: conexao com banco local realizada
+2015-06-16 21:10:45.649389 getlocaldata: Loaded data from local database
+2015-06-16 21:10:45.654695 senddata: Sending samples to the server.
+2015-06-16 21:10:45.903143 senddata: Could not connect to server
+2015-06-16 21:20:45.341037 getlocaldata: conexao com banco local realizada
+2015-06-16 21:20:45.680836 getlocaldata: Loaded data from local database
+2015-06-16 21:20:45.686009 senddata: Sending samples to the server.
+2015-06-16 21:20:45.933317 senddata: Could not connect to server
+2015-06-16 21:30:45.351188 getlocaldata: conexao com banco local realizada
+2015-06-16 21:30:45.690846 getlocaldata: Loaded data from local database
+2015-06-16 21:30:45.696062 senddata: Sending samples to the server.
+2015-06-16 21:30:45.941704 senddata: Could not connect to server
+2015-06-16 21:40:45.435067 getlocaldata: conexao com banco local realizada
+2015-06-16 21:40:45.780807 getlocaldata: Loaded data from local database
+2015-06-16 21:40:45.785837 senddata: Sending samples to the server.
+2015-06-16 21:40:46.026580 senddata: Could not connect to server
+2015-06-16 21:50:45.531814 getlocaldata: conexao com banco local realizada
+2015-06-16 21:50:45.879537 getlocaldata: Loaded data from local database
+2015-06-16 21:50:45.884801 senddata: Sending samples to the server.
+2015-06-16 21:50:46.125143 senddata: Could not connect to server
+2015-06-16 22:00:45.595158 getlocaldata: conexao com banco local realizada
+2015-06-16 22:00:45.940624 getlocaldata: Loaded data from local database
+2015-06-16 22:00:45.946188 senddata: Sending samples to the server.
+2015-06-16 22:00:46.188261 senddata: Could not connect to server
+2015-06-16 22:10:45.663554 getlocaldata: conexao com banco local realizada
+2015-06-16 22:10:46.000966 getlocaldata: Loaded data from local database
+2015-06-16 22:10:46.006152 senddata: Sending samples to the server.
+2015-06-16 22:10:46.248543 senddata: Could not connect to server
+2015-06-16 22:20:45.751828 getlocaldata: conexao com banco local realizada
+2015-06-16 22:20:46.090914 getlocaldata: Loaded data from local database
+2015-06-16 22:20:46.096009 senddata: Sending samples to the server.
+2015-06-16 22:20:46.348409 senddata: Could not connect to server
+2015-06-16 22:30:45.820374 getlocaldata: conexao com banco local realizada
+2015-06-16 22:30:46.160829 getlocaldata: Loaded data from local database
+2015-06-16 22:30:46.172278 senddata: Sending samples to the server.
+2015-06-16 22:30:46.405226 senddata: Could not connect to server
+2015-06-16 22:40:45.919762 getlocaldata: conexao com banco local realizada
+2015-06-16 22:40:46.254107 getlocaldata: Loaded data from local database
+2015-06-16 22:40:46.266929 senddata: Sending samples to the server.
+2015-06-16 22:40:46.504853 senddata: Could not connect to server
+2015-06-16 22:50:45.982620 getlocaldata: conexao com banco local realizada
+2015-06-16 22:50:46.320887 getlocaldata: Loaded data from local database
+2015-06-16 22:50:46.326069 senddata: Sending samples to the server.
+2015-06-16 22:50:46.571681 senddata: Could not connect to server
+2015-06-16 23:00:46.078185 getlocaldata: conexao com banco local realizada
+2015-06-16 23:00:46.420832 getlocaldata: Loaded data from local database
+2015-06-16 23:00:46.426137 senddata: Sending samples to the server.
+2015-06-16 23:00:46.663041 senddata: Could not connect to server
+2015-06-16 23:10:46.107188 getlocaldata: conexao com banco local realizada
+2015-06-16 23:10:46.451306 getlocaldata: Loaded data from local database
+2015-06-16 23:10:46.456742 senddata: Sending samples to the server.
+2015-06-16 23:10:46.703731 senddata: Could not connect to server
+2015-06-16 23:20:46.159970 getlocaldata: conexao com banco local realizada
+2015-06-16 23:20:46.510981 getlocaldata: Loaded data from local database
+2015-06-16 23:20:46.516241 senddata: Sending samples to the server.
+2015-06-16 23:20:46.758518 senddata: Could not connect to server
+2015-06-16 23:30:46.220033 getlocaldata: conexao com banco local realizada
+2015-06-16 23:30:46.568031 getlocaldata: Loaded data from local database
+2015-06-16 23:30:46.592095 senddata: Sending samples to the server.
+2015-06-16 23:30:46.835482 senddata: Could not connect to server
+2015-06-16 23:40:46.269582 getlocaldata: conexao com banco local realizada
+2015-06-16 23:40:46.610795 getlocaldata: Loaded data from local database
+2015-06-16 23:40:46.616077 senddata: Sending samples to the server.
+2015-06-16 23:40:46.859903 senddata: Could not connect to server

@@ -1,0 +1,221 @@
+------------------------------------------------------------
+/usr/bin/pip run on Tue May 19 20:22:25 2015
+Downloading/unpacking urllib3
+
+  Getting page http://pypi.python.org/simple/urllib3
+  URLs to search for versions for urllib3:
+  * http://pypi.python.org/simple/urllib3/
+  Getting page http://pypi.python.org/simple/urllib3/
+  Analyzing links from page https://pypi.python.org/simple/urllib3/
+    Skipping link https://pypi.python.org/packages/py2/u/urllib3/urllib3-1.10-py2-none-any.whl#md5=09a6469f5029f9e37812ebf86579fa21 (from https://pypi.python.org/simple/urllib3/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/py2/u/urllib3/urllib3-1.10.1-py2-none-any.whl#md5=ac10657400063b1c6286d1df26f3ccab (from https://pypi.python.org/simple/urllib3/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/py2/u/urllib3/urllib3-1.10.2-py2-none-any.whl#md5=b889ff17dee521845f2c6446b975662e (from https://pypi.python.org/simple/urllib3/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/py2/u/urllib3/urllib3-1.10.3-py2-none-any.whl#md5=ae709e55fadd40ada64330ec4dad9d9e (from https://pypi.python.org/simple/urllib3/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/py2/u/urllib3/urllib3-1.10.4-py2-none-any.whl#md5=4910c50d33f6657ef051a2df3cd2f613 (from https://pypi.python.org/simple/urllib3/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/py2/u/urllib3/urllib3-1.9.1-py2-none-any.whl#md5=5b92e86b6482f1df664a42b7208ae918 (from https://pypi.python.org/simple/urllib3/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-0.3.tar.gz#md5=a6b2a75cef95b29c20a5f87a41f47296 (from https://pypi.python.org/simple/urllib3/), version: 0.3
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.0.1.tar.gz#md5=0cb196de48d13654c37a70a4cd73fc11 (from https://pypi.python.org/simple/urllib3/), version: 1.0.1
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.0.2.tar.gz#md5=75f129b9c8923d85d9b2e02e59522843 (from https://pypi.python.org/simple/urllib3/), version: 1.0.2
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.0.tar.gz#md5=f81b07c858ce6860480812724fabae12 (from https://pypi.python.org/simple/urllib3/), version: 1.0
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.1.tar.gz#md5=389fd9d231e613b571a91b459f50041f (from https://pypi.python.org/simple/urllib3/), version: 1.1
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.10.1.tar.gz#md5=820cae9eb984edc41dea504a56ec0267 (from https://pypi.python.org/simple/urllib3/), version: 1.10.1
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.10.2.tar.gz#md5=e5b04971d8e6a77b591284d407e810fb (from https://pypi.python.org/simple/urllib3/), version: 1.10.2
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.10.3.tar.gz#md5=82fd4811f6164fcac0f8e959843c4a63 (from https://pypi.python.org/simple/urllib3/), version: 1.10.3
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.10.4.tar.gz#md5=517e6c293e1d144ff3e67486d69249c6 (from https://pypi.python.org/simple/urllib3/), version: 1.10.4
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.10.tar.gz#md5=9badc8f09ea2d3c36cbb5071bfe52ebd (from https://pypi.python.org/simple/urllib3/), version: 1.10
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.2.1.tar.gz#md5=c6266e26ce8851862a7273bca850bee1 (from https://pypi.python.org/simple/urllib3/), version: 1.2.1
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.2.2.tar.gz#md5=76619fab345d8e66411e2fffe336be63 (from https://pypi.python.org/simple/urllib3/), version: 1.2.2
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.2.tar.gz#md5=e62d42006807308fea9556c17af8e250 (from https://pypi.python.org/simple/urllib3/), version: 1.2
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.3.tar.gz#md5=6ae9acdaee2628b1c8b1de25b7e6c9da (from https://pypi.python.org/simple/urllib3/), version: 1.3
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.4.tar.gz#md5=fd844d20f5f58ad63cee308b2999d9c4 (from https://pypi.python.org/simple/urllib3/), version: 1.4
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.5.tar.gz#md5=3ee4b375a095bb6098f1ed75f8058e48 (from https://pypi.python.org/simple/urllib3/), version: 1.5
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.6.tar.gz#md5=8ee95b963e151aba80de90ad1cc55487 (from https://pypi.python.org/simple/urllib3/), version: 1.6
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.7.1.tar.gz#md5=8b05bb2081379fe3c332542aa7c172f3 (from https://pypi.python.org/simple/urllib3/), version: 1.7.1
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.7.tar.gz#md5=a055b7f51b0c9ffadd7172c21b2885a3 (from https://pypi.python.org/simple/urllib3/), version: 1.7
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.8.2.tar.gz#md5=52f7513335dfd0943082cbb7400d693e (from https://pypi.python.org/simple/urllib3/), version: 1.8.2
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.8.3.tar.gz#md5=e94b812ff841fe4d3fda4536c82b1846 (from https://pypi.python.org/simple/urllib3/), version: 1.8.3
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.8.tar.gz#md5=d664781c08f98a83f28df087b6edfdca (from https://pypi.python.org/simple/urllib3/), version: 1.8
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.9.1.tar.gz#md5=c9358c5a85dd6aa3942f5121efed064d (from https://pypi.python.org/simple/urllib3/), version: 1.9.1
+    Found link https://pypi.python.org/packages/source/u/urllib3/urllib3-1.9.tar.gz#md5=e035f0ccbf37ac0e7c0ebbc190e666a1 (from https://pypi.python.org/simple/urllib3/), version: 1.9
+    Skipping link http://code.google.com/p/httplib2/ (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link http://code.google.com/p/urllib3/ (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link http://code.google.com/p/urllib3/source/browse/trunk/test/benchmark.py (from https://pypi.python.org/simple/urllib3/); unknown archive format: .py
+    Skipping link http://code.google.com/p/urllib3/wiki/Examples (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link http://docs.python-guide.org/en/latest/dev/virtualenvs/ (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link http://python-requests.org/ (from https://pypi.python.org/simple/urllib3/); not a file
+    Found link http://urllib3.googlecode.com/files/urllib3-0.2.tar.gz (from https://pypi.python.org/simple/urllib3/), version: 0.2
+    Found link http://urllib3.googlecode.com/files/urllib3-0.3.1.tar.gz (from https://pypi.python.org/simple/urllib3/), version: 0.3.1
+    Found link http://urllib3.googlecode.com/files/urllib3-0.3.tar.gz (from https://pypi.python.org/simple/urllib3/), version: 0.3
+    Found link http://urllib3.googlecode.com/files/urllib3-0.4.0.tar.gz (from https://pypi.python.org/simple/urllib3/), version: 0.4.0
+    Found link http://urllib3.googlecode.com/files/urllib3-0.4.1.tar.gz (from https://pypi.python.org/simple/urllib3/), version: 0.4.1
+    Skipping link http://urllib3.readthedocs.org (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link http://urllib3.readthedocs.org/ (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link http://urllib3.readthedocs.org/#connectionpool (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link http://urllib3.readthedocs.org/en/latest/#sponsorship (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link https://github.com/shazow/urllib3 (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link https://github.com/shazow/urllib3/blob/master/test/benchmark.py (from https://pypi.python.org/simple/urllib3/); unknown archive format: .py
+    Skipping link https://github.com/shazow/urllib3/issues (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link https://sourcegraph.com/search?q=package+urllib3 (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link https://travis-ci.org/shazow/urllib3 (from https://pypi.python.org/simple/urllib3/); not a file
+    Skipping link https://urllib3.readthedocs.org/en/latest/security.html (from https://pypi.python.org/simple/urllib3/); unknown archive format: .html
+    Skipping link https://www.bountysource.com/trackers/192525-urllib3?utm_source=192525&amp;amp;utm_medium=shield&amp;amp;utm_campaign=TRACKER_BADGE (from https://pypi.python.org/simple/urllib3/); not a file
+  Using version 1.10.4 (newest of versions: 1.10.4, 1.10.3, 1.10.2, 1.10.1, 1.10, 1.9.1, 1.9, 1.8.3, 1.8.2, 1.8, 1.7.1, 1.7, 1.6, 1.5, 1.4, 1.3, 1.2.2, 1.2.1, 1.2, 1.1, 1.0.2, 1.0.1, 1.0, 0.4.1, 0.4.0, 0.3.1, 0.3, 0.3, 0.2)
+  Downloading from URL https://pypi.python.org/packages/source/u/urllib3/urllib3-1.10.4.tar.gz#md5=517e6c293e1d144ff3e67486d69249c6 (from https://pypi.python.org/simple/urllib3/)
+  Running setup.py egg_info for package urllib3
+
+    running egg_info
+    creating pip-egg-info/urllib3.egg-info
+    writing pip-egg-info/urllib3.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/urllib3.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/urllib3.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/urllib3.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    
+
+    reading manifest file 'pip-egg-info/urllib3.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    warning: no previously-included files matching '*' found under directory 'docs/_build'
+
+    writing manifest file 'pip-egg-info/urllib3.egg-info/SOURCES.txt'
+Installing collected packages: urllib3
+
+  Running setup.py install for urllib3
+
+    Running command /usr/bin/python -c "import setuptools;__file__='/home/pi/build/urllib3/setup.py';exec(compile(open(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --single-version-externally-managed --record /tmp/pip-DPyrIU-record/install-record.txt
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-armv6l-2.7
+    creating build/lib.linux-armv6l-2.7/urllib3
+    copying urllib3/poolmanager.py -> build/lib.linux-armv6l-2.7/urllib3
+    copying urllib3/_collections.py -> build/lib.linux-armv6l-2.7/urllib3
+    copying urllib3/exceptions.py -> build/lib.linux-armv6l-2.7/urllib3
+    copying urllib3/request.py -> build/lib.linux-armv6l-2.7/urllib3
+    copying urllib3/connectionpool.py -> build/lib.linux-armv6l-2.7/urllib3
+    copying urllib3/fields.py -> build/lib.linux-armv6l-2.7/urllib3
+    copying urllib3/__init__.py -> build/lib.linux-armv6l-2.7/urllib3
+    copying urllib3/connection.py -> build/lib.linux-armv6l-2.7/urllib3
+    copying urllib3/response.py -> build/lib.linux-armv6l-2.7/urllib3
+    copying urllib3/filepost.py -> build/lib.linux-armv6l-2.7/urllib3
+    creating build/lib.linux-armv6l-2.7/urllib3/packages
+    copying urllib3/packages/six.py -> build/lib.linux-armv6l-2.7/urllib3/packages
+    copying urllib3/packages/ordered_dict.py -> build/lib.linux-armv6l-2.7/urllib3/packages
+    copying urllib3/packages/__init__.py -> build/lib.linux-armv6l-2.7/urllib3/packages
+    creating build/lib.linux-armv6l-2.7/urllib3/packages/ssl_match_hostname
+    copying urllib3/packages/ssl_match_hostname/_implementation.py -> build/lib.linux-armv6l-2.7/urllib3/packages/ssl_match_hostname
+    copying urllib3/packages/ssl_match_hostname/__init__.py -> build/lib.linux-armv6l-2.7/urllib3/packages/ssl_match_hostname
+    creating build/lib.linux-armv6l-2.7/urllib3/contrib
+    copying urllib3/contrib/pyopenssl.py -> build/lib.linux-armv6l-2.7/urllib3/contrib
+    copying urllib3/contrib/ntlmpool.py -> build/lib.linux-armv6l-2.7/urllib3/contrib
+    copying urllib3/contrib/__init__.py -> build/lib.linux-armv6l-2.7/urllib3/contrib
+    creating build/lib.linux-armv6l-2.7/urllib3/util
+    copying urllib3/util/request.py -> build/lib.linux-armv6l-2.7/urllib3/util
+    copying urllib3/util/retry.py -> build/lib.linux-armv6l-2.7/urllib3/util
+    copying urllib3/util/timeout.py -> build/lib.linux-armv6l-2.7/urllib3/util
+    copying urllib3/util/__init__.py -> build/lib.linux-armv6l-2.7/urllib3/util
+    copying urllib3/util/connection.py -> build/lib.linux-armv6l-2.7/urllib3/util
+    copying urllib3/util/url.py -> build/lib.linux-armv6l-2.7/urllib3/util
+    copying urllib3/util/response.py -> build/lib.linux-armv6l-2.7/urllib3/util
+    copying urllib3/util/ssl_.py -> build/lib.linux-armv6l-2.7/urllib3/util
+    running install_lib
+    creating /usr/local/lib/python2.7/dist-packages/urllib3
+    error: could not create '/usr/local/lib/python2.7/dist-packages/urllib3': Permission denied
+
+    Complete output from command /usr/bin/python -c "import setuptools;__file__='/home/pi/build/urllib3/setup.py';exec(compile(open(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --single-version-externally-managed --record /tmp/pip-DPyrIU-record/install-record.txt:
+
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-armv6l-2.7
+
+creating build/lib.linux-armv6l-2.7/urllib3
+
+copying urllib3/poolmanager.py -> build/lib.linux-armv6l-2.7/urllib3
+
+copying urllib3/_collections.py -> build/lib.linux-armv6l-2.7/urllib3
+
+copying urllib3/exceptions.py -> build/lib.linux-armv6l-2.7/urllib3
+
+copying urllib3/request.py -> build/lib.linux-armv6l-2.7/urllib3
+
+copying urllib3/connectionpool.py -> build/lib.linux-armv6l-2.7/urllib3
+
+copying urllib3/fields.py -> build/lib.linux-armv6l-2.7/urllib3
+
+copying urllib3/__init__.py -> build/lib.linux-armv6l-2.7/urllib3
+
+copying urllib3/connection.py -> build/lib.linux-armv6l-2.7/urllib3
+
+copying urllib3/response.py -> build/lib.linux-armv6l-2.7/urllib3
+
+copying urllib3/filepost.py -> build/lib.linux-armv6l-2.7/urllib3
+
+creating build/lib.linux-armv6l-2.7/urllib3/packages
+
+copying urllib3/packages/six.py -> build/lib.linux-armv6l-2.7/urllib3/packages
+
+copying urllib3/packages/ordered_dict.py -> build/lib.linux-armv6l-2.7/urllib3/packages
+
+copying urllib3/packages/__init__.py -> build/lib.linux-armv6l-2.7/urllib3/packages
+
+creating build/lib.linux-armv6l-2.7/urllib3/packages/ssl_match_hostname
+
+copying urllib3/packages/ssl_match_hostname/_implementation.py -> build/lib.linux-armv6l-2.7/urllib3/packages/ssl_match_hostname
+
+copying urllib3/packages/ssl_match_hostname/__init__.py -> build/lib.linux-armv6l-2.7/urllib3/packages/ssl_match_hostname
+
+creating build/lib.linux-armv6l-2.7/urllib3/contrib
+
+copying urllib3/contrib/pyopenssl.py -> build/lib.linux-armv6l-2.7/urllib3/contrib
+
+copying urllib3/contrib/ntlmpool.py -> build/lib.linux-armv6l-2.7/urllib3/contrib
+
+copying urllib3/contrib/__init__.py -> build/lib.linux-armv6l-2.7/urllib3/contrib
+
+creating build/lib.linux-armv6l-2.7/urllib3/util
+
+copying urllib3/util/request.py -> build/lib.linux-armv6l-2.7/urllib3/util
+
+copying urllib3/util/retry.py -> build/lib.linux-armv6l-2.7/urllib3/util
+
+copying urllib3/util/timeout.py -> build/lib.linux-armv6l-2.7/urllib3/util
+
+copying urllib3/util/__init__.py -> build/lib.linux-armv6l-2.7/urllib3/util
+
+copying urllib3/util/connection.py -> build/lib.linux-armv6l-2.7/urllib3/util
+
+copying urllib3/util/url.py -> build/lib.linux-armv6l-2.7/urllib3/util
+
+copying urllib3/util/response.py -> build/lib.linux-armv6l-2.7/urllib3/util
+
+copying urllib3/util/ssl_.py -> build/lib.linux-armv6l-2.7/urllib3/util
+
+running install_lib
+
+creating /usr/local/lib/python2.7/dist-packages/urllib3
+
+error: could not create '/usr/local/lib/python2.7/dist-packages/urllib3': Permission denied
+
+----------------------------------------
+
+Command /usr/bin/python -c "import setuptools;__file__='/home/pi/build/urllib3/setup.py';exec(compile(open(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --single-version-externally-managed --record /tmp/pip-DPyrIU-record/install-record.txt failed with error code 1 in /home/pi/build/urllib3
+
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 104, in main
+    status = self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 250, in run
+    requirement_set.install(install_options, global_options)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 1133, in install
+    requirement.install(install_options, global_options)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 577, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.7/dist-packages/pip/__init__.py", line 256, in call_subprocess
+    % (command_desc, proc.returncode, cwd))
+InstallationError: Command /usr/bin/python -c "import setuptools;__file__='/home/pi/build/urllib3/setup.py';exec(compile(open(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --single-version-externally-managed --record /tmp/pip-DPyrIU-record/install-record.txt failed with error code 1 in /home/pi/build/urllib3

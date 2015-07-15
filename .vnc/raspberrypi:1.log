@@ -1,0 +1,27 @@
+04/05/15 16:17:50 Xvnc version TightVNC-1.3.9
+04/05/15 16:17:50 Copyright (C) 2000-2007 TightVNC Group
+04/05/15 16:17:50 Copyright (C) 1999 AT&T Laboratories Cambridge
+04/05/15 16:17:50 All Rights Reserved.
+04/05/15 16:17:50 See http://www.tightvnc.com/ for information on TightVNC
+04/05/15 16:17:50 Desktop name 'X' (raspberrypi:1)
+04/05/15 16:17:50 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+04/05/15 16:17:50 Listening for VNC connections on TCP port 5901
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/home/pi/.Xresources'
+
+04/05/15 16:19:03 Got connection from client 192.168.0.105
+04/05/15 16:19:03 Using protocol version 3.8
+04/05/15 16:19:03 Enabling TightVNC protocol extensions
+04/05/15 16:19:10 Full-control authentication passed by 192.168.0.105
+04/05/15 16:19:11 Pixel format for client 192.168.0.105:
+04/05/15 16:19:11   32 bpp, depth 24, little endian
+04/05/15 16:19:11   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+04/05/15 16:19:11   no translation needed
+04/05/15 16:19:11 Using tight encoding for client 192.168.0.105
+04/05/15 16:19:11 Using compression level 1 for client 192.168.0.105
+04/05/15 16:19:11 Using image quality level 6 for client 192.168.0.105
+04/05/15 16:19:11 Enabling X-style cursor updates for client 192.168.0.105
+04/05/15 16:19:11 Enabling cursor position updates for client 192.168.0.105
+04/05/15 16:19:11 Enabling LastRect protocol extension for client 192.168.0.105

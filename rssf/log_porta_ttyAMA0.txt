@@ -1,0 +1,328 @@
+2015-06-15 20:24:15.610532 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:15.935735 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:16.001674 insertlocaldata: Save data from local database
+2015-06-15 20:24:16.026255 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:16.334260 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:16.400869 insertlocaldata: Save data from local database
+2015-06-15 20:24:16.425510 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:16.732575 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:16.800908 insertlocaldata: Save data from local database
+2015-06-15 20:24:16.824945 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:17.134232 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:17.200079 insertlocaldata: Save data from local database
+2015-06-15 20:24:17.223645 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:17.531687 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:17.597887 insertlocaldata: Save data from local database
+2015-06-15 20:24:17.622114 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:17.931451 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:17.998132 insertlocaldata: Save data from local database
+2015-06-15 20:24:18.021706 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:18.332559 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:18.398172 insertlocaldata: Save data from local database
+2015-06-15 20:24:18.421808 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:18.730093 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:18.795793 insertlocaldata: Save data from local database
+2015-06-15 20:24:18.818415 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:19.130719 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:19.196987 insertlocaldata: Save data from local database
+2015-06-15 20:24:19.221978 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:19.528300 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:19.594228 insertlocaldata: Save data from local database
+2015-06-15 20:24:19.617141 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:19.928628 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:19.994146 insertlocaldata: Save data from local database
+2015-06-15 20:24:20.016267 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:20.327754 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:20.393760 insertlocaldata: Save data from local database
+2015-06-15 20:24:20.416457 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:20.725281 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:20.791195 insertlocaldata: Save data from local database
+2015-06-15 20:24:20.815944 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:21.123806 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:21.192784 insertlocaldata: Save data from local database
+2015-06-15 20:24:21.217788 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:21.523982 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:21.590502 insertlocaldata: Save data from local database
+2015-06-15 20:24:21.613117 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:21.923700 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:21.990390 insertlocaldata: Save data from local database
+2015-06-15 20:24:22.012894 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:22.322807 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:22.389807 insertlocaldata: Save data from local database
+2015-06-15 20:24:22.414422 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:22.721122 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:22.787217 insertlocaldata: Save data from local database
+2015-06-15 20:24:22.812000 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:23.121085 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:23.187248 insertlocaldata: Save data from local database
+2015-06-15 20:24:23.212022 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:23.518446 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:23.586002 insertlocaldata: Save data from local database
+2015-06-15 20:24:23.608612 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:23.917857 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:23.999434 insertlocaldata: Save data from local database
+2015-06-15 20:24:24.021686 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:24.331155 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:24.397436 insertlocaldata: Save data from local database
+2015-06-15 20:24:24.421818 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:24.729743 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:24.796443 insertlocaldata: Save data from local database
+2015-06-15 20:24:24.818899 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:25.130816 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:25.197510 insertlocaldata: Save data from local database
+2015-06-15 20:24:25.222115 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:25.529017 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:25.595610 insertlocaldata: Save data from local database
+2015-06-15 20:24:25.618220 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:25.927381 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:25.995735 insertlocaldata: Save data from local database
+2015-06-15 20:24:26.018221 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:26.327173 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:26.396228 insertlocaldata: Save data from local database
+2015-06-15 20:24:26.418701 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:26.731165 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:26.797770 insertlocaldata: Save data from local database
+2015-06-15 20:24:26.818674 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:27.131779 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:27.198047 insertlocaldata: Save data from local database
+2015-06-15 20:24:27.221652 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:27.530396 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:27.596321 insertlocaldata: Save data from local database
+2015-06-15 20:24:27.618901 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:27.931151 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:27.999807 insertlocaldata: Save data from local database
+2015-06-15 20:24:28.018958 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:28.331889 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:28.400021 insertlocaldata: Save data from local database
+2015-06-15 20:24:28.422466 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:28.731072 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:28.798669 insertlocaldata: Save data from local database
+2015-06-15 20:24:28.823361 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:29.131787 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:29.198958 insertlocaldata: Save data from local database
+2015-06-15 20:24:29.223686 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:29.530192 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:29.596740 insertlocaldata: Save data from local database
+2015-06-15 20:24:29.621636 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:29.928713 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:30.009550 insertlocaldata: Save data from local database
+2015-06-15 20:24:30.031778 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:30.341502 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:30.408120 insertlocaldata: Save data from local database
+2015-06-15 20:24:30.431721 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:30.740124 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:30.806290 insertlocaldata: Save data from local database
+2015-06-15 20:24:30.828595 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:31.138591 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:31.204667 insertlocaldata: Save data from local database
+2015-06-15 20:24:31.227168 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/712
+2015-06-15 20:24:31.536990 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:31.606817 insertlocaldata: Save data from local database
+2015-06-15 20:24:31.631767 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:31.938428 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:32.007006 insertlocaldata: Save data from local database
+2015-06-15 20:24:32.031868 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:32.338369 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:32.404619 insertlocaldata: Save data from local database
+2015-06-15 20:24:32.429759 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:32.736974 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:32.803159 insertlocaldata: Save data from local database
+2015-06-15 20:24:32.825792 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:33.136588 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:33.202442 insertlocaldata: Save data from local database
+2015-06-15 20:24:33.224885 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:33.533544 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:33.600025 insertlocaldata: Save data from local database
+2015-06-15 20:24:33.622956 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:33.932568 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:34.000838 insertlocaldata: Save data from local database
+2015-06-15 20:24:34.023309 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:34.332163 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:34.398397 insertlocaldata: Save data from local database
+2015-06-15 20:24:34.421817 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:34.729855 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:34.796359 insertlocaldata: Save data from local database
+2015-06-15 20:24:34.818818 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:35.129514 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:35.195629 insertlocaldata: Save data from local database
+2015-06-15 20:24:35.216634 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:35.527968 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:35.593847 insertlocaldata: Save data from local database
+2015-06-15 20:24:35.616459 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:35.924944 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:36.006351 insertlocaldata: Save data from local database
+2015-06-15 20:24:36.028632 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:36.388139 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:38.717969 insertlocaldata: Save data from local database
+2015-06-15 20:24:38.742633 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:39.050661 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:41.499356 insertlocaldata: Save data from local database
+2015-06-15 20:24:41.514043 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:41.820530 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:41.886491 insertlocaldata: Save data from local database
+2015-06-15 20:24:41.911944 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:42.223609 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:42.290504 insertlocaldata: Save data from local database
+2015-06-15 20:24:42.313227 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:42.622622 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:42.690680 insertlocaldata: Save data from local database
+2015-06-15 20:24:42.713135 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/712
+2015-06-15 20:24:43.024893 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:43.097894 insertlocaldata: Save data from local database
+2015-06-15 20:24:43.123184 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:43.433347 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:43.500004 insertlocaldata: Save data from local database
+2015-06-15 20:24:43.522395 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:43.833864 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:43.900151 insertlocaldata: Save data from local database
+2015-06-15 20:24:43.922479 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:44.233932 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:45.079068 insertlocaldata: Save data from local database
+2015-06-15 20:24:45.101854 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:45.410724 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:45.477268 insertlocaldata: Save data from local database
+2015-06-15 20:24:45.502014 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:45.808521 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:45.874626 insertlocaldata: Save data from local database
+2015-06-15 20:24:45.896873 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:46.207237 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:46.273758 insertlocaldata: Save data from local database
+2015-06-15 20:24:46.295977 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/601/713
+2015-06-15 20:24:46.605167 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:46.671789 insertlocaldata: Save data from local database
+2015-06-15 20:24:46.693899 frame: 
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 0/600/713
+2015-06-15 20:24:47.004203 insertlocaldata: conexao com banco local realizada
+2015-06-15 20:24:47.070352 insertlocaldata: Save data from local database
+2015-06-15 20:24:47.092852 frame: 
+SN: 0013a2004089bfbf
+Campos do fra

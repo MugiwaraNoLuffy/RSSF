@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<histoqueries>
+ <histoquery>DELETE FROM amostra
+</histoquery>
+ <histoquery>select pg_get_serial_sequence('amostra', 'idamostra');
+</histoquery>
+ <histoquery>ALTER SEQUENCE public.amostra_idamostra_seq RESTART WITH 1;
+</histoquery>
+ <histoquery>DELETE FROM amostra;
+</histoquery>
+ <histoquery>select pg_get_serial_sequence('amostra', 'idamostra');
+</histoquery>
+ <histoquery>ALTER SEQUENCE public.amostra_idamostra_seq RESTART WITH 1;
+</histoquery>
+ <histoquery>DELETE FROM amostra;
+</histoquery>
+ <histoquery>select pg_get_serial_sequence('amostra', 'idamostra');</histoquery>
+ <histoquery>ALTER SEQUENCE public.amostra_idamostra_seq RESTART WITH 1;</histoquery>
+ <histoquery>SELECT 
+  no.idno, 
+  sensor.idtipo_fk, 
+  tipo.idtipo, 
+  sensor.idno_fk, 
+  sensor.idsensor, 
+  amostra.idsensor_fk
+FROM 
+  public.amostra, 
+  public.no, 
+  public.sensor, 
+  public.tipo
+WHERE 
+  no.idno = sensor.idno_fk AND
+  sensor.idtipo_fk = tipo.idtipo AND
+  sensor.idsensor = amostra.idsensor_fk;
+</histoquery>
+</histoqueries>

@@ -1,0 +1,1207 @@
+
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/660/708
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/653/718
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/654/718
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/666/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/654/717
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/654/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/660/708
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/666/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/655/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/666/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 34/655/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/660/710
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 34/655/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/666/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/660/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/656/715
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/656/714
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/656/714
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 33/657/714
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/657/713
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 34/657/712
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 33/657/712
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/657/712
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/658/711
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/658/710
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/658/710
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 34/658/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/658/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/715
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/659/708
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/661/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/715
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 34/659/708
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/667/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/715
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/667/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/659/707
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 34/659/707
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 30/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 19/662/710
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 18/662/710
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/659/707
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 37/660/706
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/710
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/660/706
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/662/709
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/660/705
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/660/705
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 37/660/704
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/662/709
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/661/704
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/662/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/661/704
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/668/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/663/709
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 37/661/703
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 37/661/702
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 36/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 36/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/669/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/661/702
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/662/702
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/663/709
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 36/662/701
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/662/701
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 35/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 31/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 34/669/716
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 35/662/700
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 30/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 32/663/709
+SN: 0013a2004089bfbf
+Campos do frame(lumi/temp/humi): 33/663/709
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/668/698
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/668/692
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/687
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/682
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/666/678
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/666/674
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/666/672
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/666/670
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/666/669
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/666/668
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/666/668
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/666/667
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/666/666
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/666
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/666
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/665
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/665
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/664
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/664
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/664
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/668/663
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/662
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/661
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/668/661
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/667/660
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/668/660
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/668/659
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/668/659
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/668/660
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/668/659
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/668/659
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/668/659
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/658
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/657
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/656
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/656
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/656
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/655
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/655
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/654
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/653
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/651
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/651
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/650
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/650
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/671/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/645
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/645
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/645
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/645
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/645
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/650
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/650
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/650
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/650
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/651
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/650
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/650
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/650
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/650
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/649
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/648
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/645
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/644
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/644
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/644
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/645
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/645
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/670/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/646
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/647
+SN: 0013a2004078ecdd
+Campos do frame(lumi/temp/humi): 0/669/647

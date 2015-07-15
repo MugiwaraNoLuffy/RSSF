@@ -1,0 +1,179 @@
+2015-05-08 22:00:42 ERROR  : Error connecting to the server: FATAL:  Peer authentication failed for user "postgres"
+
+2015-05-08 22:06:23 ERROR  : Error connecting to the server: fe_sendauth: no password supplied
+
+2015-05-08 22:07:13 ERROR  : Error connecting to the server: fe_sendauth: no password supplied
+
+2015-05-11 20:04:45 ERROR  : ERROR:  syntax error at or near "`"
+LINE 29: CREATE TABLE IF NOT EXISTS `Amostra` (
+                                    ^
+2015-05-11 20:05:41 ERROR  : ERROR:  syntax error at or near "'Amostra'"
+LINE 29: CREATE TABLE IF NOT EXISTS 'Amostra' (
+                                    ^
+2015-05-11 20:15:10 ERROR  : ERROR:  syntax error at or near "`"
+LINE 3: idAmostra` int(11) NOT NULL,
+                 ^
+2015-05-11 20:15:43 ERROR  : ERROR:  syntax error at or near "'idAmostra'"
+LINE 3:   'idAmostra' int(11) NOT NULL,
+          ^
+2015-05-11 20:22:23 ERROR  : ERROR:  syntax error at or near "`"
+LINE 1: CREATE TABLE IF NOT EXISTS `Amostra` (
+                                   ^
+2015-05-11 20:23:33 ERROR  : ERROR:  syntax error at or near "("
+LINE 2: "idAmostra" int(11) NOT NULL,
+                       ^
+2015-05-11 20:25:25 ERROR  : ERROR:  syntax error at or near "("
+LINE 2:   idAmostra int(11) NOT NULL,
+                       ^
+2015-05-11 20:25:42 ERROR  : ERROR:  syntax error at or near "("
+LINE 2:   idAmostra integer(11) NOT NULL,
+                           ^
+2015-05-11 20:26:33 ERROR  : ERROR:  syntax error at or near "("
+LINE 3:   idSensor integer(11) NOT NULL,
+                          ^
+2015-05-11 20:28:50 ERROR  : ERROR:  syntax error at or near "("
+LINE 3:   idSensor integer (11) not null,
+                           ^
+2015-05-11 20:29:05 ERROR  : ERROR:  syntax error at or near "nul"
+LINE 5:   timestamp timestamp not nul DEFAULT CURRENT_TIMESTAMP
+                                  ^
+2015-05-11 20:29:13 ERROR  : ERROR:  syntax error at or near "c"
+LINE 6: )c
+         ^
+2015-05-11 20:37:16 ERROR  : ERROR:  type "seral" does not exist
+LINE 2:   idTipo seral primary key NOT NULL,
+                 ^
+2015-05-11 20:53:22 ERROR  : ERROR:  syntax error at or near "primry"
+LINE 2: id_pk seria primry key NOT NULL,
+                    ^
+2015-05-11 20:53:29 ERROR  : ERROR:  syntax error at or near "reference"
+LINE 5: foreign key (idNo_fk) reference no(id_pk),
+                              ^
+2015-05-11 20:53:45 ERROR  : ERROR:  syntax error at or near ")"
+LINE 8: );
+        ^
+2015-05-11 20:53:58 ERROR  : ERROR:  syntax error at or near ")"
+LINE 8: )
+        ^
+2015-05-11 20:54:06 ERROR  : ERROR:  type "seria" does not exist
+LINE 2: id_pk seria primary key NOT NULL,
+              ^
+2015-05-11 20:54:13 ERROR  : ERROR:  type "intege" does not exist
+LINE 3: idNo_fk intege NOT NULL,
+                ^
+2015-05-11 20:54:26 ERROR  : ERROR:  column "id_pk" referenced in foreign key constraint does not exist
+2015-05-11 20:55:16 ERROR  : ERROR:  syntax error at or near "CREATE"
+LINE 2: CREATE TABLE Sensor (
+        ^
+2015-05-11 20:55:31 ERROR  : ERROR:  syntax error at or near "UPDATE"
+LINE 2: UPDATE TABLE Sensor (
+        ^
+2015-05-11 20:56:00 ERROR  : ERROR:  syntax error at or near "CREATE"
+LINE 2: CREATE TABLE Sensor (
+        ^
+2015-05-11 20:56:50 ERROR  : ERROR:  syntax error at or near "CREATE"
+LINE 2: CREATE TABLE Sensor(
+        ^
+2015-05-11 20:57:30 ERROR  : ERROR:  syntax error at or near "CREATE"
+LINE 3: CREATE TABLE sensor(
+        ^
+2015-05-11 20:58:02 ERROR  : ERROR:  syntax error at or near "create"
+LINE 3: create table sensor(
+        ^
+2015-05-11 20:58:19 ERROR  : ERROR:  column "id_pk" referenced in foreign key constraint does not exist
+2015-05-11 20:59:44 ERROR  : ERROR:  column "id_pk" referenced in foreign key constraint does not exist
+2015-05-11 21:09:55 ERROR  : ERROR:  column "id_pk" referenced in foreign key constraint does not exist
+2015-05-11 22:18:23 ERROR  : ERROR:  syntax error at or near "integer"
+LINE 3:    id_pk serial integer NOT NULL
+                        ^
+2015-05-11 22:20:46 ERROR  : ERROR:  syntax error at or near "primry"
+LINE 2: id_pk serial primry key NOT NULL,
+                     ^
+2015-05-11 22:20:51 ERROR  : ERROR:  syntax error at or near "`"
+LINE 4: valor`integer NOT NULL,
+             ^
+2015-05-13 17:49:54 ERROR  : ERROR:  missing FROM-clause entry for table "amostra"
+LINE 1: select amostra.id_pk from sensor
+               ^
+2015-05-13 17:52:17 ERROR  : ERROR:  missing FROM-clause entry for table "sesor"
+LINE 1: select sesor.id_pk from sensor
+               ^
+2015-05-13 17:52:23 ERROR  : ERROR:  column sensor.idtipo does not exist
+LINE 3:  where no.serial = '013a204078ecd' and sensor.idTipo=2
+                                               ^
+2015-05-13 18:39:19 ERROR  : ERROR:  column reference "id_pk" is ambiguous
+LINE 1: select id_pk from sensor
+               ^
+2015-05-13 18:39:42 ERROR  : ERROR:  syntax error at or near "."
+LINE 1: select .id_pk from sensor
+               ^
+2015-05-13 18:50:02 ERROR  : ERROR:  syntax error at or near "auto_increment"
+LINE 1: alter table tipo auto_increment=1
+                         ^
+2015-05-13 18:51:46 ERROR  : ERROR:  relation "id_pk" does not exist
+2015-05-13 18:55:11 ERROR  : ERROR:  syntax error at or near "ModelName"
+LINE 1: ModelName.connection.execute('ALTER SEQUENCE model_name_id_s...
+        ^
+2015-05-13 18:56:31 ERROR  : ERROR:  relation "tipo_id_seq" does not exist
+2015-05-13 18:56:43 ERROR  : ERROR:  relation "tipo_id_pk_seq" does not exist
+2015-05-13 18:58:40 ERROR  : ERROR:  relation "idtipo_seq" does not exist
+2015-05-13 19:00:04 ERROR  : ERROR:  column "id" of relation "tipo" does not exist
+2015-05-13 19:01:11 ERROR  : ERROR:  relation "public.tipo_idtipo" does not exist
+2015-05-13 19:01:45 ERROR  : ERROR:  relation "tipo_idtipo" does not exist
+2015-05-13 19:16:33 ERROR  : ERROR:  syntax error at or near "RENAME"
+LINE 1: RENAME [COLUMN] amostra.id_pk TO amostra.idamostra
+        ^
+2015-05-13 19:17:34 ERROR  : ERROR:  syntax error at or near "["
+LINE 1: ALTER TABLE [ONLY] amostra [*]
+                    ^
+2015-05-13 19:17:48 ERROR  : ERROR:  syntax error at or near "["
+LINE 1: ALTER TABLE [ONLY] amostra [*]
+                    ^
+2015-05-13 19:20:45 ERROR  : ERROR:  null value in column "valor" violates not-null constraint
+2015-05-13 19:20:52 ERROR  : ERROR:  insert or update on table "amostra" violates foreign key constraint "amostra_idsensor_fk_fkey"
+DETAIL:  Key (idsensor_fk)=(1) is not present in table "sensor".
+2015-05-13 19:22:05 ERROR  : ERROR:  cannot drop table no because other objects depend on it
+DETAIL:  constraint sensor_idno_fk_fkey on table sensor depends on table no
+HINT:  Use DROP ... CASCADE to drop the dependent objects too.
+2015-05-13 19:23:09 ERROR  : ERROR:  syntax error at or near "TABLE"
+LINE 1: ...ABLE amostra RENAME COLUMN id_pk TO idamostraCREATE TABLE no
+                                                               ^
+2015-05-13 19:23:30 ERROR  : ERROR:  syntax error at or near "CREATE"
+LINE 12: CREATE TABLE tipo
+         ^
+2015-05-13 19:24:16 ERROR  : ERROR:  column "id_pk" named in key does not exist
+LINE 9:   CONSTRAINT no_pkey PRIMARY KEY (id_pk )
+          ^
+2015-05-13 19:25:09 ERROR  : ERROR:  syntax error at or near "CREATE"
+LINE 10: CREATE TABLE Sensor (
+         ^
+2015-05-13 20:15:40 ERROR  : Error connecting to the server: FATAL:  Peer authentication failed for user "postgres"
+
+2015-05-13 23:31:52 ERROR  : ERROR:  null value in column "idtipo_fk" violates not-null constraint
+2015-05-19 23:48:51 ERROR  : ERROR:  duplicate key value violates unique constraint "sensor_pkey"
+DETAIL:  Key (idsensor)=(6) already exists.
+2015-05-19 23:48:55 ERROR  : ERROR:  duplicate key value violates unique constraint "sensor_pkey"
+DETAIL:  Key (idsensor)=(6) already exists.
+2015-05-19 23:48:58 ERROR  : ERROR:  duplicate key value violates unique constraint "sensor_pkey"
+DETAIL:  Key (idsensor)=(6) already exists.
+2015-06-14 11:45:31 ERROR  : ERROR:  argument of WHERE must be type boolean, not type integer
+LINE 2:  WHERE 1;
+               ^
+2015-06-14 11:45:48 ERROR  : ERROR:  syntax error at or near ";"
+LINE 2:  WHERE ;
+               ^
+2015-06-14 11:45:56 ERROR  : ERROR:  syntax error at or near "*"
+LINE 2:  WHERE *;
+               ^
+2015-06-14 11:46:51 ERROR  : ERROR:  "amostra" is not a sequence
+2015-06-14 11:46:59 ERROR  : ERROR:  syntax error at or near "'amostra'"
+LINE 1: ALTER SEQUENCE 'amostra' RESTART WITH 1;
+                       ^
+2015-06-14 11:47:08 ERROR  : ERROR:  "amostra" is not a sequence
+2015-06-14 11:47:47 ERROR  : ERROR:  relation "id_fk" does not exist
+2015-06-14 11:49:36 ERROR  : ERROR:  column "id" of relation "amostra" does not exist
+2015-06-14 11:49:44 ERROR  : ERROR:  column "id_fk" of relation "amostra" does not exist
+2015-06-14 11:49:52 ERROR  : ERROR:  column "id_pk" of relation "amostra" does not exist
+2015-06-14 11:50:30 ERROR  : ERROR:  column "idamostr" of relation "amostra" does not exist
+2015-06-14 12:01:07 ERROR  : ERROR:  relation "product" does not exist
+2015-06-14 12:01:11 ERROR  : ERROR:  relation "amotra" does not exist

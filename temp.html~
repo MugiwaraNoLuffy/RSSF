@@ -1,0 +1,92 @@
+#!DOCTYPE HTML
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script> 
+<script>
+var url="www.mdecarvalho.com/RSSF/scripts/getdata.php";
+function handleClick(){
+
+       var dataToBeSent = $(intervalo").serialize();
+
+ 
+       $.post(url, dataToBeSent, geraTabela, "json");
+      }
+
+function geraTabela(data){
+
+	var tabelaData = 
+		'<table id="tabelaDataSensores" style="font-size: 14px; border-radius: 10px;">\
+			<tr style=" font-weight: 900 ;padding: 7px; background-color: gray; color: white;">\
+			<td style=" padding: 7px;">No</td>\
+			<td style=" padding: 7px;">Tipo</td>\
+			<td style=" padding: 7px;">Valor</td>\
+			<td style=" padding: 7px;">Timestamp</td>\
+		</tr>';
+
+	var background = "white";
+	var font = "black";
+
+	for(var i=0; i<data.length; i++)
+	{
+		tabelaData=tabelaData+'<tr style=" font-weight: 800 ;padding: 7px; background-color: ' +background+'; color:'+font+';">\	
+			<td style=" padding: 7px;">' +data[i].name+'</td>\
+			<td style="padding: 7px">'+data[i].tipo+'</td>\
+			<td style="padding: 7px">'+data[i].valor+'</td>\
+			<td style="padding: 7px">'+data[i].timestamp+'</td>\
+		</tr>';
+	}
+	tabelaData =tabelaData+"</table>";
+	document.getElementById("tabela").innerHTML = tabelaData;
+
+//$("#topFlows, td").css({"border": "2px solid #aaaaaa"});
+//$("#topFlows").css({"z-index": "3"});
+}
+</script>
+<head>
+<body>
+<form name="intervalo" onSubmit="return handleClick()">
+
+Defina a data para visualizar os dados<br>
+
+Inicio:
+
+  <input type="date" name="inicio">
+
+Fim:
+
+  <input type="date" name="fim"><br>
+
+Defina o intervalo<br>
+
+Inicio:
+
+  <input type="time" name="time_inicio">
+
+Fim:
+
+  <input type="time" name="time_fim"><br>
+
+Selecione o tipo: 
+
+<select>
+
+ <option value="Todos">todos</option>
+
+  <option value="luminosidade">luminosidade</option>
+
+  <option value="temperatura">temperatura</option>
+
+  <option value="umidade">umidade</option>
+
+</select>
+
+  <input name ="Submit" type="submit" />
+
+</form>
+
+<div id="tabela"></div>
+
+</body>
+</html>
